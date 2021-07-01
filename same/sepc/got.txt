@@ -1,0 +1,253 @@
+accessibility.chat.tts.textboxTitle options.chat.visibility
+accessibility.saving.done gui.done
+accessibility.loading.done gui.done
+action.interact.edit selectWorld.edit selectServer.edit
+attribute.name.minecraft:movement attribute.name.generic.movement_speed
+book.signButton book.signButton
+chalkboardScreen.locked filled_map.locked
+chat.title options.accessibility.text_background.chat
+craftingScreen.tab.survival container.inventory
+craftingScreen.tab.search gui.all
+chestScreen.header.small container.chest
+color.black color.minecraft.black
+color.yellow color.minecraft.yellow
+color.green color.minecraft.green
+color.red color.minecraft.red
+color.gray color.minecraft.gray
+color.white color.minecraft.white
+color.blue color.minecraft.blue
+commandBlockScreen.blockType.chain block.minecraft.chain
+container.brewing container.brewing
+container.chest container.chest
+container.dropper container.dropper
+container.enderchest container.enderchest
+container.beacon container.beacon
+container.dispenser container.dispenser
+container.furnace container.furnace
+container.stonecutter container.stonecutter
+container.inventory container.inventory
+container.stonecutter_block container.stonecutter_block
+container.minecart item.minecraft.minecart entity.minecraft.minecart
+container.shulkerbox container.shulkerbox
+container.loom container.loom
+container.barrel container.barrel
+createWorld.customize.custom.next createWorld.customize.custom.next
+createWorld.customize.custom.useCaves createWorld.customize.custom.useCaves
+createWorld.customize.custom.prev createWorld.customize.custom.prev
+createWorld.customize.custom.preset.waterWorld createWorld.customize.preset.water_world
+createWorld.customize.custom.presets createWorld.customize.presets
+createWorld.customize.presets createWorld.customize.presets
+createWorldScreen.delete selectWorld.delete
+createWorldScreen.gameMode.adventure selectWorld.gameMode.adventure
+death.attack.mob death.attack.mob
+death.attack.player death.attack.player
+death.attack.player.item death.attack.player.item
+disconnect.quitting disconnect.quitting
+dimension.dimensionName2 biome.minecraft.the_end
+effect.villageHero effect.minecraft.hero_of_the_village
+enchantment.level.2 enchantment.level.2
+enchantment.level.6 enchantment.level.6
+enchantment.level.5 enchantment.level.5
+enchantment.level.4 enchantment.level.4
+enchantment.level.3 enchantment.level.3
+entity.armor_stand.name entity.minecraft.armor_stand
+entity.arrow.name entity.minecraft.arrow
+entity.eye_of_ender_signal.name entity.minecraft.eye_of_ender
+entity.tropicalfish.name entity.minecraft.tropical_fish
+entity.fireworks_rocket.name entity.minecraft.firework_rocket
+entity.tnt_minecart.name entity.minecraft.tnt_minecart
+entity.pufferfish.name entity.minecraft.pufferfish
+entity.hopper_minecart.name entity.minecraft.hopper_minecart
+entity.minecart.name entity.minecraft.minecart
+entity.chest_minecart.name entity.minecraft.chest_minecart
+entity.command_block_minecart.name entity.minecraft.command_block_minecart
+entity.furnace_minecart.name entity.minecraft.furnace_minecart
+entity.painting.name entity.minecraft.painting
+entity.splash_potion.name entity.minecraft.potion
+entity.snowball.name entity.minecraft.snowball
+entity.villager.name entity.minecraft.villager
+entity.thrown_trident.name entity.minecraft.trident
+entity.villager_v2.name entity.minecraft.villager
+entity.wither.name entity.minecraft.wither
+addExternalServerScreen.saveButtonLabel addServer.add
+furnaceScreen.header container.furnace
+gameMode.creative gameMode.creative
+gui.delete key.keyboard.delete
+gui.all gui.all
+gui.done gui.done
+howtoplay.category.theEnd biome.minecraft.the_end
+howtoplay.armorStand entity.minecraft.armor_stand
+howtoplay.brewingStand block.minecraft.brewing_stand
+howtoplay.cauldron block.minecraft.cauldron
+howtoplay.chat gamerule.category.chat
+howtoplay.creativeMode gameMode.creative
+howtoplay.difficulty.header.3 options.difficulty.normal
+howtoplay.enderChest block.minecraft.ender_chest
+howtoplay.fireworks.header.1 item.minecraft.firework_rocket
+howtoplay.furnace block.minecraft.furnace
+howtoplay.inventory container.inventory
+howtoplay.loom block.minecraft.loom
+howtoplay.multiplayer menu.multiplayer
+howtoplay.theEnd biome.minecraft.the_end
+howtoplay.weapons.header.4 item.minecraft.trident
+item.axolotlColorCyan.name color.minecraft.cyan
+item.axolotlColorWild.name color.minecraft.brown
+item.arrow.name item.minecraft.arrow
+item.axolotlColorBlue.name color.minecraft.blue
+item.armor_stand.name item.minecraft.armor_stand
+item.tipped_arrow.name item.minecraft.tipped_arrow
+item.brewing_stand.name item.minecraft.brewing_stand
+item.tropicalColorYellow.name color.minecraft.yellow
+item.tropicalColorOrange.name color.minecraft.orange
+item.tropicalColorLime.name color.minecraft.lime
+item.tropicalColorWhite.name color.minecraft.white
+item.tropicalColorRed.name color.minecraft.red
+item.tropicalColorMagenta.name color.minecraft.magenta
+item.tropicalColorBlue.name color.minecraft.blue
+item.tropicalColorGreen.name color.minecraft.green
+item.tropicalColorBrown.name color.minecraft.brown
+item.tropicalColorGray.name color.minecraft.gray
+item.cauldron.name item.minecraft.cauldron
+item.fireworksCharge.blue item.minecraft.firework_star.blue
+item.glow_frame.name item.minecraft.glow_item_frame
+item.fireworksCharge.white item.minecraft.firework_star.white
+item.end_crystal.name item.minecraft.end_crystal
+item.ender_eye.name item.minecraft.ender_eye
+item.fireworksCharge.cyan item.minecraft.firework_star.cyan
+item.fireworksCharge.black item.minecraft.firework_star.black
+item.fireworks.name item.minecraft.firework_rocket
+item.fireworksCharge.customColor item.minecraft.firework_star.custom_color
+item.fireworksCharge.brown item.minecraft.firework_star.brown
+item.fireworksCharge.gray item.minecraft.firework_star.gray 
+item.fireworksCharge.lime item.minecraft.firework_star.lime 
+item.fireworksCharge.green item.minecraft.firework_star.green 
+item.fireworksCharge.orange item.minecraft.firework_star.orange 
+item.fireworksCharge.red item.minecraft.firework_star.red 
+item.fireworksCharge.lightBlue item.minecraft.firework_star.light_blue 
+item.fireworksCharge.magenta item.minecraft.firework_star.magenta 
+item.fireworksCharge.purple item.minecraft.firework_star.purple 
+item.fireworksCharge.pink item.minecraft.firework_star.pink 
+item.fireworksCharge.yellow item.minecraft.firework_star.yellow 
+item.fireworksCharge.silver item.minecraft.firework_star.light_gray 
+item.clownfish.name item.minecraft.tropical_fish
+item.flower_pot.name item.minecraft.flower_pot
+item.pufferfish.name item.minecraft.pufferfish
+item.frame.name item.minecraft.item_frame
+item.chest_minecart.name item.minecraft.chest_minecart
+item.hopper_minecart.name item.minecraft.hopper_minecart
+item.minecartFurnace.name item.minecraft.furnace_minecart
+item.tnt_minecart.name item.minecraft.tnt_minecart
+item.minecart.name item.minecraft.minecart
+item.command_block_minecart.name item.minecraft.command_block_minecart
+item.nether_wart.name item.minecraft.nether_wart
+item.painting.name item.minecraft.painting
+item.trident.name item.minecraft.trident
+item.potion.name item.minecraft.potion
+item.record.name item.minecraft.music_disc_13
+item.snowball.name item.minecraft.snowball
+item.banner_pattern.name item.minecraft.creeper_banner_pattern
+jigsaw.exit.done gui.done
+key.categories.inventory key.categories.inventory
+key.categories.multiplayer key.categories.multiplayer
+key.categories.misc key.categories.misc
+key.inventory key.categories.inventory
+map.toolTip.locked filled_map.locked
+menu.multiplayer menu.multiplayer
+menu.singleplayer menu.singleplayer
+options.ao.off options.ao.off
+options.chat.visibility options.chat.visibility
+options.chat.visibility.full options.chat.visibility.full
+options.chat.visibility.hidden options.chat.visibility.hidden
+options.dev_render_attach_pos.all gui.all
+options.difficulty.normal options.difficulty.normal
+options.difficulty.hardcore selectWorld.gameMode.hardcore options.difficulty.hardcore
+options.hudOpacity.max selectWorld.mapType.normal options.fov.min options.difficulty.normal
+options.hudOpacity.min gui.socialInteractions.tab_hidden gui.socialInteractions.status_hidden options.hidden options.chat.visibility.hidden
+options.fov.min selectWorld.mapType.normal options.fov.min options.difficulty.normal
+options.graphics.fancy options.graphics.fancy options.clouds.fancy
+options.renderingProfile.fancy options.graphics.fancy options.clouds.fancy
+options.graphics.fast options.graphics.fast options.clouds.fast
+options.group.multiplayer menu.multiplayer key.categories.multiplayer
+options.guiScale.normal selectWorld.mapType.normal options.fov.min options.difficulty.normal
+options.hidden gui.socialInteractions.tab_hidden gui.socialInteractions.status_hidden options.hidden options.chat.visibility.hidden
+options.off options.off options.ao.off options.narrator.off
+options.particles.all gui.all gui.socialInteractions.tab_all options.particles.all
+options.renderDistance.normal selectWorld.mapType.normal options.fov.min options.difficulty.normal
+options.sliderLabelFormat options.generic_value commands.scoreboard.players.list.entity.entry
+options.stream.chat.enabled.never team.visibility.never team.collision.never
+options.stream.chat.enabled.always team.visibility.always team.collision.always
+options.visible options.visible options.chat.visibility.full
+options.edit selectWorld.edit selectServer.edit
+hudScreen.tooltip.inventory key.categories.inventory container.inventory
+playscreen.delete.legacy.confirm selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+potion.moveSpeed effect.minecraft.speed attribute.name.generic.movement_speed
+potion.potency.1 potion.potency.1 enchantment.level.2
+potion.potency.5 potion.potency.5 enchantment.level.6
+potion.potency.2 potion.potency.2 enchantment.level.3
+potion.potency.4 potion.potency.4 enchantment.level.5
+potion.potency.0 selectWorld.gameMode.spectator.line2 potion.potency.0
+potion.potency.3 potion.potency.3 enchantment.level.4
+potion.prefix.fancy options.graphics.fancy options.clouds.fancy
+potion.wither entity.minecraft.wither effect.minecraft.wither
+resourcePack.editPackDone narrator.loading.done gui.done addServer.add
+storageManager.delete.confirm selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+storageManager.multiselectDelete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+storageManager.miscellaneous key.categories.misc itemGroup.misc gamerule.category.misc
+resourcePack.MashupAdventureTime.description selectWorld.gameMode.spectator.line2 potion.potency.0
+selectServer.deleteButton selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+selectServer.edit selectWorld.edit selectServer.edit
+selectServer.delete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+selectWorld.delete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+selectWorld.gameMode.adventure selectWorld.gameMode.adventure advancements.adventure.root.title
+selectWorld.gameMode.hardcore selectWorld.gameMode.hardcore options.difficulty.hardcore
+selectWorld.deleteButton selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+selectWorld.gameMode.spectator.line2 selectWorld.gameMode.spectator.line2 potion.potency.0
+selectWorld.mapType.normal selectWorld.mapType.normal options.fov.min options.difficulty.normal
+selectTemplate.delete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+selectTemplate.deleteTemplateDone narrator.loading.done gui.done addServer.add
+skin.Standard.Dummy generator.custom item.minecraft.firework_star.custom_color
+skin.Standard.Custom generator.custom item.minecraft.firework_star.custom_color
+skin.Standard.CustomSlim generator.custom item.minecraft.firework_star.custom_color
+stat.mobsButton stat.mobsButton gamerule.category.mobs
+store.inventory.title key.categories.inventory container.inventory
+store.inventory.button key.categories.inventory container.inventory
+ selectWorld.gameMode.spectator.line2 potion.potency.0
+store.mashup.title.skinPack options.generic_value commands.scoreboard.players.list.entity.entry
+tile.beacon.name block.minecraft.beacon container.beacon
+tile.blast_furnace.name block.minecraft.blast_furnace container.blast_furnace
+tile.chest.name block.minecraft.chest container.chest
+tile.cauldron.name block.minecraft.cauldron item.minecraft.cauldron
+tile.ender_chest.name block.minecraft.ender_chest container.enderchest
+tile.chain.name block.minecraft.chain advMode.mode.sequence
+tile.shulkerBox.name block.minecraft.shulker_box container.shulkerBox
+tile.dispenser.name block.minecraft.dispenser container.dispenser
+tile.enderChest.name block.minecraft.ender_chest container.enderchest
+tile.dropper.name block.minecraft.dropper container.dropper
+tile.furnace.name block.minecraft.furnace container.furnace
+tile.nether_wart.name block.minecraft.nether_wart item.minecraft.nether_wart
+tile.standing_sign.name book.signButton item.minecraft.sign
+tile.stonecutter_block.name block.minecraft.stonecutter container.stonecutter
+tile.stonecutter.name block.minecraft.stonecutter container.stonecutter
+tile.loom.name block.minecraft.loom container.loom
+tile.barrel.name block.minecraft.barrel container.barrel
+tile.smoker.name block.minecraft.smoker container.smoker
+tile.cartography_table.name block.minecraft.cartography_table container.cartography_table
+tile.lectern.name block.minecraft.lectern container.lectern
+tipped_arrow.effect.empty item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick item.minecraft.tipped_arrow.effect.awkward
+tipped_arrow.effect.thick item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick item.minecraft.tipped_arrow.effect.awkward
+tipped_arrow.effect.awkward item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick item.minecraft.tipped_arrow.effect.awkward
+tipped_arrow.effect.mundane item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick item.minecraft.tipped_arrow.effect.awkward
+structure_block.mode.save selectWorld.edit.save structure_block.mode.save
+structure_block.save selectWorld.edit.save structure_block.mode.save
+translation.test.args translation.test.args potion.withAmplifier attribute.modifier.equals.0
+translation.test.world translation.test.world pack.source.world
+xbox.signin.error.pocket.line2 selectWorld.gameMode.spectator.line2 potion.potency.0
+manifestvalidation.delete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+manifestvalidation.delete.confirm_delete selectWorld.delete selectWorld.deleteButton selectServer.delete selectServer.deleteButton key.keyboard.delete
+addServer.add narrator.loading.done gui.done addServer.add
+hbui.AchievementDetails.locked narrator.button.difficulty_lock.locked filled_map.locked
+hbui.AchievementListItem.locked narrator.button.difficulty_lock.locked filled_map.locked
+hbui.Achievements.all gui.all gui.socialInteractions.tab_all options.particles.all
+hbui.Achievements.locked narrator.button.difficulty_lock.locked filled_map.locked
+hbui.CreateNewWorld.cheats.daylightCycleNormalLabel selectWorld.mapType.normal options.fov.min options.difficulty.normal
+hbui.CreateNewWorld.general.difficultyNormalTitle selectWorld.mapType.normal options.fov.min options.difficulty.normal

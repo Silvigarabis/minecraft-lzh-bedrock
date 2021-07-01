@@ -1,0 +1,2 @@
+这里储存着有着与基岩版相同的翻译的Java版翻译key
+由`scripts/search_same_text.sh`生成
