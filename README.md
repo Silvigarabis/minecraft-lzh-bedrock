@@ -1,6 +1,6 @@
 # minecraft-lzh-bedrock
 
-在**Minecraft Java版1.17.1-pre2**这一版本中，Mojang将文言文添加到了游戏。[^1]
+在**Minecraft Java版1.17.1-pre2**这一版本中，Mojang将文言文添加到了游戏。[^1]  
 
 但是由于一些问题[^2]，这些文本当中有一些很有趣的翻译。我就想到把它移植到基岩版。
 
