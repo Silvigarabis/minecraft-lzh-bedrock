@@ -1,6 +1,7 @@
 one(){
   local has=0
-  key=${keys[0]}
+  keys=($keys)
+  key="${keys[0]}"
   while read -r bkey; do
     if [ "$key" = "$bkey" ]; then
       has=0
