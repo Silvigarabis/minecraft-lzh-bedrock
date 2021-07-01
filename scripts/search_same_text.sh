@@ -1,15 +1,21 @@
 # yes it is stupid, but is easy to understand
+exec 2>"$0.log"
 
-while read -r; do
-  {
-    value=$(echo "$REPLY"|sed -E 's/=(.*)/\1/')
-    key=($(echo "$REPLY"|sed 's/=/ /'));key="${key[0]}"
-    while read -r; do
-      valuej=($(echo "$REPLY"|sed -E 's/=(.*)/\1/'))
-      if [ "${valuej}" = "${value}" ]; then
-        keyj=($(echo "$REPLY"|sed 's/=/ /'))
-        echo "${keyj[0]}"
-      fi
-    done <java.lang | xargs -d $'\n' -r printf "${key[0]}"
-  } &
+one(){
+  value="${text#*=}"
+  key="${text%%=*}"
+  while read -r text; do
+    valuej="${text#*=}"
+    if [ "${valuej}" = "${value}" ]; then
+      keyj="${text%%=*}"
+      echo "${keyj}"
+    fi
+  done <java.lang | xargs -d $'\n' -r echo "${key[0]}"
+}
+
+while read -r text; do
+  if [ "$1" = fast ]; then 
+    one &
+  else one
+  fi
 done <bedrock.lang >got.txt
