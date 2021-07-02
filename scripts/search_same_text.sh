@@ -18,4 +18,4 @@ while read -r text; do
     one &
   else one
   fi
-done <bedrock.lang >got.txt
+done <bedrock.lang >gotn.txt

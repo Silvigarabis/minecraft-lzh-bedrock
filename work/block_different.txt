@@ -1,0 +1,124 @@
+# 基岩版独有方块
+tile.allow.name
+tile.unknown.name
+tile.deny.name
+tile.border_block.name
+tile.invisibleBedrock.name
+tile.chalkboard.oneByOne.name
+tile.chalkboard.twoByOne.name
+tile.chalkboard.threeByTwo.name
+tile.camera.name
+
+# 键值有问题的
+tile.anvil.slightlyDamaged.name block.minecraft.chipped_anvil
+tile.anvil.veryDamaged.name block.minecraft.damaged_anvil
+
+# 有两种不同情况的
+tile.beacon.primary.pocket block.minecraft.beacon.primary
+tile.beacon.secondary.pocket block.minecraft.beacon.secondary
+
+# 无法直接匹配的（多种颜色）
+tile.bed.name
+
+# 译文不同的
+tile.bed.noSleep
+tile.bed.notSafe
+tile.bed.notValid
+tile.bed.tooFar
+tile.bed.obstructed
+tile.lapis_block.name block.minecraft.lapis_block
+tile.azalea_leaves_flowered.name block.minecraft.flowering_azalea_leaves
+tile.brick_block.name block.minecraft.bricks
+tile.brown_mushroom_block.mushroom.name block.minecraft.brown_mushroom_block
+
+# 和二为一的
+tile.respawn_anchor.notValid block.minecraft.spawn.not_valid
+tile.bed.notValid block.minecraft.spawn.not_valid
+
+tile.clay.name
+tile.wool.name
+tile.light_block.name
+tile.wheat.name
+tile.daylight_detector.name
+tile.purpur_block.chiseled.name
+tile.doorWood.name
+tile.double_plant.grass.name
+tile.double_plant.name
+tile.enchanting_table.name
+tile.yellow_flower.name
+tile.red_flower.name
+tile.leaves.name
+tile.lockedchest.name
+tile.log.name
+tile.mob_spawner.name
+tile.monster_egg.brick.name
+tile.monster_egg.chiseledbrick.name
+tile.monster_egg.crackedbrick.name
+tile.monster_egg.mossybrick.name
+tile.mushroom.name
+tile.nether_brick.name
+tile.red_nether_brick.name
+tile.netherreactor.active
+tile.netherreactor.builtTooHigh
+tile.netherreactor.builtTooLow
+tile.netherreactor.name
+tile.netherreactor.playersTooFar
+tile.netherreactor.wrongPattern
+tile.oreRuby.name
+tile.portal.name
+tile.quartz_block.lines.name
+tile.reeds.name
+tile.oak_stairs.name
+tile.acacia_stairs.name
+tile.birch_stairs.name
+tile.dark_oak_stairs.name
+tile.jungle_stairs.name
+tile.spruce_stairs.name
+tile.standing_banner.name
+tile.standing_banner.white.name
+tile.stonebrick.smooth.name
+
+tile.double_stone_slab.brick.name
+tile.double_stone_slab.smoothStoneBrick.name
+tile.double_stone_slab.wood.name
+
+tile.stone_slab.brick.name
+tile.stone_slab.smoothStoneBrick.name
+tile.stone_slab.wood.name
+tile.stone_slab2.prismarine.bricks.name
+
+tile.tallgrass.shrub.name
+
+tile.turtle_egg.name
+
+tile.snow_layer.name
+
+tile.heavy_weighted_pressure_plate.name
+tile.light_weighted_pressure_plate.name
+
+tile.planks.acacia.name
+tile.planks.big_oak.name
+tile.planks.birch.name
+tile.planks.jungle.name
+tile.planks.name
+tile.planks.oak.name
+tile.planks.spruce.name
+
+tile.wooden_slab.acacia.name
+tile.wooden_slab.big_oak.name
+tile.wooden_slab.birch.name
+tile.wooden_slab.jungle.name
+tile.wooden_slab.name
+tile.wooden_slab.oak.name
+tile.wooden_slab.spruce.name
+
+tile.carpet.name
+
+tile.cobbled_deepslate_double_slab.name
+tile.polished_deepslate_double_slab.name
+
+tile.deepslate_tile_double_slab.name
+tile.deepslate_brick_double_slab.name
+tile.deepslate_lapis_ore.name
+
+tile.amethyst_block.name

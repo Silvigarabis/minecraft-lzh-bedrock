@@ -1,0 +1,8 @@
+基岩版的告示牌，重命名为“橡木告示牌”
+
+信标在基岩版有两种界面
+tile.beacon.primary=Primary Power
+tile.beacon.secondary=Secondary Power
+tile.beacon.primary.pocket=Primary
+tile.beacon.secondary.pocket=Secondary
+将其合并
