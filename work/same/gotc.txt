@@ -1,0 +1,3036 @@
+accessibility.loading.done addServer.add gui.done narrator.loading.done
+accessibility.chat.tts.says chat.type.text.narrate
+accessibility.saving.done addServer.add gui.done narrator.loading.done
+accessibility.button.back dataPack.validation.back gui.back
+accessibility.play.editWorld selectWorld.edit.title
+accessibility.list.or.three_or_more.first createWorld.customize.flat.layer disconnect.genericReason
+accessibility.chat.tts.textboxTitle chat.editBox gamerule.category.chat options.accessibility.text_background.chat options.chat.visibility
+accessibility.start.buttonHelper commands.scoreboard.players.list.entity.entry options.generic_value
+accessibility.screenName.chat chat_screen.title
+accessibility.button.exit disconnect.quitting multiplayer.status.quitting
+accessibility.settings.reset controls.reset
+accessibility.screenName.play key.categories.ui
+accessibility.text.space key.keyboard.space
+accessibility.popup.right_button_text advMode.mode.autoexec.bat
+accessibility.emotes.unassigned key.keyboard.unknown
+achievement.blaze_rod advancements.nether.obtain_blaze_rod.title
+achievement.acquireIron advancements.story.smelt_iron.title
+achievement.bookcase entity.minecraft.villager.librarian
+achievement.buildBetterPickaxe advancements.story.upgrade_tools.title
+achievement.diamonds advancements.story.mine_diamond.title
+achievement.buildBetterPickaxe.desc advancements.story.upgrade_tools.description
+achievement.fullBeacon advancements.nether.create_full_beacon.title
+achievement.exploreAllBiomes advancements.adventure.adventuring_time.title
+achievement.enchantments advancements.story.enchant_item.title
+achievement.exploreAllBiomes.desc advancements.adventure.adventuring_time.description
+achievement.acquireIron.desc advancements.story.smelt_iron.description
+achievement.ghast advancements.nether.return_to_sender.title
+achievement.killEnemy advancements.adventure.kill_a_mob.title
+achievement.ghast.desc advancements.nether.return_to_sender.description
+achievement.unknown multiplayer.status.unknown
+achievement.snipeSkeleton advancements.adventure.sniper_duel.title
+achievement.theEnd advancements.story.enter_the_end.title
+achievement.potion advancements.nether.brew_potion.title
+achievement.portal advancements.story.enter_the_nether.title
+achievement.potion.desc advancements.nether.brew_potion.description
+action.interact.edit selectServer.edit selectWorld.edit
+action.interact.trade merchant.trades
+advMode.allEntities advMode.allEntities
+advMode.command advMode.command
+advMode.setCommand.success advMode.setCommand.success
+advMode.allPlayers advMode.allPlayers
+advMode.previousOutput advMode.previousOutput
+attribute.name.minecraft:knockback_resistance attribute.name.generic.knockback_resistance
+attribute.name.minecraft:attack_damage attribute.name.generic.attack_damage
+advMode.notAllowed advMode.notAllowed
+advMode.nearestPlayer advMode.nearestPlayer
+advMode.setCommand advMode.setCommand
+advMode.randomPlayer advMode.randomPlayer
+attribute.name.horse.jumpStrength attribute.name.horse.jump_strength
+attribute.name.minecraft:follow_range attribute.name.generic.follow_range
+attribute.name.zombie.spawnReinforcements attribute.name.zombie.spawn_reinforcements
+attribute.name.minecraft:movement attribute.name.generic.movement_speed effect.minecraft.speed
+attribute.name.generic.maxHealth attribute.name.generic.max_health
+attribute.name.generic.knockbackResistance attribute.name.generic.knockback_resistance
+attribute.name.generic.attackDamage attribute.name.generic.attack_damage
+attribution.goBack dataPack.validation.back gui.back
+book.signButton book.signButton
+book.generation.3 book.generation.3
+book.finalizeButton book.finalizeButton
+book.generation.2 book.generation.2
+book.generation.0 book.generation.0
+book.generation.1 book.generation.1
+chalkboardScreen.locked filled_map.locked narrator.button.difficulty_lock.locked
+book.editTitle book.editTitle
+chat.copy chat.copy
+chat.settings.color options.chat.color
+chat.link.open chat.link.open
+chat.cannotSend chat.cannotSend
+craftingScreen.tab.survival container.inventory key.categories.inventory
+chestScreen.header.small block.minecraft.chest container.chest
+chat.title chat.editBox gamerule.category.chat options.accessibility.text_background.chat options.chat.visibility
+chat.type.text chat.type.text
+chestScreen.header.player container.inventory key.categories.inventory
+craftingScreen.tab.search gui.all gui.socialInteractions.tab_all options.particles.all
+book.finalizeWarning book.finalizeWarning
+craftingScreen.tab.items entity.minecraft.item stat.itemsButton
+chestScreen.header.large container.chestDouble
+craftingScreen.tab.armor attribute.name.generic.armor
+cauldronScreen.header block.minecraft.cauldron item.minecraft.cauldron
+codeScreen.buttonTTS.splitLeft key.left
+chat.type.emote chat.type.emote
+color.gray color.minecraft.gray item.minecraft.firework_star.gray
+color.dark_purple color.minecraft.purple item.minecraft.firework_star.purple
+commandBlockScreen.blockType.impulse advMode.mode.redstone
+codeScreen.buttonTTS.splitRight key.right
+color.green color.minecraft.green item.minecraft.firework_star.green
+color.black color.minecraft.black item.minecraft.firework_star.black
+color.blue color.minecraft.blue item.minecraft.firework_star.blue
+commandBlockScreen.blockType.repeat advMode.mode.auto
+commandBlockScreen.blockType.chain advMode.mode.sequence
+color.yellow color.minecraft.yellow item.minecraft.firework_star.yellow
+commandBlockScreen.redstone.always_on advMode.mode.autoexec.bat
+color.red color.minecraft.red item.minecraft.firework_star.red
+color.white color.minecraft.white item.minecraft.firework_star.white
+commandBlockScreen.hideOutputMode enchantment.level.10
+commandBlockScreen.condition.conditional advMode.mode.conditional
+commandBlockScreen.title block.minecraft.command_block
+commandBlockScreen.condition.unconditional advMode.mode.unconditional
+commandBlock.genericName block.minecraft.command_block
+commands.autocomplete.a argument.entity.selector.allPlayers
+commands.autocomplete.r argument.entity.selector.randomPlayer
+commands.autocomplete.e argument.entity.selector.allEntities
+commands.bossbar.list.none commands.bossbar.list.bars.none
+commands.origin.commandblock block.minecraft.command_block
+commands.origin.server pack.source.server
+commands.players.list.names createWorld.customize.flat.layer disconnect.genericReason
+commands.publish.failed commands.publish.failed
+commands.setblock.failed commands.setblock.failed
+commands.stop.start commands.stop.stopping
+commands.tag.list.single.empty commands.tag.list.single.empty
+container.beacon block.minecraft.beacon container.beacon
+container.chest block.minecraft.chest container.chest
+container.crafting container.crafting
+connect.authorizing connect.authorizing
+container.hopper block.minecraft.hopper container.hopper
+container.dispenser block.minecraft.dispenser container.dispenser
+connect.connecting connect.connecting
+container.enchant container.enchant
+container.brewing block.minecraft.brewing_stand container.brewing item.minecraft.brewing_stand
+container.enchant.clue container.enchant.clue
+container.isLocked container.isLocked
+container.loom block.minecraft.loom container.loom
+container.furnace block.minecraft.furnace container.furnace
+container.stonecutter_block block.minecraft.stonecutter container.stonecutter
+container.minecart entity.minecraft.minecart item.minecraft.minecart
+container.inventory container.inventory key.categories.inventory
+container.dropper block.minecraft.dropper container.dropper
+container.enchant.level.one container.enchant.level.one
+container.barrel block.minecraft.barrel container.barrel
+connect.failed connect.failed
+container.repair.expensive container.repair.expensive
+container.smithing_table block.minecraft.smithing_table
+container.shulkerbox block.minecraft.shulker_box container.shulkerBox
+container.enderchest block.minecraft.ender_chest container.enderchest
+controller.buttonTip.back dataPack.validation.back gui.back
+container.repairAndDisenchant container.grindstone_title
+container.smithing_table_block block.minecraft.smithing_table
+container.creative container.inventory key.categories.inventory
+container.repair container.repair
+container.stonecutter block.minecraft.stonecutter container.stonecutter
+container.enchant.lapis.one container.enchant.lapis.one
+controller.buttonTip.cancel gui.cancel
+controller.buttonTip.edit selectServer.edit selectWorld.edit
+controller.buttonTip.pane.inventory container.inventory key.categories.inventory
+controller.buttonTip.exit disconnect.quitting multiplayer.status.quitting
+controllerLayoutScreen.cancel gui.cancel
+controls.reset controls.reset
+controllerLayoutScreen.save selectWorld.edit.save structure_block.button.save
+controls.resetAll controls.resetAll
+course.edu.continueButton gui.proceed
+controllerLayoutScreen.toggleLivingroom key.togglePerspective
+course.edu.progress.completed multiplayer.status.finished
+createWorld.customize.custom.biomeDepthOffset createWorld.customize.custom.biomeDepthOffset
+createWorld.customize.custom.biomeDepthWeight createWorld.customize.custom.biomeDepthWeight
+createWorld.customize.custom.baseSize createWorld.customize.custom.baseSize
+createWorld.customize.custom.biomeScaleOffset createWorld.customize.custom.biomeScaleOffset
+createWorld.customize.custom.defaults createWorld.customize.custom.defaults generator.default
+createWorld.customize.custom.fixedBiome createWorld.customize.custom.fixedBiome
+createWorld.customize.custom.biomeSize createWorld.customize.custom.biomeSize
+createWorld.customize.custom.center createWorld.customize.custom.center
+createWorld.customize.custom.confirm2 createWorld.customize.custom.confirm2
+createWorld.customize.custom.dungeonChance createWorld.customize.custom.dungeonChance
+createWorld.customize.custom.biomeScaleWeight createWorld.customize.custom.biomeScaleWeight
+createWorld.customize.custom.confirm1 createWorld.customize.custom.confirm1
+createWorld.customize.custom.confirmTitle createWorld.customize.custom.confirmTitle
+createWorld.customize.custom.page1 createWorld.customize.custom.page1
+createWorld.customize.custom.heightScale createWorld.customize.custom.heightScale
+createWorld.customize.custom.lavaLakeChance createWorld.customize.custom.lavaLakeChance
+createWorld.customize.custom.presets createWorld.customize.custom.presets createWorld.customize.presets
+createWorld.customize.custom.page0 createWorld.customize.custom.page0
+createWorld.customize.custom.next createWorld.customize.custom.next spectatorMenu.next_page
+createWorld.customize.custom.minHeight createWorld.customize.custom.minHeight
+createWorld.customize.custom.preset.mountains createWorld.customize.custom.preset.mountains
+createWorld.customize.custom.preset.goodLuck createWorld.customize.custom.preset.goodLuck
+createWorld.customize.custom.preset.waterWorld createWorld.customize.custom.preset.waterWorld createWorld.customize.preset.water_world
+createWorld.customize.custom.useWaterLakes createWorld.customize.custom.useWaterLakes
+createWorld.customize.custom.useTemples createWorld.customize.custom.useTemples
+createWorld.customize.custom.lowerLimitScale createWorld.customize.custom.lowerLimitScale
+createWorld.customize.custom.prev createWorld.customize.custom.prev spectatorMenu.previous_page
+createWorld.customize.custom.preset.isleLand createWorld.customize.custom.preset.isleLand
+createWorld.customize.custom.preset.caveDelight createWorld.customize.custom.preset.caveDelight
+createWorld.customize.custom.randomize createWorld.customize.custom.randomize
+createWorld.customize.custom.useStrongholds createWorld.customize.custom.useStrongholds
+createWorld.customize.custom.seaLevel createWorld.customize.custom.seaLevel
+createWorld.customize.custom.useMineShafts createWorld.customize.custom.useMineShafts
+createWorld.customize.custom.presets.title createWorld.customize.custom.presets.title
+createWorld.customize.custom.useRavines createWorld.customize.custom.useRavines
+createWorld.customize.custom.upperLimitScale createWorld.customize.custom.upperLimitScale
+createWorld.customize.custom.useCaves createWorld.customize.custom.useCaves generator.single_biome_caves
+createWorld.customize.custom.useLavaLakes createWorld.customize.custom.useLavaLakes
+createWorld.customize.custom.riverSize createWorld.customize.custom.riverSize
+createWorld.customize.custom.useDungeons createWorld.customize.custom.useDungeons
+createWorld.customize.flat.removeLayer createWorld.customize.flat.removeLayer
+createWorld.customize.custom.useVillages createWorld.customize.custom.useVillages
+createWorld.customize.custom.waterLakeChance createWorld.customize.custom.waterLakeChance
+createWorld.customize.custom.useOceanRuins createWorld.customize.custom.useOceanRuins
+createWorld.customize.flat.height createWorld.customize.flat.height
+createWorld.customize.custom.useMonuments createWorld.customize.custom.useMonuments
+createWorld.customize.presets.title createWorld.customize.presets.title
+createWorld.customize.presets.select createWorld.customize.presets.select
+createWorldUpsell.button.world selectWorld.newWorld
+createWorld.customize.presets createWorld.customize.custom.presets createWorld.customize.presets
+createWorld.customize.flat.tile createWorld.customize.flat.tile
+createWorldScreen.cheatSettings selectWorld.cheats
+createWorldScreen.fireSpreads gamerule.doFireTick
+createWorld.customize.presets.share createWorld.customize.presets.share
+createWorldScreen.immediaterespawn gamerule.doImmediateRespawn
+createWorldScreen.bonusChest selectWorld.bonusItems
+createWorldScreen.weathercycle gamerule.doWeatherCycle
+createWorld.customize.presets.list createWorld.customize.presets.list
+createWorldScreen.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+createWorldScreen.gameMode.survival selectWorld.gameMode.survival
+createWorldScreen.gameMode selectWorld.gameMode
+createWorldScreen.gameMode.creative selectWorld.gameMode.creative
+createWorldScreen.header.editLocal selectWorld.edit.title
+createWorldScreen.gameMode.adventure advancements.adventure.root.title selectWorld.gameMode.adventure
+createWorldScreen.gameMode.serverDefault createWorld.customize.custom.defaults generator.default
+createWorldScreen.serverSimDistanceFormat options.chunks
+createWorldScreen.worldType selectWorld.mapType
+createWorldScreen.clearPlayerData.cancel gui.cancel
+realmsInvitationScreen.continue gui.proceed
+realmsInvitationScreen.kick selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+realmsInvitationScreen.disable addServer.resourcePack.disabled
+realmsInvitationScreen.generate gamerule.category.spawning jigsaw_block.generate
+realmsCreateScreen.sizeHeader pack.source.world selectWorld.world translation.test.world
+realmsCreateScreen.goBack dataPack.validation.back gui.back
+realmsCreateScreen.purchaseConfirmation.cancel gui.cancel
+realmsPlusUpgradeNotice.continue gui.proceed
+networkWorld.join_server selectServer.select
+networkWorld.add_server selectServer.add
+networkWorld.servers_label pack.source.server
+realmsSettingsScreen.worldSectionTitle pack.source.world selectWorld.world translation.test.world
+realmsSettingsScreen.playersSectionTitle entity.minecraft.player gamerule.category.player soundCategory.player
+realmsSettingsScreen.survivalRadioButton selectWorld.gameMode.survival
+realmsSettingsScreen.difficultyOptionLabelFormat attribute.modifier.equals.0 potion.withAmplifier translation.test.args
+realmsSettingsScreen.creativeRadioButton selectWorld.gameMode.creative
+realmsSettingsScreen.gameModeOptionLabel selectWorld.gameMode
+realmsSettingsScreen.reset controls.reset
+realmsSettingsScreen.searchBox gui.recipebook.search_hint gui.socialInteractions.search_hint
+dayOneExperience.finish addServer.add gui.done narrator.loading.done
+death.attack.fireball death.attack.fireball
+death.attack.anvil death.attack.anvil
+death.attack.arrow.item death.attack.arrow.item
+death.attack.explosion.player death.attack.explosion.player
+death.attack.arrow death.attack.arrow
+death.attack.explosion death.attack.explosion
+death.attack.bullet death.attack.arrow
+death.attack.drown death.attack.drown
+death.attack.drown.player death.attack.drown.player
+death.attack.generic death.attack.generic
+death.attack.outOfWorld death.attack.outOfWorld
+death.attack.flyIntoWall death.attack.flyIntoWall
+death.attack.inWall death.attack.inWall
+death.attack.lava.player death.attack.lava.player
+death.attack.cactus.player death.attack.cactus.player
+death.attack.cactus death.attack.cactus
+death.attack.inFire death.attack.inFire
+death.attack.fall death.attack.fall
+death.attack.lava death.attack.lava
+death.attack.indirectMagic.item death.attack.indirectMagic.item death.attack.mob.item death.attack.player.item
+death.attack.fireball.item death.attack.fireball.item
+death.attack.fallingBlock death.attack.fallingBlock
+death.attack.lightningBolt death.attack.lightningBolt
+death.attack.mob death.attack.badRespawnPoint.message death.attack.mob death.attack.player
+death.attack.stalagmite death.attack.stalagmite
+death.attack.player.item death.attack.indirectMagic.item death.attack.mob.item death.attack.player.item
+death.attack.fireworks death.attack.fireworks
+death.attack.starve death.attack.starve
+death.attack.player death.attack.badRespawnPoint.message death.attack.mob death.attack.player
+death.attack.freeze death.attack.freeze
+death.attack.indirectMagic death.attack.indirectMagic
+death.attack.wither death.attack.wither
+death.fell.killer death.fell.killer
+death.attack.magic death.attack.magic
+death.attack.thorns death.attack.thorns
+death.fell.accident.ladder death.fell.accident.ladder
+death.attack.thrown.item death.attack.thrown.item
+death.fell.accident.vines death.fell.accident.vines
+deathScreen.title.hardcore deathScreen.title.hardcore
+deathScreen.message deathScreen.title
+death.attack.thrown death.attack.thrown
+death.fell.assist death.fell.assist
+death.attack.stalactite death.attack.fallingStalactite
+death.attack.onFire death.attack.onFire
+demo.day.2 demo.day.2
+death.fell.accident.generic death.fell.accident.generic
+demo.day.4 demo.day.4
+death.fell.assist.item death.fell.assist.item
+deathScreen.score deathScreen.score
+deathScreen.title deathScreen.title
+deathScreen.titleScreen deathScreen.titleScreen narrator.screen.title
+demo.day.3 demo.day.3
+death.fell.finish death.fell.finish
+deathScreen.respawn deathScreen.respawn
+death.fell.finish.item death.fell.finish.item
+dimension.dimensionName1 advancements.nether.root.title
+demo.help.buy demo.help.buy
+deathScreen.quit.confirm deathScreen.quit.confirm
+demo.help.later demo.help.later
+difficulty.lock.title difficulty.lock.title
+demo.help.movementMouse demo.help.movementMouse
+demo.help.title demo.help.title
+demo.day.warning demo.day.warning
+disconnect.loginFailed disconnect.loginFailed
+disconnect.kicked disconnect.kicked
+demo.remainingTime demo.remainingTime
+dimension.dimensionName0 createWorld.customize.preset.overworld
+disconnect.disconnected disconnect.disconnected
+disconnect.timeout disconnect.timeout
+disconnect.closed disconnect.closed
+demo.demoExpired demo.demoExpired
+disconnect.quitting disconnect.quitting multiplayer.status.quitting
+disconnect.endOfStream disconnect.endOfStream
+disconnect.genericReason createWorld.customize.flat.layer disconnect.genericReason
+disconnect.loginFailedInfo disconnect.loginFailedInfo
+dimension.dimensionName2 advancements.end.root.title biome.minecraft.the_end
+demo.help.movementShort demo.help.movementShort
+disconnect.lost disconnect.lost
+disconnect.overflow disconnect.overflow
+disconnect.spam disconnect.spam
+demo.reminder demo.reminder
+difficulty.lock.question difficulty.lock.question
+edu.worlds_screen.title pack.source.world selectWorld.world translation.test.world
+edu.worlds_screen.new_world selectWorld.newWorld
+enchantment.crossbowMultishot enchantment.minecraft.multishot
+enchantment.crossbowPiercing enchantment.minecraft.piercing
+enchantment.arrowFire enchantment.minecraft.flame
+enchantment.arrowInfinite enchantment.minecraft.infinity
+enchantment.arrowDamage effect.minecraft.strength enchantment.minecraft.power
+effect.villageHero advancements.adventure.hero_of_the_village.title effect.minecraft.hero_of_the_village
+enchantment.crossbowQuickCharge enchantment.minecraft.quick_charge
+enchantment.frostwalker enchantment.minecraft.frost_walker
+enchantment.fishingSpeed enchantment.minecraft.lure
+enchantment.level.8 enchantment.level.8
+enchantment.level.10 enchantment.level.10
+enchantment.lootBonus enchantment.minecraft.looting
+enchantment.damage.undead enchantment.minecraft.smite
+enchantment.level.5 enchantment.level.5 potion.potency.4
+enchantment.level.3 enchantment.level.3 potion.potency.2
+enchantment.damage.arthropods enchantment.minecraft.bane_of_arthropods
+enchantment.digging enchantment.minecraft.efficiency
+enchantment.level.1 enchantment.level.1
+enchantment.durability enchantment.minecraft.unbreaking
+enchantment.damage.all enchantment.minecraft.sharpness
+enchantment.level.2 enchantment.level.2 potion.potency.1
+enchantment.level.4 enchantment.level.4 potion.potency.3
+enchantment.arrowKnockback enchantment.minecraft.punch
+enchantment.curse.vanishing enchantment.minecraft.vanishing_curse
+enchantment.knockback attribute.name.generic.attack_knockback enchantment.minecraft.knockback
+enchantment.fire enchantment.minecraft.fire_aspect
+enchantment.level.9 enchantment.level.9
+effect.badOmen effect.minecraft.bad_omen
+enchantment.curse.binding enchantment.minecraft.binding_curse
+enchantment.protect.fall enchantment.minecraft.feather_falling
+enchantment.lootBonusDigger enchantment.minecraft.fortune
+enchantment.lootBonusFishing enchantment.minecraft.luck_of_the_sea
+enchantment.level.6 enchantment.level.6 potion.potency.5
+enchantment.level.7 enchantment.level.7
+enchantment.untouching enchantment.minecraft.silk_touch
+enchantment.protect.projectile enchantment.minecraft.projectile_protection
+enchantment.mending enchantment.minecraft.mending
+enchantment.protect.all enchantment.minecraft.protection
+enchantment.protect.fire enchantment.minecraft.fire_protection
+enchantment.tridentRiptide enchantment.minecraft.riptide
+entity.armor_stand.name entity.minecraft.armor_stand item.minecraft.armor_stand
+enchantment.soul_speed enchantment.minecraft.soul_speed
+enchantment.protect.explosion enchantment.minecraft.blast_protection
+entity.arrow.name entity.minecraft.arrow item.minecraft.arrow
+enchantment.waterWalker enchantment.minecraft.depth_strider
+enchantment.oxygen effect.minecraft.water_breathing enchantment.minecraft.respiration
+enchantment.tridentChanneling enchantment.minecraft.channeling
+entity.area_effect_cloud.name entity.minecraft.area_effect_cloud
+entity.drowned.name entity.minecraft.drowned
+entity.bee.name entity.minecraft.bee
+entity.cat.name entity.minecraft.cat
+entity.cow.name entity.minecraft.cow
+enchantment.tridentImpaling enchantment.minecraft.impaling
+entity.creeper.name entity.minecraft.creeper
+entity.egg.name item.minecraft.egg
+enchantment.waterWorker enchantment.minecraft.aqua_affinity
+entity.donkey.name entity.minecraft.donkey
+entity.boat.name entity.minecraft.boat
+enchantment.tridentLoyalty enchantment.minecraft.loyalty
+entity.bat.name entity.minecraft.bat
+entity.cave_spider.name entity.minecraft.cave_spider
+entity.ender_dragon.name entity.minecraft.ender_dragon
+enchantment.thorns enchantment.minecraft.thorns
+entity.dolphin.name entity.minecraft.dolphin
+entity.dragon_fireball.name entity.minecraft.dragon_fireball
+entity.blaze.name entity.minecraft.blaze
+entity.enderman.name entity.minecraft.enderman
+entity.fox.name entity.minecraft.fox
+entity.fish.clownfish.name entity.minecraft.tropical_fish.predefined.5
+entity.chicken.name entity.minecraft.chicken
+entity.elder_guardian.name entity.minecraft.elder_guardian
+entity.evocation_illager.name entity.minecraft.evoker
+entity.panda.name entity.minecraft.panda
+entity.goat.name entity.minecraft.goat
+entity.ender_pearl.name item.minecraft.ender_pearl
+entity.eye_of_ender_signal.name entity.minecraft.eye_of_ender item.minecraft.ender_eye
+entity.ender_crystal.name entity.minecraft.end_crystal item.minecraft.end_crystal
+entity.magma_cube.name entity.minecraft.magma_cube
+entity.endermite.name entity.minecraft.endermite
+entity.hoglin.name entity.minecraft.hoglin
+entity.item.name entity.minecraft.item stat.itemsButton
+entity.salmon.name entity.minecraft.salmon
+entity.cod.name entity.minecraft.cod
+entity.fireworks_rocket.name entity.minecraft.firework_rocket item.minecraft.firework_rocket
+entity.guardian.name entity.minecraft.guardian
+entity.axolotl.name entity.minecraft.axolotl
+entity.fireball.name entity.minecraft.fireball
+entity.glow_squid.name entity.minecraft.glow_squid
+entity.evocation_fang.name entity.minecraft.evoker_fangs
+entity.horse.name entity.minecraft.horse
+entity.ghast.name entity.minecraft.ghast
+entity.pufferfish.name entity.minecraft.pufferfish item.minecraft.pufferfish
+entity.husk.name entity.minecraft.husk
+entity.llama_spit.name entity.minecraft.llama_spit
+entity.iron_golem.name entity.minecraft.iron_golem
+entity.piglin_brute.name entity.minecraft.piglin_brute
+entity.mule.name entity.minecraft.mule
+entity.minecart.name entity.minecraft.minecart item.minecraft.minecart
+entity.ocelot.name entity.minecraft.ocelot
+entity.hopper_minecart.name entity.minecraft.hopper_minecart item.minecraft.hopper_minecart
+entity.polar_bear.name entity.minecraft.polar_bear
+entity.leash_knot.name entity.minecraft.leash_knot
+entity.llama.name entity.minecraft.llama
+entity.parrot.name entity.minecraft.parrot
+entity.ravager.name entity.minecraft.ravager
+entity.chest_minecart.name entity.minecraft.chest_minecart item.minecraft.chest_minecart
+entity.tropicalfish.name entity.minecraft.tropical_fish item.minecraft.tropical_fish
+entity.lingering_potion.name item.minecraft.lingering_potion
+entity.mooshroom.name entity.minecraft.mooshroom
+entity.furnace_minecart.name entity.minecraft.furnace_minecart item.minecraft.furnace_minecart
+entity.pig.name entity.minecraft.pig
+entity.painting.name entity.minecraft.painting item.minecraft.painting
+entity.shulker.name entity.minecraft.shulker
+entity.tnt_minecart.name entity.minecraft.tnt_minecart item.minecraft.tnt_minecart
+entity.spider.name entity.minecraft.spider
+entity.silverfish.name entity.minecraft.silverfish
+entity.command_block_minecart.name entity.minecraft.command_block_minecart item.minecraft.command_block_minecart
+entity.rabbit.name entity.minecraft.rabbit
+entity.shulker_bullet.name entity.minecraft.shulker_bullet
+entity.pillager.name entity.minecraft.pillager
+entity.sheep.name entity.minecraft.sheep
+entity.villager.fletcher entity.minecraft.villager.fletcher
+entity.piglin.name entity.minecraft.piglin
+entity.skeleton.name entity.minecraft.skeleton
+entity.slime.name entity.minecraft.slime
+entity.small_fireball.name entity.minecraft.small_fireball
+entity.phantom.name entity.minecraft.phantom
+entity.stray.name entity.minecraft.stray
+entity.snowball.name entity.minecraft.snowball item.minecraft.snowball
+entity.villager.name entity.minecraft.villager entity.minecraft.villager.none
+entity.villager.farmer entity.minecraft.villager.farmer
+entity.turtle.name entity.minecraft.turtle
+entity.squid.name entity.minecraft.squid
+entity.skeleton_horse.name entity.minecraft.skeleton_horse
+entity.thrown_trident.name entity.minecraft.trident item.minecraft.trident
+entity.snow_golem.name entity.minecraft.snow_golem
+generator.amplified generator.amplified
+entity.villager.butcher entity.minecraft.villager.butcher
+entity.strider.name entity.minecraft.strider
+entity.splash_potion.name entity.minecraft.potion item.minecraft.potion
+entity.tnt.name block.minecraft.tnt
+entity.villager.armor entity.minecraft.villager.armorer
+entity.villager.fisherman entity.minecraft.villager.fisherman
+entity.vex.name entity.minecraft.vex
+entity.vindicator.name entity.minecraft.vindicator
+entity.villager.shepherd entity.minecraft.villager.shepherd
+entity.villager.leather entity.minecraft.villager.leatherworker
+entity.villager.cleric entity.minecraft.villager.cleric
+entity.xp_bottle.name item.minecraft.experience_bottle
+entity.villager.tool entity.minecraft.villager.toolsmith
+entity.witch.name entity.minecraft.witch
+entity.unknown.name selectWorld.versionUnknown
+entity.xp_orb.name entity.minecraft.experience_orb
+entity.wolf.name entity.minecraft.wolf
+entity.zoglin.name entity.minecraft.zoglin
+entity.villager.cartographer entity.minecraft.villager.cartographer
+entity.wither_skeleton.name entity.minecraft.wither_skeleton
+entity.zombie.name entity.minecraft.zombie
+entity.wither.name entity.minecraft.wither
+entity.villager.librarian entity.minecraft.villager.librarian
+entity.villager.weapon entity.minecraft.villager.weaponsmith
+entity.villager_v2.name entity.minecraft.villager entity.minecraft.villager.none
+entity.wandering_trader.name entity.minecraft.wandering_trader
+entity.villager.unskilled entity.minecraft.villager.nitwit
+entity.wither_skull.name entity.minecraft.wither_skull
+entity.villager.mason entity.minecraft.villager.mason
+addExternalServerScreen.nameTextBoxLabel addServer.enterName
+entity.zombie_horse.name entity.minecraft.zombie_horse
+entity.zombie_villager.name entity.minecraft.zombie_villager
+entity.zombie_pigman.name entity.minecraft.zombified_piglin
+entity.zombie_villager_v2.name entity.minecraft.zombie_villager
+feature.temple createWorld.customize.custom.useTemples
+addExternalServerScreen.saveButtonLabel selectWorld.edit.save structure_block.button.save
+addExternalServerScreen.ipTextBoxLabel addServer.enterIp
+feature.stronghold createWorld.customize.custom.useStrongholds
+feature.ruins createWorld.customize.custom.useOceanRuins
+addExternalServerScreen.addServer selectServer.add
+feature.mansion createWorld.customize.custom.useMansions
+feature.monument createWorld.customize.custom.useMonuments
+feature.mineshaft createWorld.customize.custom.useMineShafts
+feed.edit selectServer.edit selectWorld.edit
+feed.cancel gui.cancel
+feature.village createWorld.customize.custom.useVillages
+feed.return key.keyboard.menu
+feed.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+gameMode.adventure gameMode.adventure
+gameMode.creative gameMode.creative key.categories.creative
+furnaceScreen.header block.minecraft.furnace container.furnace
+gameMode.changed gameMode.changed
+gameMode.spectator gameMode.spectator
+gameMode.survival gameMode.survival
+gameMode.hardcore gameMode.hardcore
+generator.debug_all_block_states generator.debug_all_block_states
+generator.infinite enchantment.minecraft.infinity
+globalPauseScreen.quit disconnect.quitting multiplayer.status.quitting
+gui.done addServer.add gui.done narrator.loading.done
+gui.custom generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+gui.back dataPack.validation.back gui.back
+generator.default createWorld.customize.custom.defaults generator.default
+gui.all gui.all gui.socialInteractions.tab_all options.particles.all
+generator.flat generator.flat
+generator.customized generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+gui.cancel gui.cancel
+gui.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+gui.down gui.down
+generator.nether advancements.nether.root.title
+gui.edit selectServer.edit selectWorld.edit
+gui.default createWorld.customize.custom.defaults generator.default
+generator.largeBiomes generator.large_biomes
+gui.exit disconnect.quitting multiplayer.status.quitting
+gui.goBack dataPack.validation.back gui.back
+gui.no gui.no
+gui.continue gui.proceed
+gui.none gui.none
+gui.up gui.up
+gui.yes gui.yes
+gui.resourcepacks options.resourcepack
+gui.ok gui.ok
+gui.stats gui.stats
+howtoplay.category.crafting container.crafting
+hostOption.weather soundCategory.weather
+howtoplay.anvil block.minecraft.anvil
+howtoplay.armor.header.1 container.crafting
+howtoplay.category.theEnd advancements.end.root.title biome.minecraft.the_end
+howtoplay.armor attribute.name.generic.armor
+howtoplay.armor.header.2 item.minecraft.shield
+howtoplay.adventureMode gameMode.adventure
+howtoplay.armorStand entity.minecraft.armor_stand item.minecraft.armor_stand
+howtoplay.beacons block.minecraft.beacon container.beacon
+howtoplay.blocks soundCategory.block
+howtoplay.bookAndQuill item.minecraft.writable_book
+howtoplay.brewingStand block.minecraft.brewing_stand container.brewing item.minecraft.brewing_stand
+howtoplay.cauldron block.minecraft.cauldron item.minecraft.cauldron
+howtoplay.cauldron.header.2 item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+howtoplay.chat chat.editBox gamerule.category.chat options.accessibility.text_background.chat options.chat.visibility
+howtoplay.chests block.minecraft.chest container.chest
+howtoplay.commandBlocks block.minecraft.command_block
+howtoplay.controls.header.1 key.categories.movement
+howtoplay.conduits block.minecraft.conduit
+howtoplay.controls.header.3 key.sneak
+howtoplay.crafting container.crafting
+howtoplay.craftingTable block.minecraft.crafting_table
+howtoplay.difficulty.header.1 options.difficulty.peaceful
+howtoplay.creativeMode gameMode.creative key.categories.creative
+howtoplay.difficulty options.difficulty
+howtoplay.dispensers block.minecraft.dispenser container.dispenser
+howtoplay.difficulty.header.3 options.difficulty.normal selectWorld.mapType.normal
+howtoplay.difficulty.header.2 options.difficulty.easy
+howtoplay.difficulty.header.4 options.difficulty.hard
+howtoplay.droppers block.minecraft.dropper container.dropper
+howtoplay.elytra item.minecraft.elytra
+howtoplay.enchantingTable block.minecraft.enchanting_table
+howtoplay.enchantingTable.header.1 container.enchant
+howtoplay.enchantingTable.header.3 item.minecraft.enchanted_book
+howtoplay.eyeOfEnder entity.minecraft.eye_of_ender item.minecraft.ender_eye
+howtoplay.fireworks entity.minecraft.firework_rocket item.minecraft.firework_rocket
+howtoplay.enderChest block.minecraft.ender_chest container.enderchest
+howtoplay.fireworks.header.1 entity.minecraft.firework_rocket item.minecraft.firework_rocket
+howtoplay.furnace block.minecraft.furnace container.furnace
+howtoplay.hoppers block.minecraft.hopper container.hopper
+howtoplay.inventory container.inventory key.categories.inventory
+howtoplay.jukebox.header.2 itemGroup.redstone
+howtoplay.jukebox block.minecraft.jukebox
+howtoplay.loom block.minecraft.loom container.loom
+howtoplay.mounts.header.4 entity.minecraft.pig
+howtoplay.multiplayer key.categories.multiplayer menu.multiplayer multiplayer.title
+howtoplay.netherPortals block.minecraft.nether_portal
+howtoplay.pets.header.2 entity.minecraft.wolf
+howtoplay.pets.header.4 entity.minecraft.parrot
+howtoplay.pets.header.3 entity.minecraft.cat
+howtoplay.raids event.minecraft.raid
+howtoplay.raids.header.1 advancements.adventure.hero_of_the_village.title effect.minecraft.hero_of_the_village
+howtoplay.scaffolding block.minecraft.scaffolding
+howtoplay.redstone itemGroup.redstone
+howtoplay.structureBlocks block.minecraft.structure_block
+howtoplay.structureBlocks.header.2 advMode.mode
+howtoplay.servers pack.source.server
+howtoplay.theEnd advancements.end.root.title biome.minecraft.the_end
+howtoplay.tools itemGroup.tools
+howtoplay.transportation itemGroup.transportation
+howtoplay.transportation.header.1 entity.minecraft.minecart item.minecraft.minecart
+howtoplay.transportation.header.2 entity.minecraft.boat
+howtoplay.weapons.header.3 item.minecraft.crossbow
+howtoplay.weapons.header.2 item.minecraft.bow
+howtoplay.weapons.header.4 entity.minecraft.trident item.minecraft.trident
+item.axolotlColorBlue.name color.minecraft.blue item.minecraft.firework_star.blue
+item.apple.name item.minecraft.apple
+item.axolotlColorCyan.name color.minecraft.cyan item.minecraft.firework_star.cyan
+inventory.binSlot inventory.binSlot
+item.banner.blue.name block.minecraft.blue_banner
+item.appleEnchanted.name item.minecraft.enchanted_golden_apple
+item.axolotlColorWild.name color.minecraft.brown item.minecraft.firework_star.brown
+item.tipped_arrow.name item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+item.air.name block.minecraft.air
+item.arrow.name entity.minecraft.arrow item.minecraft.arrow
+item.banner.border.brown block.minecraft.banner.border.brown
+item.banner.border.gray block.minecraft.banner.border.gray
+item.armor_stand.name entity.minecraft.armor_stand item.minecraft.armor_stand
+item.banner.border.lightBlue block.minecraft.banner.border.light_blue
+item.banner.black.name block.minecraft.black_banner
+item.banner.border.cyan block.minecraft.banner.border.cyan
+item.banner.border.orange block.minecraft.banner.border.orange
+item.axolotlColorLucy.name color.minecraft.pink item.minecraft.firework_star.pink
+item.golden_apple.name item.minecraft.golden_apple
+item.banner.border.green block.minecraft.banner.border.green
+item.banner.border.purple block.minecraft.banner.border.purple
+item.banner.border.black block.minecraft.banner.border.black
+item.banner.border.white block.minecraft.banner.border.white
+item.banner.border.blue block.minecraft.banner.border.blue
+item.banner.bricks.cyan block.minecraft.banner.bricks.cyan
+item.banner.border.red block.minecraft.banner.border.red
+item.banner.border.silver block.minecraft.banner.border.light_gray
+item.banner.border.magenta block.minecraft.banner.border.magenta
+item.banner.border.pink block.minecraft.banner.border.pink
+item.banner.bricks.pink block.minecraft.banner.bricks.pink
+item.banner.bricks.brown block.minecraft.banner.bricks.brown
+item.banner.border.yellow block.minecraft.banner.border.yellow
+item.banner.bricks.black block.minecraft.banner.bricks.black
+item.banner.circle.brown block.minecraft.banner.circle.brown
+item.banner.bricks.magenta block.minecraft.banner.bricks.magenta
+item.banner.bricks.blue block.minecraft.banner.bricks.blue
+item.banner.bricks.silver block.minecraft.banner.bricks.light_gray
+item.banner.bricks.yellow block.minecraft.banner.bricks.yellow
+item.banner.border.lime block.minecraft.banner.border.lime
+item.banner.circle.blue block.minecraft.banner.circle.blue
+item.banner.bricks.lightBlue block.minecraft.banner.bricks.light_blue
+item.banner.bricks.gray block.minecraft.banner.bricks.gray
+item.banner.bricks.red block.minecraft.banner.bricks.red
+item.banner.bricks.lime block.minecraft.banner.bricks.lime
+item.banner.bricks.green block.minecraft.banner.bricks.green
+item.banner.circle.green block.minecraft.banner.circle.green
+item.banner.circle.magenta block.minecraft.banner.circle.magenta
+item.banner.circle.lightBlue block.minecraft.banner.circle.light_blue
+item.banner.circle.black block.minecraft.banner.circle.black
+item.banner.circle.red block.minecraft.banner.circle.red
+item.banner.bricks.orange block.minecraft.banner.bricks.orange
+item.banner.brown.name block.minecraft.brown_banner
+item.banner.bricks.white block.minecraft.banner.bricks.white
+item.banner.circle.gray block.minecraft.banner.circle.gray
+item.banner.circle.lime block.minecraft.banner.circle.lime
+item.banner.bricks.purple block.minecraft.banner.bricks.purple
+item.banner.circle.purple block.minecraft.banner.circle.purple
+item.banner.creeper.black block.minecraft.banner.creeper.black
+item.banner.circle.orange block.minecraft.banner.circle.orange
+item.banner.creeper.blue block.minecraft.banner.creeper.blue
+item.banner.circle.pink block.minecraft.banner.circle.pink
+item.banner.circle.silver block.minecraft.banner.circle.light_gray
+item.banner.creeper.cyan block.minecraft.banner.creeper.cyan
+item.banner.cross.brown block.minecraft.banner.cross.brown
+item.banner.circle.white block.minecraft.banner.circle.white
+item.banner.creeper.magenta block.minecraft.banner.creeper.magenta
+item.banner.circle.cyan block.minecraft.banner.circle.cyan
+item.banner.circle.yellow block.minecraft.banner.circle.yellow
+item.banner.creeper.pink block.minecraft.banner.creeper.pink
+item.banner.creeper.orange block.minecraft.banner.creeper.orange
+item.banner.creeper.brown block.minecraft.banner.creeper.brown
+item.banner.creeper.gray block.minecraft.banner.creeper.gray
+item.banner.creeper.red block.minecraft.banner.creeper.red
+item.banner.cross.silver block.minecraft.banner.cross.light_gray
+item.banner.creeper.lightBlue block.minecraft.banner.creeper.light_blue
+item.banner.creeper.green block.minecraft.banner.creeper.green
+item.banner.creeper.purple block.minecraft.banner.creeper.purple
+item.banner.creeper.silver block.minecraft.banner.creeper.light_gray
+item.banner.cross.gray block.minecraft.banner.cross.gray
+item.banner.cross.cyan block.minecraft.banner.cross.cyan
+item.banner.creeper.lime block.minecraft.banner.creeper.lime
+item.banner.cross.blue block.minecraft.banner.cross.blue
+item.banner.cross.lightBlue block.minecraft.banner.cross.light_blue
+item.banner.creeper.yellow block.minecraft.banner.creeper.yellow
+item.banner.cross.black block.minecraft.banner.cross.black
+item.banner.cross.green block.minecraft.banner.cross.green
+item.banner.cross.pink block.minecraft.banner.cross.pink
+item.banner.creeper.white block.minecraft.banner.creeper.white
+item.banner.curly_border.black block.minecraft.banner.curly_border.black
+item.banner.curly_border.green block.minecraft.banner.curly_border.green
+item.banner.cross.purple block.minecraft.banner.cross.purple
+item.banner.curly_border.brown block.minecraft.banner.curly_border.brown
+item.banner.cross.yellow block.minecraft.banner.cross.yellow
+item.banner.cross.orange block.minecraft.banner.cross.orange
+item.banner.cross.lime block.minecraft.banner.cross.lime
+item.banner.curly_border.orange block.minecraft.banner.curly_border.orange
+item.banner.cross.magenta block.minecraft.banner.cross.magenta
+item.banner.cross.red block.minecraft.banner.cross.red
+item.banner.cross.white block.minecraft.banner.cross.white
+item.banner.curly_border.white block.minecraft.banner.curly_border.white
+item.banner.curly_border.magenta block.minecraft.banner.curly_border.magenta
+item.banner.curly_border.pink block.minecraft.banner.curly_border.pink
+item.banner.curly_border.cyan block.minecraft.banner.curly_border.cyan
+item.banner.curly_border.purple block.minecraft.banner.curly_border.purple
+item.banner.curly_border.lime block.minecraft.banner.curly_border.lime
+item.banner.curly_border.gray block.minecraft.banner.curly_border.gray
+item.banner.curly_border.blue block.minecraft.banner.curly_border.blue
+item.banner.curly_border.yellow block.minecraft.banner.curly_border.yellow
+item.banner.diagonal_left.black block.minecraft.banner.diagonal_left.black
+item.banner.diagonal_left.gray block.minecraft.banner.diagonal_left.gray
+item.banner.curly_border.silver block.minecraft.banner.curly_border.light_gray
+item.banner.diagonal_left.lightBlue block.minecraft.banner.diagonal_left.light_blue
+item.banner.curly_border.red block.minecraft.banner.curly_border.red
+item.banner.diagonal_left.magenta block.minecraft.banner.diagonal_left.magenta
+item.banner.diagonal_left.blue block.minecraft.banner.diagonal_left.blue
+item.banner.diagonal_left.orange block.minecraft.banner.diagonal_left.orange
+item.banner.diagonal_left.lime block.minecraft.banner.diagonal_left.lime
+item.banner.diagonal_right.blue block.minecraft.banner.diagonal_right.blue
+item.banner.diagonal_left.cyan block.minecraft.banner.diagonal_left.cyan
+item.banner.curly_border.lightBlue block.minecraft.banner.curly_border.light_blue
+item.banner.diagonal_right.black block.minecraft.banner.diagonal_right.black
+item.banner.diagonal_right.cyan block.minecraft.banner.diagonal_right.cyan
+item.banner.diagonal_left.red block.minecraft.banner.diagonal_left.red
+item.banner.diagonal_left.brown block.minecraft.banner.diagonal_left.brown
+item.banner.diagonal_left.white block.minecraft.banner.diagonal_left.white
+item.banner.diagonal_left.pink block.minecraft.banner.diagonal_left.pink
+item.banner.diagonal_left.yellow block.minecraft.banner.diagonal_left.yellow
+item.banner.diagonal_right.brown block.minecraft.banner.diagonal_right.brown
+item.banner.diagonal_left.silver block.minecraft.banner.diagonal_left.light_gray
+item.banner.cyan.name block.minecraft.cyan_banner
+item.banner.diagonal_left.purple block.minecraft.banner.diagonal_left.purple
+item.banner.diagonal_right.red block.minecraft.banner.diagonal_right.red
+item.banner.diagonal_left.green block.minecraft.banner.diagonal_left.green
+item.banner.diagonal_right.green block.minecraft.banner.diagonal_right.green
+item.banner.diagonal_up_left.black block.minecraft.banner.diagonal_up_left.black
+item.banner.diagonal_right.lime block.minecraft.banner.diagonal_right.lime
+item.banner.diagonal_right.lightBlue block.minecraft.banner.diagonal_right.light_blue
+item.banner.diagonal_right.magenta block.minecraft.banner.diagonal_right.magenta
+item.banner.diagonal_right.gray block.minecraft.banner.diagonal_right.gray
+item.banner.diagonal_right.orange block.minecraft.banner.diagonal_right.orange
+item.banner.diagonal_up_left.orange block.minecraft.banner.diagonal_up_left.orange
+item.banner.diagonal_up_left.brown block.minecraft.banner.diagonal_up_left.brown
+item.banner.diagonal_right.purple block.minecraft.banner.diagonal_right.purple
+item.banner.diagonal_right.pink block.minecraft.banner.diagonal_right.pink
+item.banner.diagonal_right.yellow block.minecraft.banner.diagonal_right.yellow
+item.banner.diagonal_up_left.green block.minecraft.banner.diagonal_up_left.green
+item.banner.diagonal_up_left.lightBlue block.minecraft.banner.diagonal_up_left.light_blue
+item.banner.diagonal_right.silver block.minecraft.banner.diagonal_right.light_gray
+item.banner.diagonal_up_left.purple block.minecraft.banner.diagonal_up_left.purple
+item.banner.diagonal_up_right.black block.minecraft.banner.diagonal_up_right.black
+item.banner.diagonal_up_right.magenta block.minecraft.banner.diagonal_up_right.magenta
+item.banner.diagonal_right.white block.minecraft.banner.diagonal_right.white
+item.banner.diagonal_up_left.lime block.minecraft.banner.diagonal_up_left.lime
+item.banner.diagonal_up_left.gray block.minecraft.banner.diagonal_up_left.gray
+item.banner.diagonal_up_left.cyan block.minecraft.banner.diagonal_up_left.cyan
+item.banner.diagonal_up_left.blue block.minecraft.banner.diagonal_up_left.blue
+item.banner.diagonal_up_left.yellow block.minecraft.banner.diagonal_up_left.yellow
+item.banner.diagonal_up_left.magenta block.minecraft.banner.diagonal_up_left.magenta
+item.banner.diagonal_up_left.red block.minecraft.banner.diagonal_up_left.red
+item.banner.flower.brown block.minecraft.banner.flower.brown
+item.banner.diagonal_up_right.lightBlue block.minecraft.banner.diagonal_up_right.light_blue
+item.banner.diagonal_up_right.gray block.minecraft.banner.diagonal_up_right.gray
+item.banner.diagonal_up_right.blue block.minecraft.banner.diagonal_up_right.blue
+item.banner.diagonal_up_right.brown block.minecraft.banner.diagonal_up_right.brown
+item.banner.diagonal_up_right.purple block.minecraft.banner.diagonal_up_right.purple
+item.banner.diagonal_up_left.pink block.minecraft.banner.diagonal_up_left.pink
+item.banner.diagonal_up_left.white block.minecraft.banner.diagonal_up_left.white
+item.banner.diagonal_up_left.silver block.minecraft.banner.diagonal_up_left.light_gray
+item.banner.diagonal_up_right.lime block.minecraft.banner.diagonal_up_right.lime
+item.banner.diagonal_up_right.green block.minecraft.banner.diagonal_up_right.green
+item.banner.diagonal_up_right.cyan block.minecraft.banner.diagonal_up_right.cyan
+item.banner.flower.green block.minecraft.banner.flower.green
+item.banner.flower.gray block.minecraft.banner.flower.gray
+item.banner.diagonal_up_right.silver block.minecraft.banner.diagonal_up_right.light_gray
+item.banner.flower.red block.minecraft.banner.flower.red
+item.banner.diagonal_up_right.yellow block.minecraft.banner.diagonal_up_right.yellow
+item.banner.flower.black block.minecraft.banner.flower.black
+item.banner.diagonal_up_right.white block.minecraft.banner.diagonal_up_right.white
+item.banner.flower.lime block.minecraft.banner.flower.lime
+item.banner.diagonal_up_right.orange block.minecraft.banner.diagonal_up_right.orange
+item.banner.flower.orange block.minecraft.banner.flower.orange
+item.banner.gradient.black block.minecraft.banner.gradient.black
+item.banner.flower.blue block.minecraft.banner.flower.blue
+item.banner.flower.lightBlue block.minecraft.banner.flower.light_blue
+item.banner.flower.white block.minecraft.banner.flower.white
+item.banner.flower.silver block.minecraft.banner.flower.light_gray
+item.banner.diagonal_up_right.pink block.minecraft.banner.diagonal_up_right.pink
+item.banner.gradient.cyan block.minecraft.banner.gradient.cyan
+item.banner.flower.cyan block.minecraft.banner.flower.cyan
+item.banner.diagonal_up_right.red block.minecraft.banner.diagonal_up_right.red
+item.banner.gradient.blue block.minecraft.banner.gradient.blue
+item.banner.flower.yellow block.minecraft.banner.flower.yellow
+item.banner.flower.pink block.minecraft.banner.flower.pink
+item.banner.gradient.brown block.minecraft.banner.gradient.brown
+item.banner.flower.purple block.minecraft.banner.flower.purple
+item.banner.gradient.lime block.minecraft.banner.gradient.lime
+item.banner.flower.magenta block.minecraft.banner.flower.magenta
+item.banner.gradient.green block.minecraft.banner.gradient.green
+item.banner.gradient.gray block.minecraft.banner.gradient.gray
+item.banner.gradient.silver block.minecraft.banner.gradient.light_gray
+item.banner.gradient.orange block.minecraft.banner.gradient.orange
+item.banner.gradient.pink block.minecraft.banner.gradient.pink
+item.banner.gradient_up.lightBlue block.minecraft.banner.gradient_up.light_blue
+item.banner.gradient.lightBlue block.minecraft.banner.gradient.light_blue
+item.banner.gradient_up.magenta block.minecraft.banner.gradient_up.magenta
+item.banner.gradient.white block.minecraft.banner.gradient.white
+item.banner.gradient.magenta block.minecraft.banner.gradient.magenta
+item.banner.gradient_up.black block.minecraft.banner.gradient_up.black
+item.banner.gradient_up.cyan block.minecraft.banner.gradient_up.cyan
+item.banner.gradient.yellow block.minecraft.banner.gradient.yellow
+item.banner.gradient.red block.minecraft.banner.gradient.red
+item.banner.gradient.purple block.minecraft.banner.gradient.purple
+item.banner.gradient_up.gray block.minecraft.banner.gradient_up.gray
+item.banner.gradient_up.silver block.minecraft.banner.gradient_up.light_gray
+item.banner.gradient_up.brown block.minecraft.banner.gradient_up.brown
+item.banner.green.name block.minecraft.green_banner
+item.banner.gradient_up.green block.minecraft.banner.gradient_up.green
+item.banner.gradient_up.lime block.minecraft.banner.gradient_up.lime
+item.banner.gradient_up.orange block.minecraft.banner.gradient_up.orange
+item.banner.gradient_up.red block.minecraft.banner.gradient_up.red
+item.banner.half_horizontal.black block.minecraft.banner.half_horizontal.black
+item.banner.gradient_up.white block.minecraft.banner.gradient_up.white
+item.banner.half_horizontal.magenta block.minecraft.banner.half_horizontal.magenta
+item.banner.gradient_up.yellow block.minecraft.banner.gradient_up.yellow
+item.banner.gradient_up.purple block.minecraft.banner.gradient_up.purple
+item.banner.gray.name block.minecraft.gray_banner
+item.banner.half_horizontal.purple block.minecraft.banner.half_horizontal.purple
+item.banner.half_horizontal.blue block.minecraft.banner.half_horizontal.blue
+item.banner.half_horizontal.brown block.minecraft.banner.half_horizontal.brown
+item.banner.half_horizontal_bottom.brown block.minecraft.banner.half_horizontal_bottom.brown
+item.banner.half_horizontal.gray block.minecraft.banner.half_horizontal.gray
+item.banner.half_horizontal.cyan block.minecraft.banner.half_horizontal.cyan
+item.banner.half_horizontal.lightBlue block.minecraft.banner.half_horizontal.light_blue
+item.banner.half_horizontal.yellow block.minecraft.banner.half_horizontal.yellow
+item.banner.half_horizontal_bottom.magenta block.minecraft.banner.half_horizontal_bottom.magenta
+item.banner.gradient_up.pink block.minecraft.banner.gradient_up.pink
+item.banner.half_horizontal.green block.minecraft.banner.half_horizontal.green
+item.banner.half_horizontal.red block.minecraft.banner.half_horizontal.red
+item.banner.half_horizontal.silver block.minecraft.banner.half_horizontal.light_gray
+item.banner.half_horizontal_bottom.black block.minecraft.banner.half_horizontal_bottom.black
+item.banner.half_horizontal.lime block.minecraft.banner.half_horizontal.lime
+item.banner.half_horizontal_bottom.blue block.minecraft.banner.half_horizontal_bottom.blue
+item.banner.half_horizontal.white block.minecraft.banner.half_horizontal.white
+item.banner.half_horizontal_bottom.orange block.minecraft.banner.half_horizontal_bottom.orange
+item.banner.half_vertical.magenta block.minecraft.banner.half_vertical.magenta
+item.banner.half_horizontal_bottom.silver block.minecraft.banner.half_horizontal_bottom.light_gray
+item.banner.half_horizontal.pink block.minecraft.banner.half_horizontal.pink
+item.banner.half_horizontal_bottom.yellow block.minecraft.banner.half_horizontal_bottom.yellow
+item.banner.half_horizontal_bottom.lightBlue block.minecraft.banner.half_horizontal_bottom.light_blue
+item.banner.half_vertical.brown block.minecraft.banner.half_vertical.brown
+item.banner.half_horizontal_bottom.gray block.minecraft.banner.half_horizontal_bottom.gray
+item.banner.half_horizontal.orange block.minecraft.banner.half_horizontal.orange
+item.banner.half_horizontal_bottom.green block.minecraft.banner.half_horizontal_bottom.green
+item.banner.half_horizontal_bottom.lime block.minecraft.banner.half_horizontal_bottom.lime
+item.banner.half_vertical.pink block.minecraft.banner.half_vertical.pink
+item.banner.half_horizontal_bottom.white block.minecraft.banner.half_horizontal_bottom.white
+item.banner.half_horizontal_bottom.cyan block.minecraft.banner.half_horizontal_bottom.cyan
+item.banner.half_vertical.cyan block.minecraft.banner.half_vertical.cyan
+item.banner.half_horizontal_bottom.pink block.minecraft.banner.half_horizontal_bottom.pink
+item.banner.half_vertical_right.brown block.minecraft.banner.half_vertical_right.brown
+item.banner.half_horizontal_bottom.red block.minecraft.banner.half_horizontal_bottom.red
+item.banner.half_vertical.black block.minecraft.banner.half_vertical.black
+item.banner.half_vertical.yellow block.minecraft.banner.half_vertical.yellow
+item.banner.half_vertical.blue block.minecraft.banner.half_vertical.blue
+item.banner.half_vertical.lightBlue block.minecraft.banner.half_vertical.light_blue
+item.banner.half_horizontal_bottom.purple block.minecraft.banner.half_horizontal_bottom.purple
+item.banner.half_vertical.silver block.minecraft.banner.half_vertical.light_gray
+item.banner.half_vertical.orange block.minecraft.banner.half_vertical.orange
+item.banner.half_vertical.red block.minecraft.banner.half_vertical.red
+item.banner.half_vertical.green block.minecraft.banner.half_vertical.green
+item.banner.half_vertical_right.orange block.minecraft.banner.half_vertical_right.orange
+item.banner.half_vertical.gray block.minecraft.banner.half_vertical.gray
+item.banner.half_vertical.purple block.minecraft.banner.half_vertical.purple
+item.banner.half_vertical.white block.minecraft.banner.half_vertical.white
+item.banner.half_vertical_right.black block.minecraft.banner.half_vertical_right.black
+item.banner.half_vertical.lime block.minecraft.banner.half_vertical.lime
+item.banner.half_vertical_right.magenta block.minecraft.banner.half_vertical_right.magenta
+item.banner.half_vertical_right.gray block.minecraft.banner.half_vertical_right.gray
+item.banner.half_vertical_right.lightBlue block.minecraft.banner.half_vertical_right.light_blue
+item.banner.mojang.cyan block.minecraft.banner.mojang.cyan
+item.banner.half_vertical_right.green block.minecraft.banner.half_vertical_right.green
+item.banner.half_vertical_right.purple block.minecraft.banner.half_vertical_right.purple
+item.banner.half_vertical_right.blue block.minecraft.banner.half_vertical_right.blue
+item.banner.mojang.brown block.minecraft.banner.mojang.brown
+item.banner.mojang.purple block.minecraft.banner.mojang.purple
+item.banner.mojang.orange block.minecraft.banner.mojang.orange
+item.banner.half_vertical_right.cyan block.minecraft.banner.half_vertical_right.cyan
+item.banner.half_vertical_right.red block.minecraft.banner.half_vertical_right.red
+item.banner.half_vertical_right.silver block.minecraft.banner.half_vertical_right.light_gray
+item.banner.lightBlue.name block.minecraft.light_blue_banner
+item.banner.magenta.name block.minecraft.magenta_banner
+item.banner.mojang.pink block.minecraft.banner.mojang.pink
+item.banner.mojang.white block.minecraft.banner.mojang.white
+item.banner.half_vertical_right.white block.minecraft.banner.half_vertical_right.white
+item.banner.mojang.lime block.minecraft.banner.mojang.lime
+item.banner.mojang.blue block.minecraft.banner.mojang.blue
+item.banner.half_vertical_right.lime block.minecraft.banner.half_vertical_right.lime
+item.banner.mojang.lightBlue block.minecraft.banner.mojang.light_blue
+item.banner.half_vertical_right.yellow block.minecraft.banner.half_vertical_right.yellow
+item.banner.lime.name block.minecraft.lime_banner
+item.banner.piglin.gray block.minecraft.banner.piglin.gray
+item.banner.mojang.gray block.minecraft.banner.mojang.gray
+item.banner.piglin.blue block.minecraft.banner.piglin.blue
+item.banner.mojang.black block.minecraft.banner.mojang.black
+item.banner.piglin.cyan block.minecraft.banner.piglin.cyan
+item.banner.mojang.yellow block.minecraft.banner.mojang.yellow
+item.banner.mojang.silver block.minecraft.banner.mojang.light_gray
+item.banner.piglin.white block.minecraft.banner.piglin.white
+item.banner.rhombus.cyan block.minecraft.banner.rhombus.cyan
+item.banner.half_vertical_right.pink block.minecraft.banner.half_vertical_right.pink
+item.banner.piglin.lightBlue block.minecraft.banner.piglin.light_blue
+item.banner.rhombus.lightBlue block.minecraft.banner.rhombus.light_blue
+item.banner.piglin.silver block.minecraft.banner.piglin.light_gray
+item.banner.piglin.purple block.minecraft.banner.piglin.purple
+item.banner.mojang.green block.minecraft.banner.mojang.green
+item.banner.orange.name block.minecraft.orange_banner
+item.banner.mojang.red block.minecraft.banner.mojang.red
+item.banner.rhombus.magenta block.minecraft.banner.rhombus.magenta
+item.banner.piglin.black block.minecraft.banner.piglin.black
+item.banner.piglin.brown block.minecraft.banner.piglin.brown
+item.banner.piglin.green block.minecraft.banner.piglin.green
+item.banner.rhombus.black block.minecraft.banner.rhombus.black
+item.banner.rhombus.blue block.minecraft.banner.rhombus.blue
+item.banner.piglin.magenta block.minecraft.banner.piglin.magenta
+item.banner.mojang.magenta block.minecraft.banner.mojang.magenta
+item.banner.rhombus.pink block.minecraft.banner.rhombus.pink
+item.banner.pink.name block.minecraft.pink_banner
+item.banner.piglin.orange block.minecraft.banner.piglin.orange
+item.banner.piglin.red block.minecraft.banner.piglin.red
+item.banner.piglin.yellow block.minecraft.banner.piglin.yellow
+item.banner.piglin.pink block.minecraft.banner.piglin.pink
+item.banner.rhombus.brown block.minecraft.banner.rhombus.brown
+item.banner.purple.name block.minecraft.purple_banner
+item.banner.skull.gray block.minecraft.banner.skull.gray
+item.banner.rhombus.gray block.minecraft.banner.rhombus.gray
+item.banner.rhombus.orange block.minecraft.banner.rhombus.orange
+item.banner.red.name block.minecraft.red_banner
+item.banner.rhombus.white block.minecraft.banner.rhombus.white
+item.banner.rhombus.green block.minecraft.banner.rhombus.green
+item.banner.silver.name block.minecraft.light_gray_banner
+item.banner.rhombus.lime block.minecraft.banner.rhombus.lime
+item.banner.skull.lime block.minecraft.banner.skull.lime
+item.banner.piglin.lime block.minecraft.banner.piglin.lime
+item.banner.skull.green block.minecraft.banner.skull.green
+item.banner.rhombus.purple block.minecraft.banner.rhombus.purple
+item.banner.rhombus.silver block.minecraft.banner.rhombus.light_gray
+item.banner.skull.orange block.minecraft.banner.skull.orange
+item.banner.rhombus.yellow block.minecraft.banner.rhombus.yellow
+item.banner.skull.magenta block.minecraft.banner.skull.magenta
+item.banner.small_stripes.cyan block.minecraft.banner.small_stripes.cyan
+item.banner.skull.cyan block.minecraft.banner.skull.cyan
+item.banner.skull.black block.minecraft.banner.skull.black
+item.banner.skull.silver block.minecraft.banner.skull.light_gray
+item.banner.rhombus.red block.minecraft.banner.rhombus.red
+item.banner.skull.white block.minecraft.banner.skull.white
+item.banner.skull.blue block.minecraft.banner.skull.blue
+item.banner.skull.purple block.minecraft.banner.skull.purple
+item.banner.small_stripes.black block.minecraft.banner.small_stripes.black
+item.banner.small_stripes.yellow block.minecraft.banner.small_stripes.yellow
+item.banner.square_bottom_left.orange block.minecraft.banner.square_bottom_left.orange
+item.banner.skull.lightBlue block.minecraft.banner.skull.light_blue
+item.banner.skull.brown block.minecraft.banner.skull.brown
+item.banner.small_stripes.white block.minecraft.banner.small_stripes.white
+item.banner.small_stripes.red block.minecraft.banner.small_stripes.red
+item.banner.small_stripes.green block.minecraft.banner.small_stripes.green
+item.banner.skull.red block.minecraft.banner.skull.red
+item.banner.square_bottom_left.gray block.minecraft.banner.square_bottom_left.gray
+item.banner.square_bottom_left.magenta block.minecraft.banner.square_bottom_left.magenta
+item.banner.small_stripes.brown block.minecraft.banner.small_stripes.brown
+item.banner.skull.pink block.minecraft.banner.skull.pink
+item.banner.small_stripes.blue block.minecraft.banner.small_stripes.blue
+item.banner.small_stripes.lightBlue block.minecraft.banner.small_stripes.light_blue
+item.banner.square_bottom_left.black block.minecraft.banner.square_bottom_left.black
+item.banner.square_bottom_left.brown block.minecraft.banner.square_bottom_left.brown
+item.banner.small_stripes.pink block.minecraft.banner.small_stripes.pink
+item.banner.square_bottom_left.cyan block.minecraft.banner.square_bottom_left.cyan
+item.banner.small_stripes.purple block.minecraft.banner.small_stripes.purple
+item.banner.small_stripes.lime block.minecraft.banner.small_stripes.lime
+item.banner.small_stripes.orange block.minecraft.banner.small_stripes.orange
+item.banner.small_stripes.gray block.minecraft.banner.small_stripes.gray
+item.banner.square_bottom_right.blue block.minecraft.banner.square_bottom_right.blue
+item.banner.square_bottom_left.red block.minecraft.banner.square_bottom_left.red
+item.banner.square_bottom_left.silver block.minecraft.banner.square_bottom_left.light_gray
+item.banner.square_bottom_left.purple block.minecraft.banner.square_bottom_left.purple
+item.banner.square_bottom_left.lightBlue block.minecraft.banner.square_bottom_left.light_blue
+item.banner.skull.yellow block.minecraft.banner.skull.yellow
+item.banner.small_stripes.silver block.minecraft.banner.small_stripes.light_gray
+item.banner.square_bottom_right.cyan block.minecraft.banner.square_bottom_right.cyan
+item.banner.small_stripes.magenta block.minecraft.banner.small_stripes.magenta
+item.banner.square_bottom_left.green block.minecraft.banner.square_bottom_left.green
+item.banner.square_bottom_left.pink block.minecraft.banner.square_bottom_left.pink
+item.banner.square_bottom_right.white block.minecraft.banner.square_bottom_right.white
+item.banner.square_bottom_left.blue block.minecraft.banner.square_bottom_left.blue
+item.banner.square_bottom_left.yellow block.minecraft.banner.square_bottom_left.yellow
+item.banner.square_bottom_right.purple block.minecraft.banner.square_bottom_right.purple
+item.banner.square_bottom_right.gray block.minecraft.banner.square_bottom_right.gray
+item.banner.square_bottom_left.lime block.minecraft.banner.square_bottom_left.lime
+item.banner.square_bottom_right.magenta block.minecraft.banner.square_bottom_right.magenta
+item.banner.square_top_left.blue block.minecraft.banner.square_top_left.blue
+item.banner.square_bottom_right.black block.minecraft.banner.square_bottom_right.black
+item.banner.square_bottom_right.brown block.minecraft.banner.square_bottom_right.brown
+item.banner.square_bottom_left.white block.minecraft.banner.square_bottom_left.white
+item.banner.square_top_left.green block.minecraft.banner.square_top_left.green
+item.banner.square_bottom_right.lime block.minecraft.banner.square_bottom_right.lime
+item.banner.square_bottom_right.lightBlue block.minecraft.banner.square_bottom_right.light_blue
+item.banner.square_bottom_right.orange block.minecraft.banner.square_bottom_right.orange
+item.banner.square_bottom_right.red block.minecraft.banner.square_bottom_right.red
+item.banner.square_top_left.cyan block.minecraft.banner.square_top_left.cyan
+item.banner.square_top_left.orange block.minecraft.banner.square_top_left.orange
+item.banner.square_top_left.red block.minecraft.banner.square_top_left.red
+item.banner.square_top_left.brown block.minecraft.banner.square_top_left.brown
+item.banner.square_top_left.gray block.minecraft.banner.square_top_left.gray
+item.banner.square_top_left.black block.minecraft.banner.square_top_left.black
+item.banner.square_bottom_right.green block.minecraft.banner.square_bottom_right.green
+item.banner.square_top_left.magenta block.minecraft.banner.square_top_left.magenta
+item.banner.square_top_right.blue block.minecraft.banner.square_top_right.blue
+item.banner.square_bottom_right.silver block.minecraft.banner.square_bottom_right.light_gray
+item.banner.square_top_left.silver block.minecraft.banner.square_top_left.light_gray
+item.banner.square_top_left.lightBlue block.minecraft.banner.square_top_left.light_blue
+item.banner.square_top_left.white block.minecraft.banner.square_top_left.white
+item.banner.square_bottom_right.yellow block.minecraft.banner.square_bottom_right.yellow
+item.banner.square_top_right.purple block.minecraft.banner.square_top_right.purple
+item.banner.square_top_right.green block.minecraft.banner.square_top_right.green
+item.banner.square_top_left.pink block.minecraft.banner.square_top_left.pink
+item.banner.square_top_right.brown block.minecraft.banner.square_top_right.brown
+item.banner.square_top_right.cyan block.minecraft.banner.square_top_right.cyan
+item.banner.square_top_left.purple block.minecraft.banner.square_top_left.purple
+item.banner.square_top_right.lightBlue block.minecraft.banner.square_top_right.light_blue
+item.banner.straight_cross.blue block.minecraft.banner.straight_cross.blue
+item.banner.square_top_right.red block.minecraft.banner.square_top_right.red
+item.banner.square_top_left.yellow block.minecraft.banner.square_top_left.yellow
+item.banner.square_top_left.lime block.minecraft.banner.square_top_left.lime
+item.banner.square_top_right.gray block.minecraft.banner.square_top_right.gray
+item.banner.square_top_right.orange block.minecraft.banner.square_top_right.orange
+item.banner.straight_cross.green block.minecraft.banner.straight_cross.green
+item.banner.square_top_right.lime block.minecraft.banner.square_top_right.lime
+item.banner.square_top_right.magenta block.minecraft.banner.square_top_right.magenta
+item.banner.square_top_right.black block.minecraft.banner.square_top_right.black
+item.banner.square_top_right.white block.minecraft.banner.square_top_right.white
+item.banner.square_top_right.silver block.minecraft.banner.square_top_right.light_gray
+item.banner.straight_cross.lightBlue block.minecraft.banner.straight_cross.light_blue
+item.banner.straight_cross.orange block.minecraft.banner.straight_cross.orange
+item.banner.straight_cross.pink block.minecraft.banner.straight_cross.pink
+item.banner.square_top_right.pink block.minecraft.banner.square_top_right.pink
+item.banner.straight_cross.red block.minecraft.banner.straight_cross.red
+item.banner.square_top_right.yellow block.minecraft.banner.square_top_right.yellow
+item.banner.stripe_bottom.blue block.minecraft.banner.stripe_bottom.blue
+item.banner.stripe_bottom.black block.minecraft.banner.stripe_bottom.black
+item.banner.straight_cross.brown block.minecraft.banner.straight_cross.brown
+item.banner.straight_cross.gray block.minecraft.banner.straight_cross.gray
+item.banner.straight_cross.silver block.minecraft.banner.straight_cross.light_gray
+item.banner.straight_cross.white block.minecraft.banner.straight_cross.white
+item.banner.straight_cross.magenta block.minecraft.banner.straight_cross.magenta
+item.banner.straight_cross.black block.minecraft.banner.straight_cross.black
+item.banner.straight_cross.cyan block.minecraft.banner.straight_cross.cyan
+item.banner.stripe_bottom.gray block.minecraft.banner.stripe_bottom.gray
+item.banner.stripe_bottom.cyan block.minecraft.banner.stripe_bottom.cyan
+item.banner.straight_cross.yellow block.minecraft.banner.straight_cross.yellow
+item.banner.straight_cross.purple block.minecraft.banner.straight_cross.purple
+item.banner.stripe_center.black block.minecraft.banner.stripe_center.black
+item.banner.straight_cross.lime block.minecraft.banner.straight_cross.lime
+item.banner.stripe_bottom.green block.minecraft.banner.stripe_bottom.green
+item.banner.stripe_bottom.magenta block.minecraft.banner.stripe_bottom.magenta
+item.banner.stripe_center.gray block.minecraft.banner.stripe_center.gray
+item.banner.stripe_bottom.pink block.minecraft.banner.stripe_bottom.pink
+item.banner.stripe_center.cyan block.minecraft.banner.stripe_center.cyan
+item.banner.stripe_center.lightBlue block.minecraft.banner.stripe_center.light_blue
+item.banner.stripe_bottom.brown block.minecraft.banner.stripe_bottom.brown
+item.banner.stripe_center.brown block.minecraft.banner.stripe_center.brown
+item.banner.stripe_bottom.lime block.minecraft.banner.stripe_bottom.lime
+item.banner.stripe_bottom.orange block.minecraft.banner.stripe_bottom.orange
+item.banner.stripe_center.yellow block.minecraft.banner.stripe_center.yellow
+item.banner.stripe_center.white block.minecraft.banner.stripe_center.white
+item.banner.stripe_bottom.purple block.minecraft.banner.stripe_bottom.purple
+item.banner.stripe_bottom.lightBlue block.minecraft.banner.stripe_bottom.light_blue
+item.banner.stripe_center.blue block.minecraft.banner.stripe_center.blue
+item.banner.stripe_bottom.white block.minecraft.banner.stripe_bottom.white
+item.banner.stripe_downleft.brown block.minecraft.banner.stripe_downleft.brown
+item.banner.stripe_bottom.red block.minecraft.banner.stripe_bottom.red
+item.banner.stripe_bottom.yellow block.minecraft.banner.stripe_bottom.yellow
+item.banner.stripe_center.green block.minecraft.banner.stripe_center.green
+item.banner.stripe_center.silver block.minecraft.banner.stripe_center.light_gray
+item.banner.stripe_center.magenta block.minecraft.banner.stripe_center.magenta
+item.banner.stripe_center.lime block.minecraft.banner.stripe_center.lime
+item.banner.stripe_bottom.silver block.minecraft.banner.stripe_bottom.light_gray
+item.banner.stripe_center.orange block.minecraft.banner.stripe_center.orange
+item.banner.stripe_center.purple block.minecraft.banner.stripe_center.purple
+item.banner.stripe_downleft.blue block.minecraft.banner.stripe_downleft.blue
+item.banner.stripe_downleft.lime block.minecraft.banner.stripe_downleft.lime
+item.banner.stripe_downleft.green block.minecraft.banner.stripe_downleft.green
+item.banner.stripe_downleft.magenta block.minecraft.banner.stripe_downleft.magenta
+item.banner.stripe_center.red block.minecraft.banner.stripe_center.red
+item.banner.stripe_downleft.orange block.minecraft.banner.stripe_downleft.orange
+item.banner.stripe_downleft.cyan block.minecraft.banner.stripe_downleft.cyan
+item.banner.stripe_downleft.lightBlue block.minecraft.banner.stripe_downleft.light_blue
+item.banner.stripe_downright.blue block.minecraft.banner.stripe_downright.blue
+item.banner.stripe_downleft.black block.minecraft.banner.stripe_downleft.black
+item.banner.stripe_downright.black block.minecraft.banner.stripe_downright.black
+item.banner.stripe_downleft.silver block.minecraft.banner.stripe_downleft.light_gray
+item.banner.stripe_downright.gray block.minecraft.banner.stripe_downright.gray
+item.banner.stripe_downleft.gray block.minecraft.banner.stripe_downleft.gray
+item.banner.stripe_downleft.pink block.minecraft.banner.stripe_downleft.pink
+item.banner.stripe_downleft.white block.minecraft.banner.stripe_downleft.white
+item.banner.stripe_downright.orange block.minecraft.banner.stripe_downright.orange
+item.banner.stripe_downleft.purple block.minecraft.banner.stripe_downleft.purple
+item.banner.stripe_downright.cyan block.minecraft.banner.stripe_downright.cyan
+item.banner.stripe_downright.white block.minecraft.banner.stripe_downright.white
+item.banner.stripe_downright.brown block.minecraft.banner.stripe_downright.brown
+item.banner.stripe_downright.green block.minecraft.banner.stripe_downright.green
+item.banner.stripe_downleft.red block.minecraft.banner.stripe_downleft.red
+item.banner.stripe_downright.silver block.minecraft.banner.stripe_downright.light_gray
+item.banner.stripe_left.black block.minecraft.banner.stripe_left.black
+item.banner.stripe_downright.magenta block.minecraft.banner.stripe_downright.magenta
+item.banner.stripe_downleft.yellow block.minecraft.banner.stripe_downleft.yellow
+item.banner.stripe_downright.purple block.minecraft.banner.stripe_downright.purple
+item.banner.stripe_left.lightBlue block.minecraft.banner.stripe_left.light_blue
+item.banner.stripe_left.cyan block.minecraft.banner.stripe_left.cyan
+item.banner.stripe_downright.red block.minecraft.banner.stripe_downright.red
+item.banner.stripe_left.blue block.minecraft.banner.stripe_left.blue
+item.banner.stripe_left.brown block.minecraft.banner.stripe_left.brown
+item.banner.stripe_downright.lightBlue block.minecraft.banner.stripe_downright.light_blue
+item.banner.stripe_downright.lime block.minecraft.banner.stripe_downright.lime
+item.banner.stripe_downright.yellow block.minecraft.banner.stripe_downright.yellow
+item.banner.stripe_left.magenta block.minecraft.banner.stripe_left.magenta
+item.banner.stripe_downright.pink block.minecraft.banner.stripe_downright.pink
+item.banner.stripe_left.green block.minecraft.banner.stripe_left.green
+item.banner.stripe_left.gray block.minecraft.banner.stripe_left.gray
+item.banner.stripe_left.purple block.minecraft.banner.stripe_left.purple
+item.banner.stripe_left.orange block.minecraft.banner.stripe_left.orange
+item.banner.stripe_left.red block.minecraft.banner.stripe_left.red
+item.banner.stripe_middle.black block.minecraft.banner.stripe_middle.black
+item.banner.stripe_middle.green block.minecraft.banner.stripe_middle.green
+item.banner.stripe_middle.blue block.minecraft.banner.stripe_middle.blue
+item.banner.stripe_middle.orange block.minecraft.banner.stripe_middle.orange
+item.banner.stripe_left.white block.minecraft.banner.stripe_left.white
+item.banner.stripe_middle.gray block.minecraft.banner.stripe_middle.gray
+item.banner.stripe_left.yellow block.minecraft.banner.stripe_left.yellow
+item.banner.stripe_middle.purple block.minecraft.banner.stripe_middle.purple
+item.banner.stripe_left.silver block.minecraft.banner.stripe_left.light_gray
+item.banner.stripe_middle.white block.minecraft.banner.stripe_middle.white
+item.banner.stripe_right.silver block.minecraft.banner.stripe_right.light_gray
+item.banner.stripe_middle.magenta block.minecraft.banner.stripe_middle.magenta
+item.banner.stripe_middle.silver block.minecraft.banner.stripe_middle.light_gray
+item.banner.stripe_middle.cyan block.minecraft.banner.stripe_middle.cyan
+item.banner.stripe_middle.lightBlue block.minecraft.banner.stripe_middle.light_blue
+item.banner.stripe_middle.brown block.minecraft.banner.stripe_middle.brown
+item.banner.stripe_right.blue block.minecraft.banner.stripe_right.blue
+item.banner.stripe_left.lime block.minecraft.banner.stripe_left.lime
+item.banner.stripe_middle.lime block.minecraft.banner.stripe_middle.lime
+item.banner.stripe_right.purple block.minecraft.banner.stripe_right.purple
+item.banner.stripe_middle.yellow block.minecraft.banner.stripe_middle.yellow
+item.banner.stripe_right.magenta block.minecraft.banner.stripe_right.magenta
+item.banner.stripe_right.lime block.minecraft.banner.stripe_right.lime
+item.banner.stripe_middle.red block.minecraft.banner.stripe_middle.red
+item.banner.stripe_right.brown block.minecraft.banner.stripe_right.brown
+item.banner.stripe_right.cyan block.minecraft.banner.stripe_right.cyan
+item.banner.stripe_right.green block.minecraft.banner.stripe_right.green
+item.banner.stripe_top.lime block.minecraft.banner.stripe_top.lime
+item.banner.stripe_right.black block.minecraft.banner.stripe_right.black
+item.banner.stripe_top.black block.minecraft.banner.stripe_top.black
+item.banner.stripe_top.brown block.minecraft.banner.stripe_top.brown
+item.banner.stripe_top.green block.minecraft.banner.stripe_top.green
+item.banner.stripe_right.yellow block.minecraft.banner.stripe_right.yellow
+item.banner.stripe_right.white block.minecraft.banner.stripe_right.white
+item.banner.stripe_right.orange block.minecraft.banner.stripe_right.orange
+item.banner.stripe_right.gray block.minecraft.banner.stripe_right.gray
+item.banner.stripe_top.blue block.minecraft.banner.stripe_top.blue
+item.banner.stripe_right.red block.minecraft.banner.stripe_right.red
+item.banner.stripe_top.white block.minecraft.banner.stripe_top.white
+item.banner.stripe_top.orange block.minecraft.banner.stripe_top.orange
+item.banner.stripe_top.cyan block.minecraft.banner.stripe_top.cyan
+item.banner.stripe_right.lightBlue block.minecraft.banner.stripe_right.light_blue
+item.banner.stripe_top.gray block.minecraft.banner.stripe_top.gray
+item.banner.stripe_top.purple block.minecraft.banner.stripe_top.purple
+item.banner.triangle_bottom.black block.minecraft.banner.triangle_bottom.black
+item.banner.triangle_bottom.blue block.minecraft.banner.triangle_bottom.blue
+item.banner.stripe_top.magenta block.minecraft.banner.stripe_top.magenta
+item.banner.triangle_bottom.lightBlue block.minecraft.banner.triangle_bottom.light_blue
+item.banner.triangle_bottom.lime block.minecraft.banner.triangle_bottom.lime
+item.banner.triangle_bottom.green block.minecraft.banner.triangle_bottom.green
+item.banner.triangle_bottom.gray block.minecraft.banner.triangle_bottom.gray
+item.banner.stripe_top.lightBlue block.minecraft.banner.stripe_top.light_blue
+item.banner.stripe_top.yellow block.minecraft.banner.stripe_top.yellow
+item.banner.stripe_top.red block.minecraft.banner.stripe_top.red
+item.banner.triangle_bottom.cyan block.minecraft.banner.triangle_bottom.cyan
+item.banner.triangle_bottom.yellow block.minecraft.banner.triangle_bottom.yellow
+item.banner.stripe_top.silver block.minecraft.banner.stripe_top.light_gray
+item.banner.triangle_bottom.magenta block.minecraft.banner.triangle_bottom.magenta
+item.banner.triangle_bottom.purple block.minecraft.banner.triangle_bottom.purple
+item.banner.triangle_bottom.orange block.minecraft.banner.triangle_bottom.orange
+item.banner.triangle_bottom.brown block.minecraft.banner.triangle_bottom.brown
+item.banner.triangle_top.brown block.minecraft.banner.triangle_top.brown
+item.banner.triangle_bottom.white block.minecraft.banner.triangle_bottom.white
+item.banner.triangle_bottom.red block.minecraft.banner.triangle_bottom.red
+item.banner.triangle_bottom.silver block.minecraft.banner.triangle_bottom.light_gray
+item.banner.triangle_top.lightBlue block.minecraft.banner.triangle_top.light_blue
+item.banner.triangle_bottom.pink block.minecraft.banner.triangle_bottom.pink
+item.banner.triangle_top.gray block.minecraft.banner.triangle_top.gray
+item.banner.triangle_top.lime block.minecraft.banner.triangle_top.lime
+item.banner.triangle_top.black block.minecraft.banner.triangle_top.black
+item.banner.triangle_top.cyan block.minecraft.banner.triangle_top.cyan
+item.banner.triangle_top.red block.minecraft.banner.triangle_top.red
+item.banner.triangles_top.pink block.minecraft.banner.triangles_top.pink
+item.banner.triangle_top.pink block.minecraft.banner.triangle_top.pink
+item.banner.triangle_top.green block.minecraft.banner.triangle_top.green
+item.banner.triangle_top.purple block.minecraft.banner.triangle_top.purple
+item.banner.triangle_top.white block.minecraft.banner.triangle_top.white
+item.banner.triangle_top.blue block.minecraft.banner.triangle_top.blue
+item.banner.triangle_top.magenta block.minecraft.banner.triangle_top.magenta
+item.banner.triangle_top.yellow block.minecraft.banner.triangle_top.yellow
+item.banner.triangle_top.silver block.minecraft.banner.triangle_top.light_gray
+item.banner.triangle_top.orange block.minecraft.banner.triangle_top.orange
+item.banner.triangles_bottom.black block.minecraft.banner.triangles_bottom.black
+item.banner.triangles_bottom.lime block.minecraft.banner.triangles_bottom.lime
+item.banner.triangles_bottom.green block.minecraft.banner.triangles_bottom.green
+item.banner.triangles_bottom.cyan block.minecraft.banner.triangles_bottom.cyan
+item.banner.triangles_bottom.lightBlue block.minecraft.banner.triangles_bottom.light_blue
+item.banner.triangles_bottom.gray block.minecraft.banner.triangles_bottom.gray
+item.banner.triangles_bottom.orange block.minecraft.banner.triangles_bottom.orange
+item.banner.triangles_bottom.pink block.minecraft.banner.triangles_bottom.pink
+item.banner.triangles_bottom.magenta block.minecraft.banner.triangles_bottom.magenta
+item.banner.triangles_bottom.brown block.minecraft.banner.triangles_bottom.brown
+item.banner.triangles_bottom.purple block.minecraft.banner.triangles_bottom.purple
+item.banner.triangles_bottom.yellow block.minecraft.banner.triangles_bottom.yellow
+item.bed.brown.name block.minecraft.brown_bed
+item.banner.triangles_top.cyan block.minecraft.banner.triangles_top.cyan
+item.banner.triangles_top.green block.minecraft.banner.triangles_top.green
+item.banner.triangles_top.gray block.minecraft.banner.triangles_top.gray
+item.banner.triangles_bottom.white block.minecraft.banner.triangles_bottom.white
+item.banner.triangles_bottom.blue block.minecraft.banner.triangles_bottom.blue
+item.banner.triangles_top.purple block.minecraft.banner.triangles_top.purple
+item.banner.triangles_top.black block.minecraft.banner.triangles_top.black
+item.banner.triangles_bottom.red block.minecraft.banner.triangles_bottom.red
+item.banner.triangles_top.yellow block.minecraft.banner.triangles_top.yellow
+item.banner.triangles_bottom.silver block.minecraft.banner.triangles_bottom.light_gray
+item.banner.triangles_top.blue block.minecraft.banner.triangles_top.blue
+item.banner.triangles_top.magenta block.minecraft.banner.triangles_top.magenta
+item.bed.red.name block.minecraft.red_bed
+item.banner.triangles_top.lightBlue block.minecraft.banner.triangles_top.light_blue
+item.banner.triangles_top.brown block.minecraft.banner.triangles_top.brown
+item.bed.black.name block.minecraft.black_bed
+item.banner.triangles_top.silver block.minecraft.banner.triangles_top.light_gray
+item.banner.triangles_top.white block.minecraft.banner.triangles_top.white
+item.banner.triangles_top.lime block.minecraft.banner.triangles_top.lime
+item.banner.white.name block.minecraft.white_banner
+item.bed.blue.name block.minecraft.blue_bed
+item.bed.purple.name block.minecraft.purple_bed
+item.bed.gray.name block.minecraft.gray_bed
+item.bed.green.name block.minecraft.green_bed
+item.banner.triangles_top.orange block.minecraft.banner.triangles_top.orange
+item.banner.yellow.name block.minecraft.yellow_banner
+item.banner.triangles_top.red block.minecraft.banner.triangles_top.red
+item.bed.magenta.name block.minecraft.magenta_bed
+item.beef.name item.minecraft.beef
+item.bed.silver.name block.minecraft.light_gray_bed
+item.steak.name item.minecraft.cooked_beef
+item.beetroot.name block.minecraft.beetroots item.minecraft.beetroot
+item.bed.cyan.name block.minecraft.cyan_bed
+item.bed.yellow.name block.minecraft.yellow_bed
+item.beetroot_soup.name item.minecraft.beetroot_soup
+item.bed.lime.name block.minecraft.lime_bed
+item.book.name item.minecraft.book
+item.bell.name block.minecraft.bell
+item.boat.spruce.name item.minecraft.spruce_boat
+item.bed.lightBlue.name block.minecraft.light_blue_bed
+item.bed.white.name block.minecraft.white_bed
+item.blaze_powder.name item.minecraft.blaze_powder
+item.blaze_rod.name item.minecraft.blaze_rod
+item.boat.birch.name item.minecraft.birch_boat
+item.diamond_boots.name item.minecraft.diamond_boots
+item.golden_boots.name item.minecraft.golden_boots
+item.boat.oak.name item.minecraft.oak_boat
+item.bed.orange.name block.minecraft.orange_bed
+item.bow.name item.minecraft.bow
+item.chainmail_boots.name item.minecraft.chainmail_boots
+item.boat.jungle.name item.minecraft.jungle_boat
+item.bucketLava.name item.minecraft.lava_bucket
+item.brewing_stand.name block.minecraft.brewing_stand container.brewing item.minecraft.brewing_stand
+item.bucketFish.name item.minecraft.cod_bucket
+item.bucketAxolotl.name item.minecraft.axolotl_bucket
+item.bowl.name item.minecraft.bowl
+item.iron_boots.name item.minecraft.iron_boots
+item.leather_boots.name item.minecraft.leather_boots
+item.brick.name item.minecraft.brick
+item.boat.acacia.name item.minecraft.acacia_boat
+item.boat.big_oak.name item.minecraft.dark_oak_boat
+item.bone.name item.minecraft.bone
+item.tropicalColorWhite.name color.minecraft.white item.minecraft.firework_star.white
+item.bucketSalmon.name item.minecraft.salmon_bucket
+item.tropicalColorBrown.name color.minecraft.brown item.minecraft.firework_star.brown
+item.bucket.name item.minecraft.bucket
+item.bucketWater.name item.minecraft.water_bucket
+item.tropicalColorMagenta.name color.minecraft.magenta item.minecraft.firework_star.magenta
+item.bread.name item.minecraft.bread
+item.bucketTropical.name item.minecraft.tropical_fish_bucket
+item.tropicalColorGray.name color.minecraft.gray item.minecraft.firework_star.gray
+item.bucketPuffer.name item.minecraft.pufferfish_bucket
+item.tropicalColorRose.name color.minecraft.red item.minecraft.firework_star.red
+item.tropicalColorLime.name color.minecraft.lime item.minecraft.firework_star.lime
+item.tropicalColorYellow.name color.minecraft.yellow item.minecraft.firework_star.yellow
+item.tropicalColorOrange.name color.minecraft.orange item.minecraft.firework_star.orange
+item.tropicalColorRed.name color.minecraft.red item.minecraft.firework_star.red
+item.tropicalColorBlue.name color.minecraft.blue item.minecraft.firework_star.blue
+item.tropicalColorGreen.name color.minecraft.green item.minecraft.firework_star.green
+item.canPlace item.canPlace
+item.cake.name block.minecraft.cake
+item.canBreak item.canBreak
+item.itemLock.hoverText.cantBe.moved key.categories.movement
+item.golden_carrot.name item.minecraft.golden_carrot
+item.cauldron.name block.minecraft.cauldron item.minecraft.cauldron
+item.warped_fungus_on_a_stick.name item.minecraft.warped_fungus_on_a_stick
+item.carrot.name block.minecraft.carrots item.minecraft.carrot
+item.carrotOnAStick.name item.minecraft.carrot_on_a_stick
+item.cooked_chicken.name item.minecraft.cooked_chicken
+item.itemLock.hoverText.cantBe.dropped gamerule.category.drops
+item.leather_chestplate.name item.minecraft.leather_chestplate
+item.cooked_beef.name item.minecraft.cooked_beef
+item.diamond_chestplate.name item.minecraft.diamond_chestplate
+item.coal.name item.minecraft.coal
+item.chainmail_chestplate.name item.minecraft.chainmail_chestplate
+item.charcoal.name item.minecraft.charcoal
+item.iron_chestplate.name item.minecraft.iron_chestplate
+item.chorus_fruit.name item.minecraft.chorus_fruit
+item.clay_ball.name item.minecraft.clay_ball
+item.golden_chestplate.name item.minecraft.golden_chestplate
+item.chicken.name item.minecraft.chicken
+item.cookie.name item.minecraft.cookie
+item.crossbow.name item.minecraft.crossbow
+item.compass.name item.minecraft.compass
+item.lodestonecompass.name item.minecraft.lodestone_compass
+item.comparator.name block.minecraft.comparator
+item.clock.name item.minecraft.clock
+item.chorus_fruit_popped.name item.minecraft.popped_chorus_fruit
+item.fireworksCharge.type.3 item.minecraft.firework_star.shape.creeper
+item.dragon_breath.name item.minecraft.dragon_breath
+item.jungle_door.name block.minecraft.jungle_door
+item.dark_oak_door.name block.minecraft.dark_oak_door
+item.cooked_porkchop.name item.minecraft.cooked_porkchop
+item.diamond.name item.minecraft.diamond
+item.iron_door.name block.minecraft.iron_door
+item.dye.blue.name item.minecraft.lapis_lazuli
+item.acacia_door.name block.minecraft.acacia_door
+item.warped_door.name block.minecraft.warped_door
+item.birch_door.name block.minecraft.birch_door
+item.wooden_door.name block.minecraft.oak_door
+item.dye.cyan.name item.minecraft.cyan_dye
+item.repeater.name block.minecraft.repeater
+item.spruce_door.name block.minecraft.spruce_door
+item.crimson_door.name block.minecraft.crimson_door
+item.dyed item.dyed
+item.dye.black.name item.minecraft.ink_sac
+item.dye.gray.name item.minecraft.gray_dye
+item.dye.brown.name item.minecraft.cocoa_beans
+item.dye.white_new.name item.minecraft.white_dye
+item.dye.blue_new.name item.minecraft.blue_dye
+item.dye.white.name item.minecraft.bone_meal
+item.dye.brown_new.name item.minecraft.brown_dye
+item.dye.orange.name item.minecraft.orange_dye
+item.dye.yellow.name item.minecraft.yellow_dye
+item.dye.black_new.name item.minecraft.black_dye
+item.dye.green.name item.minecraft.green_dye
+item.dye.magenta.name item.minecraft.magenta_dye
+item.dye.lightBlue.name item.minecraft.light_blue_dye
+item.dye.purple.name item.minecraft.purple_dye
+item.dye.red.name item.minecraft.red_dye
+item.dye.silver.name item.minecraft.light_gray_dye
+item.egg.name item.minecraft.egg
+item.dye.pink.name item.minecraft.pink_dye
+item.emptyPotion.name item.minecraft.potion.effect.water
+item.emerald.name item.minecraft.emerald
+item.elytra.name item.minecraft.elytra
+item.dye.lime.name item.minecraft.lime_dye
+item.feather.name item.minecraft.feather
+item.glow_ink_sac.name item.minecraft.glow_ink_sac
+item.fireworks.flight item.minecraft.firework_rocket.flight
+item.emptyMap.name item.minecraft.map
+item.glow_frame.name entity.minecraft.glow_item_frame item.minecraft.glow_item_frame
+item.enchanted_book.name item.minecraft.enchanted_book
+item.fireball.name item.minecraft.fire_charge
+tile.end_rod.name block.minecraft.end_rod
+item.end_crystal.name entity.minecraft.end_crystal item.minecraft.end_crystal
+item.fireworksCharge.brown color.minecraft.brown item.minecraft.firework_star.brown
+item.ender_eye.name entity.minecraft.eye_of_ender item.minecraft.ender_eye
+item.experience_bottle.name item.minecraft.experience_bottle
+item.ender_pearl.name item.minecraft.ender_pearl
+item.fireworksCharge.green color.minecraft.green item.minecraft.firework_star.green
+item.fireworksCharge.gray color.minecraft.gray item.minecraft.firework_star.gray
+item.fermented_spider_eye.name item.minecraft.fermented_spider_eye
+item.fireworksCharge.blue color.minecraft.blue item.minecraft.firework_star.blue
+item.fireworksCharge.cyan color.minecraft.cyan item.minecraft.firework_star.cyan
+item.fireworksCharge.black color.minecraft.black item.minecraft.firework_star.black
+item.fireworksCharge.lime color.minecraft.lime item.minecraft.firework_star.lime
+item.fireworksCharge.name item.minecraft.firework_star
+item.fireworksCharge.lightBlue color.minecraft.light_blue item.minecraft.firework_star.light_blue
+item.fireworks.name entity.minecraft.firework_rocket item.minecraft.firework_rocket
+item.fireworksCharge.pink color.minecraft.pink item.minecraft.firework_star.pink
+item.fireworksCharge.orange color.minecraft.orange item.minecraft.firework_star.orange
+item.fireworksCharge.red color.minecraft.red item.minecraft.firework_star.red
+item.fireworksCharge.purple color.minecraft.purple item.minecraft.firework_star.purple
+item.fireworksCharge.magenta color.minecraft.magenta item.minecraft.firework_star.magenta
+item.fireworksCharge.type item.minecraft.firework_star.shape
+item.fireworksCharge.type.2 item.minecraft.firework_star.shape.star
+item.fireworksCharge.trail item.minecraft.firework_star.trail
+item.fireworksCharge.customColor generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+item.fireworksCharge.type.1 item.minecraft.firework_star.shape.large_ball
+item.fish.name item.minecraft.cod
+item.fireworksCharge.flicker item.minecraft.firework_star.flicker
+item.fireworksCharge.type.0 item.minecraft.firework_star.shape.small_ball
+item.fireworksCharge.silver color.minecraft.light_gray item.minecraft.firework_star.light_gray
+item.gold_nugget.name item.minecraft.gold_nugget
+item.fireworksCharge.type.4 item.minecraft.firework_star.shape.burst
+item.cooked_fish.name item.minecraft.cooked_cod
+item.fishing_rod.name item.minecraft.fishing_rod
+item.fireworksCharge.white color.minecraft.white item.minecraft.firework_star.white
+item.flint.name item.minecraft.flint
+item.iron_axe.name item.minecraft.iron_axe
+item.wooden_axe.name item.minecraft.wooden_axe
+item.flint_and_steel.name item.minecraft.flint_and_steel
+item.fireworksCharge.yellow color.minecraft.yellow item.minecraft.firework_star.yellow
+item.frame.name entity.minecraft.item_frame item.minecraft.item_frame
+item.diamond_axe.name item.minecraft.diamond_axe
+item.stone_axe.name item.minecraft.stone_axe
+item.salmon.name item.minecraft.salmon
+item.clownfish.name entity.minecraft.tropical_fish item.minecraft.tropical_fish
+item.flower_pot.name block.minecraft.flower_pot item.minecraft.flower_pot
+item.glass_bottle.name item.minecraft.glass_bottle
+item.ghast_tear.name item.minecraft.ghast_tear
+item.pufferfish.name entity.minecraft.pufferfish item.minecraft.pufferfish
+item.wooden_hoe.name item.minecraft.wooden_hoe
+item.cooked_salmon.name item.minecraft.cooked_salmon
+item.diamond_hoe.name item.minecraft.diamond_hoe
+item.iron_nugget.name item.minecraft.iron_nugget
+item.iron_hoe.name item.minecraft.iron_hoe
+item.chainmail_helmet.name item.minecraft.chainmail_helmet
+item.horsearmorleather.name item.minecraft.leather_horse_armor
+item.golden_axe.name item.minecraft.golden_axe
+item.leather_helmet.name item.minecraft.leather_helmet
+item.golden_helmet.name item.minecraft.golden_helmet
+item.stone_hoe.name item.minecraft.stone_hoe
+item.diamond_helmet.name item.minecraft.diamond_helmet
+item.horsearmordiamond.name item.minecraft.diamond_horse_armor
+item.honey_bottle.name item.minecraft.honey_bottle
+item.horsearmorgold.name item.minecraft.golden_horse_armor
+item.gold_ingot.name item.minecraft.gold_ingot
+item.golden_hoe.name item.minecraft.golden_hoe
+item.honeycomb.name item.minecraft.honeycomb
+item.netherite_shovel.name item.minecraft.netherite_shovel
+item.horsearmoriron.name item.minecraft.iron_horse_armor
+item.iron_helmet.name item.minecraft.iron_helmet
+item.leather.name item.minecraft.leather
+item.iron_ingot.name item.minecraft.iron_ingot
+item.netherite_ingot.name item.minecraft.netherite_ingot
+item.lead.name item.minecraft.lead
+item.netherite_axe.name item.minecraft.netherite_axe
+item.leather_leggings.name item.minecraft.leather_leggings
+item.spawn_egg.entity.villager_v2.name item.minecraft.villager_spawn_egg
+item.netherite_sword.name item.minecraft.netherite_sword
+item.netherite_pickaxe.name item.minecraft.netherite_pickaxe
+item.chainmail_leggings.name item.minecraft.chainmail_leggings
+item.netherite_chestplate.name item.minecraft.netherite_chestplate
+item.golden_leggings.name item.minecraft.golden_leggings
+item.iron_leggings.name item.minecraft.iron_leggings
+item.map.name item.minecraft.filled_map
+item.netherite_scrap.name item.minecraft.netherite_scrap
+item.netherite_hoe.name item.minecraft.netherite_hoe
+item.melon.name item.minecraft.melon_slice
+item.netherite_helmet.name item.minecraft.netherite_helmet
+item.netherite_leggings.name item.minecraft.netherite_leggings
+item.diamond_leggings.name item.minecraft.diamond_leggings
+item.map.exploration.treasure.name filled_map.buried_treasure
+item.map.exploration.mansion.name filled_map.mansion
+item.heart_of_the_sea.name item.minecraft.heart_of_the_sea
+item.netherite_boots.name item.minecraft.netherite_boots
+item.nautilus_shell.name item.minecraft.nautilus_shell
+item.milk.name item.minecraft.milk_bucket
+item.minecartFurnace.name entity.minecraft.furnace_minecart item.minecraft.furnace_minecart
+item.spawn_egg.entity.hoglin.name item.minecraft.hoglin_spawn_egg
+item.chest_minecart.name entity.minecraft.chest_minecart item.minecraft.chest_minecart
+item.tnt_minecart.name entity.minecraft.tnt_minecart item.minecraft.tnt_minecart
+item.map.exploration.monument.name filled_map.monument
+item.minecart.name entity.minecraft.minecart item.minecraft.minecart
+item.hopper_minecart.name entity.minecraft.hopper_minecart item.minecraft.hopper_minecart
+item.spawn_egg.entity.bee.name item.minecraft.bee_spawn_egg
+item.magma_cream.name item.minecraft.magma_cream
+item.spawn_egg.entity.goat.name item.minecraft.goat_spawn_egg
+item.spawn_egg.entity.axolotl.name item.minecraft.axolotl_spawn_egg
+item.command_block_minecart.name entity.minecraft.command_block_minecart item.minecraft.command_block_minecart
+item.spawn_egg.entity.pufferfish.name item.minecraft.pufferfish_spawn_egg
+item.spawn_egg.entity.cat.name item.minecraft.cat_spawn_egg
+item.spawn_egg.entity.salmon.name item.minecraft.salmon_spawn_egg
+item.spawn_egg.entity.cow.name item.minecraft.cow_spawn_egg
+item.spawn_egg.entity.mooshroom.name item.minecraft.mooshroom_spawn_egg
+item.spawn_egg.entity.vindicator.name item.minecraft.vindicator_spawn_egg
+item.spawn_egg.entity.pig.name item.minecraft.pig_spawn_egg
+item.spawn_egg.entity.chicken.name item.minecraft.chicken_spawn_egg
+item.spawn_egg.entity.cod.name item.minecraft.cod_spawn_egg
+item.spawn_egg.entity.villager.name item.minecraft.villager_spawn_egg
+item.spawn_egg.entity.sheep.name item.minecraft.sheep_spawn_egg
+item.spawn_egg.entity.wolf.name item.minecraft.wolf_spawn_egg
+item.spawn_egg.entity.squid.name item.minecraft.squid_spawn_egg
+item.spawn_egg.entity.parrot.name item.minecraft.parrot_spawn_egg
+item.spawn_egg.entity.polar_bear.name item.minecraft.polar_bear_spawn_egg
+item.spawn_egg.entity.bat.name item.minecraft.bat_spawn_egg
+item.spawn_egg.entity.ravager.name item.minecraft.ravager_spawn_egg
+item.spawn_egg.entity.tropicalfish.name item.minecraft.tropical_fish_spawn_egg
+item.spawn_egg.entity.horse.name item.minecraft.horse_spawn_egg
+item.spawn_egg.entity.rabbit.name item.minecraft.rabbit_spawn_egg
+item.spawn_egg.entity.zombie_horse.name item.minecraft.zombie_horse_spawn_egg
+item.spawn_egg.entity.llama.name item.minecraft.llama_spawn_egg
+item.spawn_egg.entity.ocelot.name item.minecraft.ocelot_spawn_egg
+item.spawn_egg.entity.mule.name item.minecraft.mule_spawn_egg
+item.spawn_egg.entity.glow_squid.name item.minecraft.glow_squid_spawn_egg
+item.spawn_egg.entity.creeper.name item.minecraft.creeper_spawn_egg
+item.spawn_egg.entity.zombie.name item.minecraft.zombie_spawn_egg
+item.spawn_egg.entity.skeleton_horse.name item.minecraft.skeleton_horse_spawn_egg
+item.spawn_egg.entity.drowned.name item.minecraft.drowned_spawn_egg
+item.spawn_egg.entity.ghast.name item.minecraft.ghast_spawn_egg
+item.spawn_egg.entity.donkey.name item.minecraft.donkey_spawn_egg
+item.spawn_egg.entity.slime.name item.minecraft.slime_spawn_egg
+item.spawn_egg.entity.enderman.name item.minecraft.enderman_spawn_egg
+item.spawn_egg.entity.skeleton.name item.minecraft.skeleton_spawn_egg
+item.spawn_egg.entity.zombie_pigman.name item.minecraft.zombified_piglin_spawn_egg
+item.spawn_egg.entity.blaze.name item.minecraft.blaze_spawn_egg
+item.spawn_egg.entity.spider.name item.minecraft.spider_spawn_egg
+item.spawn_egg.entity.zombie_villager_v2.name item.minecraft.zombie_villager_spawn_egg
+item.spawn_egg.entity.vex.name item.minecraft.vex_spawn_egg
+item.spawn_egg.entity.magma_cube.name item.minecraft.magma_cube_spawn_egg
+item.spawn_egg.entity.strider.name item.minecraft.strider_spawn_egg
+item.spawn_egg.entity.silverfish.name item.minecraft.silverfish_spawn_egg
+item.spawn_egg.entity.stray.name item.minecraft.stray_spawn_egg
+item.spawn_egg.entity.endermite.name item.minecraft.endermite_spawn_egg
+item.spawn_egg.entity.cave_spider.name item.minecraft.cave_spider_spawn_egg
+item.spawn_egg.entity.zombie_villager.name item.minecraft.zombie_villager_spawn_egg
+item.spawn_egg.entity.wither_skeleton.name item.minecraft.wither_skeleton_spawn_egg
+item.spawn_egg.entity.evocation_illager.name item.minecraft.evoker_spawn_egg
+item.spawn_egg.entity.elder_guardian.name item.minecraft.elder_guardian_spawn_egg
+item.spawn_egg.entity.witch.name item.minecraft.witch_spawn_egg
+item.trident.name entity.minecraft.trident item.minecraft.trident
+item.spawn_egg.entity.phantom.name item.minecraft.phantom_spawn_egg
+item.spawn_egg.entity.shulker.name item.minecraft.shulker_spawn_egg
+item.spawn_egg.entity.panda.name item.minecraft.panda_spawn_egg
+item.spawn_egg.entity.pillager.name item.minecraft.pillager_spawn_egg
+item.spawn_egg.entity.wandering_trader.name item.minecraft.wandering_trader_spawn_egg
+item.spawn_egg.entity.guardian.name item.minecraft.guardian_spawn_egg
+item.spawn_egg.entity.husk.name item.minecraft.husk_spawn_egg
+item.muttonCooked.name item.minecraft.cooked_mutton
+item.spawn_egg.entity.dolphin.name item.minecraft.dolphin_spawn_egg
+item.painting.name entity.minecraft.painting item.minecraft.painting
+item.muttonRaw.name item.minecraft.mutton
+item.spawn_egg.entity.piglin_brute.name item.minecraft.piglin_brute_spawn_egg
+item.spawn_egg.entity.turtle.name item.minecraft.turtle_spawn_egg
+item.name_tag.name item.minecraft.name_tag
+item.spawn_egg.entity.piglin.name item.minecraft.piglin_spawn_egg
+item.spawn_egg.entity.fox.name item.minecraft.fox_spawn_egg
+item.netherStar.name item.minecraft.nether_star
+item.mushroom_stew.name item.minecraft.mushroom_stew
+item.wooden_pickaxe.name item.minecraft.wooden_pickaxe
+item.paper.name item.minecraft.paper
+item.quartz.name item.minecraft.quartz
+item.spawn_egg.entity.zoglin.name item.minecraft.zoglin_spawn_egg
+item.baked_potato.name item.minecraft.baked_potato
+item.stone_pickaxe.name item.minecraft.stone_pickaxe
+item.diamond_pickaxe.name item.minecraft.diamond_pickaxe
+item.golden_pickaxe.name item.minecraft.golden_pickaxe
+item.netherbrick.name item.minecraft.nether_brick
+item.nether_wart.name block.minecraft.nether_wart item.minecraft.nether_wart
+item.iron_pickaxe.name item.minecraft.iron_pickaxe
+item.porkchop.name item.minecraft.porkchop
+item.potato.name block.minecraft.potatoes item.minecraft.potato
+item.rabbit.name item.minecraft.rabbit
+item.cooked_rabbit.name item.minecraft.cooked_rabbit
+item.pumpkin_pie.name item.minecraft.pumpkin_pie
+item.record_13.desc item.minecraft.music_disc_13.desc
+item.rabbit_hide.name item.minecraft.rabbit_hide
+item.potion.name entity.minecraft.potion item.minecraft.potion
+item.prismarine_shard.name item.minecraft.prismarine_shard
+item.poisonous_potato.name item.minecraft.poisonous_potato
+item.record_far.desc item.minecraft.music_disc_far.desc
+item.record_wait.desc item.minecraft.music_disc_wait.desc
+item.record_blocks.desc item.minecraft.music_disc_blocks.desc
+item.record_mall.desc item.minecraft.music_disc_mall.desc
+item.record_ward.desc item.minecraft.music_disc_ward.desc
+item.record_stal.desc item.minecraft.music_disc_stal.desc
+item.record_11.desc item.minecraft.music_disc_11.desc
+item.record_chirp.desc item.minecraft.music_disc_chirp.desc
+item.prismarine_crystals.name item.minecraft.prismarine_crystals
+item.record_strad.desc item.minecraft.music_disc_strad.desc
+item.record_mellohi.desc item.minecraft.music_disc_mellohi.desc
+item.porkchop_cooked.name item.minecraft.cooked_porkchop
+item.rabbit_foot.name item.minecraft.rabbit_foot
+item.rabbit_stew.name item.minecraft.rabbit_stew
+item.redstone.name item.minecraft.redstone
+item.saddle.name item.minecraft.saddle
+item.record_pigstep.desc item.minecraft.music_disc_pigstep.desc
+item.melon_seeds.name item.minecraft.melon_seeds
+item.record_cat.desc item.minecraft.music_disc_cat.desc
+item.kelp.name block.minecraft.kelp
+item.record.name item.minecraft.music_disc_11 item.minecraft.music_disc_13 item.minecraft.music_disc_blocks item.minecraft.music_disc_cat item.minecraft.music_disc_chirp item.minecraft.music_disc_far item.minecraft.music_disc_mall item.minecraft.music_disc_mellohi item.minecraft.music_disc_pigstep item.minecraft.music_disc_stal item.minecraft.music_disc_strad item.minecraft.music_disc_wait item.minecraft.music_disc_ward
+item.dried_kelp.name item.minecraft.dried_kelp
+item.rotten_flesh.name item.minecraft.rotten_flesh
+item.diamond_shovel.name item.minecraft.diamond_shovel
+item.reeds.name block.minecraft.sugar_cane
+item.pumpkin_seeds.name item.minecraft.pumpkin_seeds
+item.shears.name item.minecraft.shears
+item.golden_shovel.name item.minecraft.golden_shovel
+item.iron_shovel.name item.minecraft.iron_shovel
+item.beetroot_seeds.name item.minecraft.beetroot_seeds
+item.wheat_seeds.name item.minecraft.wheat_seeds
+item.jungle_sign.name block.minecraft.jungle_sign
+item.sign.name block.minecraft.oak_sign
+item.wooden_shovel.name item.minecraft.wooden_shovel
+item.spruce_sign.name block.minecraft.spruce_sign
+item.darkoak_sign.name block.minecraft.dark_oak_sign
+item.skull.dragon.name block.minecraft.dragon_head
+item.acacia_sign.name block.minecraft.acacia_sign
+item.birch_sign.name block.minecraft.birch_sign
+item.skull.creeper.name block.minecraft.creeper_head
+item.stone_shovel.name item.minecraft.stone_shovel
+item.snowball.name entity.minecraft.snowball item.minecraft.snowball
+item.skull.skeleton.name block.minecraft.skeleton_skull
+item.gunpowder.name item.minecraft.gunpowder
+item.warped_sign.name block.minecraft.warped_sign
+item.stick.name item.minecraft.stick
+item.crimson_sign.name block.minecraft.crimson_sign
+item.skull.player.name block.minecraft.player_head.named
+item.string.name item.minecraft.string
+item.golden_sword.name item.minecraft.golden_sword
+item.slime_ball.name item.minecraft.slime_ball
+item.written_book.name item.minecraft.written_book
+item.sugar.name item.minecraft.sugar
+item.shield.name item.minecraft.shield
+item.shulker_shell.name item.minecraft.shulker_shell
+item.turtle_shell_piece.name item.minecraft.scute
+item.spider_eye.name item.minecraft.spider_eye
+item.turtle_helmet.name item.minecraft.turtle_helmet
+item.skull.wither.name block.minecraft.wither_skeleton_skull
+item.wheat.name block.minecraft.wheat item.minecraft.wheat
+item.iron_sword.name item.minecraft.iron_sword
+item.writable_book.name item.minecraft.writable_book
+item.stone_sword.name item.minecraft.stone_sword
+item.skull.zombie.name block.minecraft.zombie_head
+item.diamond_sword.name item.minecraft.diamond_sword
+item.suspicious_stew.name item.minecraft.suspicious_stew
+item.speckled_melon.name item.minecraft.glistering_melon_slice
+item.banner_pattern.piglin item.minecraft.piglin_banner_pattern.desc
+item.banner_pattern.name item.minecraft.creeper_banner_pattern item.minecraft.flower_banner_pattern item.minecraft.globe_banner_pattern item.minecraft.mojang_banner_pattern item.minecraft.piglin_banner_pattern item.minecraft.skull_banner_pattern
+item.totem.name item.minecraft.totem_of_undying
+item.phantom_membrane.name item.minecraft.phantom_membrane
+item.wooden_sword.name item.minecraft.wooden_sword
+item.sweet_berries.name item.minecraft.sweet_berries
+item.unbreakable item.unbreakable
+item.glowstone_dust.name item.minecraft.glowstone_dust
+item.banner_pattern.skull item.minecraft.skull_banner_pattern.desc
+item.banner_pattern.thing item.minecraft.mojang_banner_pattern.desc
+item.banner_pattern.creeper item.minecraft.creeper_banner_pattern.desc
+item.banner_pattern.flower item.minecraft.flower_banner_pattern.desc
+itemGroup.name.glass block.minecraft.glass
+itemGroup.search itemGroup.search
+itemGroup.name.glassPane block.minecraft.glass_pane
+itemGroup.name.stainedClay block.minecraft.terracotta
+item.bucketPowderSnow.name item.minecraft.powder_snow_bucket
+itemGroup.name.stone block.minecraft.stone
+itemGroup.name.stoneBrick block.minecraft.stone_bricks
+itemGroup.name.sandstone block.minecraft.sandstone
+itemGroup.name.grass block.minecraft.grass
+itemGroup.name.arrow entity.minecraft.arrow item.minecraft.arrow
+itemGroup.name.boat entity.minecraft.boat
+itemGroup.name.potion entity.minecraft.potion item.minecraft.potion
+itemGroup.name.chest block.minecraft.chest container.chest
+itemGroup.name.anvil block.minecraft.anvil
+itemGroup.name.splashPotion item.minecraft.splash_potion
+itemGroup.name.rail block.minecraft.rail
+itemGroup.name.lingeringPotion item.minecraft.lingering_potion
+jigsaw.title.joint_type.aligned jigsaw_block.joint.aligned
+itemGroup.name.minecart entity.minecraft.minecart item.minecraft.minecart
+jigsaw.title.target_pool jigsaw_block.pool
+itemGroup.name.shulkerBox block.minecraft.shulker_box container.shulkerBox
+jigsaw.joint_type.rollable jigsaw_block.joint.rollable
+itemGroup.name.sign item.minecraft.sign
+itemGroup.name.fireworkStars item.minecraft.firework_star
+itemGroup.name.firework entity.minecraft.firework_rocket item.minecraft.firework_rocket
+jigsaw.title.name jigsaw_block.name
+jigsaw.exit.done addServer.add gui.done narrator.loading.done
+itemGroup.name.netherWartBlock block.minecraft.nether_wart_block
+jigsaw.title.final_block jigsaw_block.final_state
+itemGroup.name.enchantedBook item.minecraft.enchanted_book
+jigsaw.exit.cancel gui.cancel
+jigsaw.title.target jigsaw_block.target
+itemGroup.name.banner_pattern item.minecraft.creeper_banner_pattern item.minecraft.flower_banner_pattern item.minecraft.globe_banner_pattern item.minecraft.mojang_banner_pattern item.minecraft.piglin_banner_pattern item.minecraft.skull_banner_pattern
+jigsaw.title.joint_type jigsaw_block.joint_label
+jigsaw.joint_type.aligned jigsaw_block.joint.aligned
+joincode.icon_text.5 item.minecraft.cookie
+joincode.icon_text.1 item.minecraft.writable_book
+joincode.icon_text.8 block.minecraft.cake
+joincode.icon_text.3 block.minecraft.rail
+joincode.icon_text.15 item.minecraft.sign
+joincode.icon_text.13 block.minecraft.carrots item.minecraft.carrot
+joincode.icon_text.16 entity.minecraft.potion item.minecraft.potion
+joincode.icon_text.17 item.minecraft.filled_map
+joincode.icon_text.14 entity.minecraft.panda
+joincode.icon_text.12 item.minecraft.apple
+joincode.icon_text.10 item.minecraft.water_bucket
+joincode.icon_text.18 entity.minecraft.llama
+key.categories.inventory container.inventory key.categories.inventory
+key.categories.misc gamerule.category.misc itemGroup.misc key.categories.misc
+key.attack key.attack
+key.categories.multiplayer key.categories.multiplayer menu.multiplayer multiplayer.title
+key.categories.gameplay key.categories.gameplay
+key.categories.ui key.categories.ui
+key.back key.back
+key.command key.command
+key.forward key.forward
+key.hotbar.3 key.hotbar.3
+key.hotbar.6 key.hotbar.6
+key.hotbar.8 key.hotbar.8
+key.hotbar.5 key.hotbar.5
+key.hotbar.4 key.hotbar.4
+key.chat key.chat
+key.hotbar.1 key.hotbar.1
+key.hotbar.2 key.hotbar.2
+key.inventory container.inventory key.categories.inventory
+key.hotbar.7 key.hotbar.7
+key.hotbar.9 key.hotbar.9
+key.left key.left
+key.smoothCamera key.togglePerspective
+key.pickItem key.pickItem
+key.right key.right
+key.playerlist key.playerlist
+key.sprint key.sprint
+key.moveForward key.forward
+key.moveRight key.right
+key.screenshot key.screenshot
+key.togglePerspective key.togglePerspective
+keyboard.keyName.backspace key.keyboard.backspace
+key.use key.use
+key.moveBack key.back
+key.spectatorOutlines key.spectatorOutlines
+keyboard.keyName.pause key.keyboard.pause
+keyboard.keyName.return dataPack.validation.back gui.back
+key.moveLeft key.left
+key.toggleLivingroom key.togglePerspective
+keyboard.keyName.end key.keyboard.end
+keyboard.keyName.home key.keyboard.home
+keyboard.keyName.space key.keyboard.space
+keyboard.keyName.insert key.keyboard.insert
+keyboard.keyName.i enchantment.level.1
+keyboard.keyName.f1 key.keyboard.f1
+keyboard.keyName.x enchantment.level.10
+keyboard.keyName.v enchantment.level.5 potion.potency.4
+keyboard.keyName.f4 key.keyboard.f4
+keyboard.keyName.f3 key.keyboard.f3
+keyboard.keyName.f2 key.keyboard.f2
+keyboard.keyName.numpad2 key.keyboard.keypad.2
+keyboard.keyName.f10 key.keyboard.f10
+keyboard.keyName.minus key.keyboard.minus
+keyboard.keyName.f13 key.keyboard.f13
+keyboard.keyName.divide key.keyboard.slash
+keyboard.keyName.numpad7 key.keyboard.keypad.7
+keyboard.keyName.f6 key.keyboard.f6
+keyboard.keyName.f5 key.keyboard.f5
+keyboard.keyName.numpad0 key.keyboard.keypad.0
+keyboard.keyName.numpad8 key.keyboard.keypad.8
+keyboard.keyName.numpad3 key.keyboard.keypad.3
+keyboard.keyName.f7 key.keyboard.f7
+keyboard.keyName.f9 key.keyboard.f9
+keyboard.keyName.f11 key.keyboard.f11
+keyboard.keyName.comma key.keyboard.comma
+keyboard.keyName.numLock key.keyboard.num.lock
+keyboard.keyName.numpad6 key.keyboard.keypad.6
+keyboard.keyName.equals key.keyboard.equal
+keyboard.keyName.subtract key.keyboard.minus
+keyboard.keyName.f8 key.keyboard.f8
+keyboard.keyName.semicolon key.keyboard.semicolon
+keyboard.keyName.decimal key.keyboard.period
+keyboard.keyName.numpad9 key.keyboard.keypad.9
+keyboard.keyName.f12 key.keyboard.f12
+keyboard.keyName.period key.keyboard.period
+keyboard.keyName.numpad1 key.keyboard.keypad.1
+keyboard.keyName.slash key.keyboard.slash
+keyboard.keyName.numpad4 key.keyboard.keypad.4
+keyboard.keyName.return.short dataPack.validation.back gui.back
+keyboard.keyName.backspace.short key.keyboard.backspace
+keyboard.keyName.numpad5 key.keyboard.keypad.5
+keyboard.keyName.space.short key.keyboard.space
+keyboard.keyName.minus.short key.keyboard.minus
+keyboard.keyName.equals.short key.keyboard.equal
+keyboard.keyName.apostrophe.short key.keyboard.apostrophe
+keyboard.keyName.slash.short key.keyboard.slash
+keyboard.keyName.grave.short key.keyboard.grave.accent
+lanServer.otherPlayers lanServer.otherPlayers
+keyboard.keyName.period.short key.keyboard.period
+keyboard.keyName.lbracket.short key.keyboard.left.bracket
+keyboard.keyName.comma.short key.keyboard.comma
+keyboard.keyName.rbracket.short key.keyboard.right.bracket
+keyboard.keyName.semicolon.short key.keyboard.semicolon
+lanServer.title lanServer.title
+lanServer.scanning lanServer.scanning
+licensed_content.goBack dataPack.validation.back gui.back
+map.toolTip.unkown filled_map.unknown
+menu.game menu.game
+menu.disconnect menu.disconnect
+map.toolTip.locked filled_map.locked narrator.button.difficulty_lock.locked
+menu.generatingLevel menu.generatingLevel
+menu.multiplayer key.categories.multiplayer menu.multiplayer multiplayer.title
+menu.generatingTerrain menu.generatingTerrain
+menu.serverGenericName pack.source.server
+menu.loadingLevel menu.loadingLevel
+menu.options options.title
+menu.playdemo menu.playdemo
+menu.resetdemo menu.resetdemo
+menu.respawning menu.respawning
+menu.singleplayer menu.singleplayer title.singleplayer
+multiplayer.stopSleeping multiplayer.stopSleeping
+menu.switchingLevel menu.convertingLevel
+multiplayer.inBedOpenChat key.chat
+mount.onboard mount.onboard
+multiplayer.texturePrompt.line2 multiplayer.texturePrompt.line2
+menu.shareToLan menu.shareToLan
+multiplayer.player.joined multiplayer.player.joined
+multiplayer.player.left multiplayer.player.left
+multiplayer.title key.categories.multiplayer menu.multiplayer multiplayer.title
+multiplayer.texturePrompt.line1 multiplayer.texturePrompt.line1
+offer.category.worldtemplate pack.source.world selectWorld.world translation.test.world
+offer.navigationTab.worlds pack.source.world selectWorld.world translation.test.world
+options.ao.off options.ao.off options.narrator.off options.off
+options.ao.max options.ao.max
+options.ao.min options.ao.min
+options.autojump options.autoJump
+options.ao options.ao
+options.category.server pack.source.server
+options.chat.links options.chat.links
+options.chat.height.unfocused options.chat.height.unfocused
+options.chat.visibility.full options.chat.visibility.full options.visible
+options.chat.height.focused options.chat.height.focused
+options.chat.title options.chat.title
+options.chat.visibility chat.editBox gamerule.category.chat options.accessibility.text_background.chat options.chat.visibility
+options.chat.visibility.hidden gui.socialInteractions.status_hidden options.chat.visibility.hidden options.hidden
+options.chat.color options.chat.color
+options.chat.width options.chat.width
+options.chat.links.prompt options.chat.links.prompt
+options.controls options.controls
+options.customizeTitle options.customizeTitle
+options.discoveryEnvironment.local pack.source.local
+options.dev_connection_quality.no_limit options.framerateLimit.max
+options.dev_render_attach_pos.all gui.all gui.socialInteractions.tab_all options.particles.all
+options.dev_realms_environment.local pack.source.local
+options.dev.windowsStore.auto options.guiScale.auto
+options.difficulty.hard options.difficulty.hard
+options.difficulty options.difficulty
+options.difficulty.easy options.difficulty.easy
+options.difficulty.normal options.difficulty.normal selectWorld.mapType.normal
+options.difficulty.hardcore options.difficulty.hardcore selectWorld.gameMode.hardcore
+options.difficulty.peaceful options.difficulty.peaceful
+options.default.format createWorld.customize.flat.layer disconnect.genericReason
+options.entityShadows options.entityShadows
+options.forceUnicodeFont options.forceUnicodeFont
+options.framerateLimit.max options.framerateLimit.max
+options.fov.max options.fov.max
+options.framerateLimit options.framerateLimit
+options.gamma.max options.gamma.max
+options.gamma.min options.gamma.min
+options.hudOpacity.min gui.socialInteractions.status_hidden options.chat.visibility.hidden options.hidden
+options.fov.min options.difficulty.normal selectWorld.mapType.normal
+options.gamma options.gamma
+options.smooth_lighting options.ao
+options.graphics.fast options.clouds.fast options.graphics.fast
+options.fullscreen options.fullscreen
+options.graphics.fancy options.clouds.fancy options.graphics.fancy
+options.guiScale.maximum options.ao.max
+options.guiScale.medium options.fov.min
+options.renderingProfile.fancy options.clouds.fancy options.graphics.fancy
+options.guiScale.auto options.guiScale.auto
+options.group.multiplayer key.categories.multiplayer menu.multiplayer multiplayer.title
+options.guiScale.normal options.difficulty.normal selectWorld.mapType.normal
+options.hidden gui.socialInteractions.status_hidden options.chat.visibility.hidden options.hidden
+options.textBackgroundOpacity options.accessibility.text_background_opacity
+options.guiScale.minimum options.ao.min
+options.invertMouse options.invertMouse
+options.languageGuiScaleCompatibility.cancel dataPack.validation.back gui.back
+options.language narrator.button.language
+options.modelPart.right_sleeve options.modelPart.right_sleeve
+options.music soundCategory.music
+options.modelPart.left_sleeve options.modelPart.left_sleeve
+options.multiplayer.title options.multiplayer.title
+options.modelPart.hat options.modelPart.hat
+options.particles.decreased options.particles.decreased
+options.modelPart.cape options.modelPart.cape
+options.modelPart.right_pants_leg options.modelPart.right_pants_leg
+options.modelPart.left_pants_leg options.modelPart.left_pants_leg
+options.particles.all gui.all gui.socialInteractions.tab_all options.particles.all
+options.off options.ao.off options.narrator.off options.off
+options.particles.minimal options.particles.minimal
+options.modelPart.jacket options.modelPart.jacket
+options.on options.on
+options.renderClouds options.renderClouds
+options.renderDistanceFormat options.chunks
+options.reducedDebugInfo gamerule.reducedDebugInfo options.reducedDebugInfo
+options.renderDistance.normal options.difficulty.normal selectWorld.mapType.normal
+options.saturation effect.minecraft.saturation
+options.sensitivity options.sensitivity
+options.multiplayergame key.categories.multiplayer menu.multiplayer multiplayer.title
+options.sensitivity.min options.sensitivity.min
+options.sensitivity.max options.sensitivity.max
+options.servervisible menu.shareToLan
+options.snooper.view options.snooper.view
+options.snooper options.snooper
+options.skinCustomisation options.skinCustomisation
+options.sliderLabelFormat commands.scoreboard.players.list.entity.entry options.generic_value
+options.skinCustomisation.title options.skinCustomisation.title
+options.stream.chat.enabled addServer.resourcePack.enabled
+options.stream.compression.medium options.fov.min
+options.title options.title
+options.toggle options.key.toggle
+options.viewSubscriptions.button.price createWorld.customize.flat.layer disconnect.genericReason
+options.touchscreen options.touchscreen
+options.viewBobbing options.viewBobbing
+options.visible options.chat.visibility.full options.visible
+options.videoTitle options.videoTitle
+options.vsync.on options.vsync
+options.continue gui.proceed
+options.goBack dataPack.validation.back gui.back
+options.edit selectServer.edit selectWorld.edit
+patchNotes.continue gui.proceed
+pauseScreen.options options.title
+pauseScreen.header menu.game
+sunsetting.store.incompatible pack.incompatible
+pauseScreen.back menu.returnToGame
+hudScreen.tooltip.basic.sneak key.sneak
+pauseScreen.title menu.paused
+hudScreen.tooltip.basic.back dataPack.validation.back gui.back
+hudScreen.tooltip.inventory container.inventory key.categories.inventory
+hudScreen.tooltip.basic.jump key.jump
+hudScreen.tooltip.crafting container.crafting
+hudScreen.tooltip.eat subtitles.entity.generic.eat
+playscreen.worlds pack.source.world selectWorld.world translation.test.world
+playscreen.delete.legacy.confirm selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+permissions.ability.invisible effect.minecraft.invisibility
+permissions.GoBack dataPack.validation.back gui.back
+permissions.Continue gui.proceed
+permissions.nocheats.cancel gui.cancel
+potion.fireResistance effect.minecraft.fire_resistance
+potion.damageBoost effect.minecraft.strength enchantment.minecraft.power
+potion.digSlowDown effect.minecraft.mining_fatigue
+potion.digSpeed effect.minecraft.haste
+potion.blindness effect.minecraft.blindness
+potion.absorption effect.minecraft.absorption
+potion.conduitPower effect.minecraft.conduit_power
+potion.heal.postfix item.minecraft.potion.effect.healing
+potion.confusion effect.minecraft.nausea
+potion.levitation effect.minecraft.levitation
+potion.damageBoost.postfix item.minecraft.potion.effect.strength
+potion.healthBoost effect.minecraft.health_boost
+potion.fireResistance.postfix item.minecraft.potion.effect.fire_resistance
+potion.heal effect.minecraft.instant_health
+potion.empty effect.none
+potion.effects.whenDrank potion.whenDrank
+potion.harm.postfix item.minecraft.potion.effect.harming
+potion.moveSpeed.postfix item.minecraft.potion.effect.swiftness
+potion.invisibility effect.minecraft.invisibility
+potion.harm effect.minecraft.instant_damage
+potion.jump.postfix item.minecraft.potion.effect.leaping
+potion.moveSlowdown.postfix item.minecraft.potion.effect.slowness
+potion.moveSlowdown effect.minecraft.slowness
+potion.hunger effect.minecraft.hunger
+potion.levitation.postfix item.minecraft.potion.effect.levitation
+potion.potency.2 enchantment.level.3 potion.potency.2
+potion.potency.1 enchantment.level.2 potion.potency.1
+potion.slowFalling effect.minecraft.slow_falling
+potion.invisibility.postfix item.minecraft.potion.effect.invisibility
+potion.potency.5 enchantment.level.6 potion.potency.5
+potion.jump effect.minecraft.jump_boost
+potion.nightVision effect.minecraft.night_vision
+potion.slowFalling.postfix item.minecraft.potion.effect.slow_falling
+potion.poison effect.minecraft.poison
+potion.moveSpeed attribute.name.generic.movement_speed effect.minecraft.speed
+potion.potency.4 enchantment.level.5 potion.potency.4
+potion.poison.postfix item.minecraft.potion.effect.poison
+potion.potency.3 enchantment.level.4 potion.potency.3
+potion.nightVision.postfix item.minecraft.potion.effect.night_vision
+potion.turtleMaster2 effect.minecraft.resistance
+potion.saturation effect.minecraft.saturation
+potion.resistance effect.minecraft.resistance
+potion.wither effect.minecraft.wither
+potion.turtleMaster effect.minecraft.slowness
+potion.regeneration effect.minecraft.regeneration
+potion.regeneration.postfix item.minecraft.potion.effect.regeneration
+potion.turtleMaster.postfix item.minecraft.potion.effect.turtle_master
+potion.waterBreathing effect.minecraft.water_breathing enchantment.minecraft.respiration
+potion.weakness.postfix item.minecraft.potion.effect.weakness
+potion.waterBreathing.postfix item.minecraft.potion.effect.water_breathing
+potion.weakness effect.minecraft.weakness
+progressScreen.generating menu.generatingLevel
+progressScreen.message.failed event.minecraft.raid.defeat
+progressScreen.message.building menu.generatingTerrain
+progressScreen.dialog.button.leave disconnect.quitting multiplayer.status.quitting
+raid.name event.minecraft.raid
+record.nowPlaying record.nowPlaying
+resourcePack.title resourcePack.title
+resourcePack.editPackDone addServer.add gui.done narrator.loading.done
+storageManager.contentType.world pack.source.world selectWorld.world translation.test.world
+storageManager.delete.confirm selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+storageManager.contentType.worlds pack.source.world selectWorld.world translation.test.world
+storageManager.delete.cancel gui.cancel
+storageManager.multiselectDelete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+storageManager.dependency.continue gui.proceed
+storageManager.miscellaneous gamerule.category.misc itemGroup.misc key.categories.misc
+storageManager.groupType advMode.type
+screenshot.failure screenshot.failure
+selectServer.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+selectServer.deleteButton selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+selectServer.refresh selectServer.refresh
+screenshot.success screenshot.success
+selectServer.add selectServer.add
+selectServer.edit selectServer.edit selectWorld.edit
+selectServer.direct selectServer.direct
+selectServer.select selectServer.select
+selectServer.hiddenAddress selectServer.hiddenAddress
+selectServer.title selectServer.title
+selectWorld.conversion selectWorld.conversion
+selectWorld.deleteButton selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+selectWorld.gameMode.adventure advancements.adventure.root.title selectWorld.gameMode.adventure
+selectWorld.enterName selectWorld.enterName
+selectWorld.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+selectWorld.gameMode.creative selectWorld.gameMode.creative
+selectWorld.gameMode selectWorld.gameMode
+selectWorld.customizeType generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+selectWorld.create selectWorld.create
+selectWorld.createDemo selectWorld.createDemo
+selectWorld.enterSeed selectWorld.enterSeed
+selectWorld.gameMode.hardcore options.difficulty.hardcore selectWorld.gameMode.hardcore
+selectWorld.gameMode.hardcore.line2 selectWorld.gameMode.hardcore.line2
+selectWorld.gameMode.hardcore.line1 selectWorld.gameMode.hardcore.line1
+selectWorld.mapType.normal options.difficulty.normal selectWorld.mapType.normal
+selectWorld.gameMode.creative.line1 selectWorld.gameMode.creative.line1
+selectWorld.gameMode.survival selectWorld.gameMode.survival
+selectWorld.newWorld selectWorld.newWorld
+selectWorld.recreate selectWorld.recreate
+selectWorld.gameMode.survival.line1 selectWorld.gameMode.survival.line1
+selectWorld.tab.worlds pack.source.world selectWorld.world translation.test.world
+selectWorld.title selectWorld.title
+selectWorld.world pack.source.world selectWorld.world translation.test.world
+selectWorld.tab.thirdParty pack.source.server
+selectWorld.select selectWorld.select
+selectTemplate.world selectWorld.newWorld
+selectTemplate.deleteTemplateDone addServer.add gui.done narrator.loading.done
+selectTemplate.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+skin.Standard.CustomSlim generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+sign.edit sign.edit
+skin.Standard.Custom generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+skins.buy.cancelButton gui.cancel
+skin.Standard.Dummy generator.custom item.minecraft.firework_star.custom_color selectWorld.customizeType
+soundCategory.ambient soundCategory.ambient
+stat.blocksButton soundCategory.block
+soundCategory.block soundCategory.block
+soundCategory.music soundCategory.music
+soundCategory.master soundCategory.master
+skins.picker.default createWorld.customize.custom.defaults generator.default
+soundCategory.player entity.minecraft.player gamerule.category.player soundCategory.player
+soundCategory.weather soundCategory.weather
+stat.animalsBred stat.minecraft.animals_bred
+stat.crafted stat_type.minecraft.crafted
+soundCategory.record soundCategory.record
+stat.bannerCleaned stat.minecraft.clean_banner
+stat.fallOneCm stat.minecraft.fall_one_cm
+stat.armorCleaned stat.minecraft.clean_armor
+stat.beaconInteraction stat.minecraft.interact_with_beacon
+stat.boatOneCm stat.minecraft.boat_one_cm
+stat.climbOneCm stat.minecraft.climb_one_cm
+stat.damageDealt stat.minecraft.damage_dealt
+stat.cauldronUsed stat.minecraft.use_cauldron
+stat.crouchOneCm stat.minecraft.crouch_one_cm
+stat.drop stat.minecraft.drop
+stat.damageTaken stat.minecraft.damage_taken
+stat.deaths stat.minecraft.deaths
+stat.fishCaught stat.minecraft.fish_caught
+stat.furnaceInteraction stat.minecraft.interact_with_furnace
+stat.horseOneCm stat.minecraft.horse_one_cm
+stat.itemsButton entity.minecraft.item stat.itemsButton
+stat.generalButton stat.generalButton
+stat.flyOneCm stat.minecraft.fly_one_cm
+stat.entityKills.none stat_type.minecraft.killed.none
+stat.jump stat.minecraft.jump
+stat.mobsButton gamerule.category.mobs stat.mobsButton
+stat.mobKills stat.minecraft.mob_kills
+stat.minecartOneCm stat.minecraft.minecart_one_cm
+stat.junkFished stat.minecraft.junk_fished
+stat.pigOneCm stat.minecraft.pig_one_cm
+stat.playerKills stat.minecraft.player_kills
+stat.swimOneCm stat.minecraft.swim_one_cm
+stat.used stat_type.minecraft.used
+stat.tradedWithVillager stat.minecraft.traded_with_villager
+stat.sprintOneCm stat.minecraft.sprint_one_cm
+stats.tooltip.type.statistic stats.tooltip.type.statistic
+stat.recordPlayed stat.minecraft.play_record
+stat.trappedChestTriggered stat.minecraft.trigger_trapped_chest
+stat.workbenchInteraction stat.minecraft.interact_with_crafting_table
+stat.timeSinceDeath stat.minecraft.time_since_death
+stat.treasureFished stat.minecraft.treasure_fished
+stat.walkOneCm stat.minecraft.walk_one_cm
+store.inventory.button container.inventory key.categories.inventory
+store.inventory.title container.inventory key.categories.inventory
+store.incompatible pack.incompatible
+store.popup.xblRequired.button2 gui.cancel
+store.popup.goBack dataPack.validation.back gui.back
+store.popup.download.back dataPack.validation.back gui.back
+store.popup.update.back dataPack.validation.back gui.back
+store.mashup.continue gui.proceed
+store.mashup.world pack.source.world selectWorld.world translation.test.world
+store.mashup.title.skinPack commands.scoreboard.players.list.entity.entry options.generic_value
+store.3pserverItem.fetchingCancel gui.cancel
+store.resource.screenshots key.screenshot
+store.showalloffers.list.back dataPack.validation.back gui.back
+store.search.filter.worldTemplates pack.source.world selectWorld.world translation.test.world
+tile.air.name block.minecraft.air
+tile.activator_rail.name block.minecraft.activator_rail
+tile.acacia_fence_gate.name block.minecraft.acacia_fence_gate
+terms_and_conditions.goBack dataPack.validation.back gui.back
+tile.anvil.intact.name block.minecraft.anvil
+tile.acaciaFence.name block.minecraft.acacia_fence
+tile.beehive.name block.minecraft.beehive
+tile.unknown.name selectWorld.versionUnknown
+tile.anvil.slightlyDamaged.name block.minecraft.chipped_anvil
+tile.barrier.name block.minecraft.barrier
+tile.anvil.veryDamaged.name block.minecraft.damaged_anvil
+tile.beacon.primary block.minecraft.beacon.primary
+tile.beacon.name block.minecraft.beacon container.beacon
+tile.target.name block.minecraft.target
+tile.anvil.name block.minecraft.anvil
+tile.beacon.secondary.pocket block.minecraft.beacon.secondary
+tile.bedrock.name block.minecraft.bedrock
+tile.bee_nest.name block.minecraft.bee_nest
+tile.beacon.secondary block.minecraft.beacon.secondary
+tile.dirt_with_roots.name block.minecraft.rooted_dirt
+tile.bell.name block.minecraft.bell
+tile.bed.noSleep block.minecraft.bed.no_sleep
+tile.conduit.name block.minecraft.conduit
+tile.azalea_leaves.name block.minecraft.azalea_leaves
+tile.moss_block.name block.minecraft.moss_block
+tile.azalea.name block.minecraft.azalea
+tile.beetroot.name block.minecraft.beetroots item.minecraft.beetroot
+tile.cave_vines.name block.minecraft.cave_vines
+tile.spore_blossom.name block.minecraft.spore_blossom
+tile.cave_vines_head_with_berries.name block.minecraft.cave_vines
+tile.big_dripleaf.name block.minecraft.big_dripleaf
+tile.bed.occupied block.minecraft.bed.occupied
+tile.small_dripleaf_block.name block.minecraft.small_dripleaf
+tile.flowering_azalea.name block.minecraft.flowering_azalea
+tile.bed.tooFar block.minecraft.bed.too_far_away
+tile.moss_carpet.name block.minecraft.moss_carpet
+item.glow_berries.name item.minecraft.glow_berries
+tile.hanging_roots.name block.minecraft.hanging_roots
+tile.azalea_leaves_flowered.name block.minecraft.flowering_azalea_leaves
+tile.bed.notSafe block.minecraft.bed.not_safe
+tile.blast_furnace.name block.minecraft.blast_furnace container.blast_furnace
+tile.brown_mushroom_block.stem.name block.minecraft.mushroom_stem
+tile.birch_fence_gate.name block.minecraft.birch_fence_gate
+tile.cave_vines_body_with_berries.name block.minecraft.cave_vines
+tile.wooden_button.name block.minecraft.oak_button
+tile.emerald_block.name block.minecraft.emerald_block
+tile.bone_block.name block.minecraft.bone_block
+tile.brick_block.name block.minecraft.bricks
+tile.diamond_block.name block.minecraft.diamond_block
+tile.gold_block.name block.minecraft.gold_block
+tile.lapis_block.name block.minecraft.lapis_block
+tile.bookshelf.name block.minecraft.bookshelf
+tile.redstone_block.name block.minecraft.redstone_block
+tile.coal_block.name block.minecraft.coal_block
+tile.birchFence.name block.minecraft.birch_fence
+tile.acacia_button.name block.minecraft.acacia_button
+tile.birch_button.name block.minecraft.birch_button
+tile.brown_mushroom.name block.minecraft.brown_mushroom
+tile.cake.name block.minecraft.cake
+tile.iron_block.name block.minecraft.iron_block
+tile.jungle_button.name block.minecraft.jungle_button
+tile.ender_chest.name block.minecraft.ender_chest container.enderchest
+tile.cactus.name block.minecraft.cactus
+tile.brown_mushroom_block.cap.name block.minecraft.brown_mushroom_block
+tile.carved_pumpkin.name block.minecraft.carved_pumpkin
+tile.chest.name block.minecraft.chest container.chest
+tile.warped_stem.name block.minecraft.warped_stem
+tile.honey_block.name block.minecraft.honey_block
+tile.jigsaw.name block.minecraft.jigsaw
+tile.spruce_button.name block.minecraft.spruce_button
+tile.nether_sprouts.name block.minecraft.nether_sprouts
+tile.dried_kelp_block.name block.minecraft.dried_kelp_block
+tile.carrot.name block.minecraft.carrots item.minecraft.carrot
+tile.lodestone.name block.minecraft.lodestone
+tile.honeycomb_block.name block.minecraft.honeycomb_block
+tile.dark_oak_button.name block.minecraft.dark_oak_button
+tile.crimson_hyphae.name block.minecraft.crimson_hyphae
+tile.cauldron.name block.minecraft.cauldron item.minecraft.cauldron
+tile.warped_hyphae.name block.minecraft.warped_hyphae
+tile.stripped_warped_stem.name block.minecraft.stripped_warped_stem
+tile.stripped_crimson_stem.name block.minecraft.stripped_crimson_stem
+tile.warped_planks.name block.minecraft.warped_planks
+tile.crimson_wall_sign.name block.minecraft.crimson_wall_sign
+tile.crimson_stem.name block.minecraft.crimson_stem
+tile.crimson_door.name block.minecraft.crimson_door
+tile.warped_trapdoor.name block.minecraft.warped_trapdoor
+tile.crimson_planks.name block.minecraft.crimson_planks
+tile.crimson_trapdoor.name block.minecraft.crimson_trapdoor
+tile.crimson_standing_sign.name block.minecraft.crimson_sign
+tile.warped_door.name block.minecraft.warped_door
+tile.crimson_fence_gate.name block.minecraft.crimson_fence_gate
+tile.warped_standing_sign.name block.minecraft.warped_sign
+tile.stripped_crimson_hyphae.name block.minecraft.stripped_crimson_hyphae
+tile.stripped_warped_hyphae.name block.minecraft.stripped_warped_hyphae
+tile.warped_wall_sign.name block.minecraft.warped_wall_sign
+tile.shroomlight.name block.minecraft.shroomlight
+tile.crimson_stairs.name block.minecraft.crimson_stairs
+tile.warped_fence_gate.name block.minecraft.warped_fence_gate
+tile.warped_stairs.name block.minecraft.warped_stairs
+tile.warped_slab.name block.minecraft.warped_slab
+tile.crimson_fence.name block.minecraft.crimson_fence
+tile.warped_fence.name block.minecraft.warped_fence
+tile.warped_button.name block.minecraft.warped_button
+tile.crimson_nylium.name block.minecraft.crimson_nylium
+tile.crimson_slab.name block.minecraft.crimson_slab
+tile.basalt.name block.minecraft.basalt
+tile.crimson_pressure_plate.name block.minecraft.crimson_pressure_plate
+tile.blackstone_wall.name block.minecraft.blackstone_wall
+tile.warped_pressure_plate.name block.minecraft.warped_pressure_plate
+tile.crimson_double_slab.name block.minecraft.crimson_slab
+tile.warped_double_slab.name block.minecraft.warped_slab
+tile.crimson_button.name block.minecraft.crimson_button
+tile.polished_blackstone.name block.minecraft.polished_blackstone
+tile.gilded_blackstone.name block.minecraft.gilded_blackstone
+tile.polished_basalt.name block.minecraft.polished_basalt
+tile.cracked_polished_blackstone_bricks.name block.minecraft.cracked_polished_blackstone_bricks
+tile.blackstone.name block.minecraft.blackstone
+tile.chain.name block.minecraft.chain
+tile.polished_blackstone_bricks.name block.minecraft.polished_blackstone_bricks
+tile.warped_nylium.name block.minecraft.warped_nylium
+tile.chiseled_polished_blackstone.name block.minecraft.chiseled_polished_blackstone
+tile.blackstone_stairs.name block.minecraft.blackstone_stairs
+tile.soul_soil.name block.minecraft.soul_soil
+tile.soul_campfire.name block.minecraft.soul_campfire
+tile.polished_blackstone_brick_wall.name block.minecraft.polished_blackstone_brick_wall
+tile.polished_blackstone_brick_stairs.name block.minecraft.polished_blackstone_brick_stairs
+tile.cracked_nether_bricks.name block.minecraft.cracked_nether_bricks
+tile.polished_blackstone_brick_slab.name block.minecraft.polished_blackstone_brick_slab
+tile.polished_blackstone_slab.name block.minecraft.polished_blackstone_slab
+tile.soul_fire.name block.minecraft.soul_fire
+tile.polished_blackstone_pressure_plate.name block.minecraft.polished_blackstone_pressure_plate
+tile.blackstone_slab.name block.minecraft.blackstone_slab
+tile.shulkerBoxLime.name block.minecraft.lime_shulker_box
+tile.polished_blackstone_stairs.name block.minecraft.polished_blackstone_stairs
+tile.quartz_bricks.name block.minecraft.quartz_bricks
+tile.chiseled_nether_bricks.name block.minecraft.chiseled_nether_bricks
+tile.polished_blackstone_wall.name block.minecraft.polished_blackstone_wall
+tile.shulkerBoxYellow.name block.minecraft.yellow_shulker_box
+tile.polished_blackstone_button.name block.minecraft.polished_blackstone_button
+tile.shulkerBoxBrown.name block.minecraft.brown_shulker_box
+tile.shulkerBoxMagenta.name block.minecraft.magenta_shulker_box
+tile.shulkerBoxGray.name block.minecraft.gray_shulker_box
+tile.shulkerBoxLightBlue.name block.minecraft.light_blue_shulker_box
+tile.shulkerBoxWhite.name block.minecraft.white_shulker_box
+tile.shulkerBoxBlack.name block.minecraft.black_shulker_box
+tile.chorus_flower.name block.minecraft.chorus_flower
+tile.trapped_chest.name block.minecraft.trapped_chest
+tile.shulkerBoxBlue.name block.minecraft.blue_shulker_box
+tile.shulkerBoxOrange.name block.minecraft.orange_shulker_box
+tile.shulkerBoxCyan.name block.minecraft.cyan_shulker_box
+tile.shulkerBoxPink.name block.minecraft.pink_shulker_box
+tile.shulkerBoxSilver.name block.minecraft.light_gray_shulker_box
+tile.shulkerBox.name block.minecraft.shulker_box container.shulkerBox
+tile.stained_glass.yellow.name block.minecraft.yellow_stained_glass
+tile.shulkerBoxGreen.name block.minecraft.green_shulker_box
+tile.shulkerBoxRed.name block.minecraft.red_shulker_box
+tile.stained_glass.black.name block.minecraft.black_stained_glass
+tile.chorus_plant.name block.minecraft.chorus_plant
+tile.stained_glass.white.name block.minecraft.white_stained_glass
+tile.shulkerBoxPurple.name block.minecraft.purple_shulker_box
+tile.stained_glass.gray.name block.minecraft.gray_stained_glass
+tile.stained_glass.silver.name block.minecraft.light_gray_stained_glass
+tile.stained_glass.brown.name block.minecraft.brown_stained_glass
+tile.stained_glass.red.name block.minecraft.red_stained_glass
+tile.stained_glass.green.name block.minecraft.green_stained_glass
+tile.stained_glass_pane.black.name block.minecraft.black_stained_glass_pane
+tile.stained_glass.orange.name block.minecraft.orange_stained_glass
+tile.stained_glass.cyan.name block.minecraft.cyan_stained_glass
+tile.stained_glass_pane.white.name block.minecraft.white_stained_glass_pane
+tile.stained_glass.lime.name block.minecraft.lime_stained_glass
+tile.stained_glass_pane.gray.name block.minecraft.gray_stained_glass_pane
+tile.stained_glass_pane.brown.name block.minecraft.brown_stained_glass_pane
+tile.stained_glass_pane.silver.name block.minecraft.light_gray_stained_glass_pane
+tile.stained_glass.blue.name block.minecraft.blue_stained_glass
+tile.stained_glass.pink.name block.minecraft.pink_stained_glass
+tile.stained_glass_pane.orange.name block.minecraft.orange_stained_glass_pane
+tile.stained_glass.light_blue.name block.minecraft.light_blue_stained_glass
+tile.stained_glass_pane.lime.name block.minecraft.lime_stained_glass_pane
+tile.stained_glass_pane.pink.name block.minecraft.pink_stained_glass_pane
+tile.stained_glass_pane.yellow.name block.minecraft.yellow_stained_glass_pane
+tile.stained_glass.magenta.name block.minecraft.magenta_stained_glass
+tile.stained_glass.purple.name block.minecraft.purple_stained_glass
+tile.stained_glass_pane.red.name block.minecraft.red_stained_glass_pane
+tile.stained_glass_pane.cyan.name block.minecraft.cyan_stained_glass_pane
+tile.stained_hardened_clay.cyan.name block.minecraft.cyan_terracotta
+tile.clay.name block.minecraft.clay
+tile.stained_glass_pane.light_blue.name block.minecraft.light_blue_stained_glass_pane
+tile.stained_glass_pane.green.name block.minecraft.green_stained_glass_pane
+tile.stained_glass_pane.purple.name block.minecraft.purple_stained_glass_pane
+tile.stained_hardened_clay.gray.name block.minecraft.gray_terracotta
+tile.stained_glass_pane.blue.name block.minecraft.blue_stained_glass_pane
+tile.stained_hardened_clay.black.name block.minecraft.black_terracotta
+tile.hardened_clay.name block.minecraft.terracotta
+tile.stained_glass_pane.magenta.name block.minecraft.magenta_stained_glass_pane
+tile.stained_hardened_clay.magenta.name block.minecraft.magenta_terracotta
+tile.stained_hardened_clay.green.name block.minecraft.green_terracotta
+tile.stained_hardened_clay.blue.name block.minecraft.blue_terracotta
+tile.stained_hardened_clay.brown.name block.minecraft.brown_terracotta
+tile.stained_hardened_clay.name block.minecraft.terracotta
+tile.stained_hardened_clay.lime.name block.minecraft.lime_terracotta
+tile.stained_hardened_clay.silver.name block.minecraft.light_gray_terracotta
+tile.structure_void.name block.minecraft.structure_void
+tile.stained_hardened_clay.purple.name block.minecraft.purple_terracotta
+tile.wool.cyan.name block.minecraft.cyan_wool
+tile.stained_hardened_clay.yellow.name block.minecraft.yellow_terracotta
+tile.stained_hardened_clay.red.name block.minecraft.red_terracotta
+tile.structure_block.name block.minecraft.structure_block
+tile.stained_hardened_clay.lightBlue.name block.minecraft.light_blue_terracotta
+tile.stained_hardened_clay.orange.name block.minecraft.orange_terracotta
+tile.cobblestone_wall.andesite.name block.minecraft.andesite_wall
+tile.wool.purple.name block.minecraft.purple_wool
+tile.wool.black.name block.minecraft.black_wool
+tile.stained_hardened_clay.white.name block.minecraft.white_terracotta
+tile.wool.pink.name block.minecraft.pink_wool
+tile.cobblestone_wall.mossy.name block.minecraft.mossy_cobblestone_wall
+tile.wool.blue.name block.minecraft.blue_wool
+tile.cobblestone_wall.granite.name block.minecraft.granite_wall
+tile.stained_hardened_clay.pink.name block.minecraft.pink_terracotta
+tile.wool.red.name block.minecraft.red_wool
+tile.wool.brown.name block.minecraft.brown_wool
+tile.wool.gray.name block.minecraft.gray_wool
+tile.wool.orange.name block.minecraft.orange_wool
+tile.wool.magenta.name block.minecraft.magenta_wool
+tile.wool.lime.name block.minecraft.lime_wool
+tile.wool.yellow.name block.minecraft.yellow_wool
+tile.wool.green.name block.minecraft.green_wool
+tile.cobblestone_wall.sandstone.name block.minecraft.sandstone_wall
+tile.wool.lightBlue.name block.minecraft.light_blue_wool
+tile.cocoa.name item.minecraft.cocoa_beans
+tile.wool.white.name block.minecraft.white_wool
+tile.cobblestone_wall.end_brick.name block.minecraft.end_stone_brick_wall
+tile.cobblestone_wall.stone_brick.name block.minecraft.stone_brick_wall
+tile.wool.silver.name block.minecraft.light_gray_wool
+tile.cobblestone_wall.red_nether_brick.name block.minecraft.red_nether_brick_wall
+tile.cobblestone_wall.nether_brick.name block.minecraft.nether_brick_wall
+tile.cobblestone_wall.diorite.name block.minecraft.diorite_wall
+tile.cobblestone_wall.prismarine.name block.minecraft.prismarine_wall
+tile.cobblestone_wall.brick.name block.minecraft.brick_wall
+tile.cobblestone_wall.red_sandstone.name block.minecraft.red_sandstone_wall
+tile.composter.name block.minecraft.composter
+tile.cobblestone_wall.normal.name block.minecraft.cobblestone_wall
+tile.cobblestone_wall.mossy_stone_brick.name block.minecraft.mossy_stone_brick_wall
+tile.wheat.name block.minecraft.wheat item.minecraft.wheat
+tile.podzol.name block.minecraft.podzol
+tile.dirt.coarse.name block.minecraft.coarse_dirt
+tile.deadbush.name block.minecraft.dead_bush
+tile.command_block.name block.minecraft.command_block
+tile.purpur_block.default.name block.minecraft.purpur_block
+tile.darkOakFence.name block.minecraft.dark_oak_fence
+tile.repeating_command_block.name block.minecraft.repeating_command_block
+tile.chain_command_block.name block.minecraft.chain_command_block
+tile.dark_oak_fence_gate.name block.minecraft.dark_oak_fence_gate
+tile.dirt.default.name block.minecraft.dirt
+tile.double_plant.syringa.name block.minecraft.lilac
+tile.purpur_block.lines.name block.minecraft.purpur_pillar
+tile.dirt.name block.minecraft.dirt
+tile.dispenser.name block.minecraft.dispenser container.dispenser
+tile.double_plant.sunflower.name block.minecraft.sunflower
+tile.detector_rail.name block.minecraft.detector_rail
+tile.iron_door.name block.minecraft.iron_door
+tile.double_plant.paeonia.name block.minecraft.peony
+tile.double_plant.rose.name block.minecraft.rose_bush
+tile.double_plant.grass.name block.minecraft.tall_grass
+tile.fire.name block.minecraft.fire
+tile.enchanting_table.name block.minecraft.enchanting_table
+tile.double_plant.fern.name block.minecraft.large_fern
+tile.iron_bars.name block.minecraft.iron_bars
+tile.dropper.name block.minecraft.dropper container.dropper
+tile.enderChest.name block.minecraft.ender_chest container.enderchest
+tile.dragon_egg.name block.minecraft.dragon_egg
+tile.end_portal_frame.name block.minecraft.end_portal_frame
+tile.red_flower.oxeyeDaisy.name block.minecraft.oxeye_daisy
+tile.fletching_table.name block.minecraft.fletching_table
+tile.red_flower.allium.name block.minecraft.allium
+tile.furnace.name block.minecraft.furnace container.furnace
+tile.fence.name block.minecraft.oak_fence
+tile.fence_gate.name block.minecraft.oak_fence_gate
+tile.farmland.name block.minecraft.farmland
+tile.red_flower.blueOrchid.name block.minecraft.blue_orchid
+tile.red_flower.cornflower.name block.minecraft.cornflower
+tile.warped_roots.warpedRoots.name block.minecraft.warped_roots
+tile.red_flower.houstonia.name block.minecraft.azure_bluet
+tile.yellow_flower.dandelion.name block.minecraft.dandelion
+tile.red_flower.lilyOfTheValley.name block.minecraft.lily_of_the_valley
+tile.crimson_roots.crimsonRoots.name block.minecraft.crimson_roots
+tile.red_flower.poppy.name block.minecraft.poppy
+tile.ladder.name block.minecraft.ladder
+tile.soul_sand.name block.minecraft.soul_sand
+tile.red_flower.tulipWhite.name block.minecraft.white_tulip
+tile.grass_path.name block.minecraft.dirt_path
+tile.red_flower.tulipRed.name block.minecraft.red_tulip
+tile.red_flower.tulipOrange.name block.minecraft.orange_tulip
+tile.glass.name block.minecraft.glass
+tile.wither_rose.name block.minecraft.wither_rose
+tile.hay_block.name block.minecraft.hay_block
+tile.grass.name block.minecraft.grass_block
+tile.red_flower.tulipPink.name block.minecraft.pink_tulip
+tile.iron_trapdoor.name block.minecraft.iron_trapdoor
+tile.golden_rail.name block.minecraft.powered_rail
+tile.blue_ice.name block.minecraft.blue_ice
+tile.gravel.name block.minecraft.gravel
+tile.netherrack.name block.minecraft.netherrack
+tile.packed_ice.name block.minecraft.packed_ice
+tile.jukebox.name block.minecraft.jukebox
+tile.hopper.name block.minecraft.hopper container.hopper
+tile.leaves.big_oak.name block.minecraft.dark_oak_leaves
+tile.jungleFence.name block.minecraft.jungle_fence
+tile.ice.name block.minecraft.ice
+tile.leaves2.big_oak.name block.minecraft.dark_oak_leaves
+tile.leaves.birch.name block.minecraft.birch_leaves
+tile.jungle_fence_gate.name block.minecraft.jungle_fence_gate
+tile.leaves.jungle.name block.minecraft.jungle_leaves
+tile.log.acacia.name block.minecraft.acacia_log
+tile.leaves.spruce.name block.minecraft.spruce_leaves
+tile.lever.name block.minecraft.lever
+tile.leaves2.acacia.name block.minecraft.acacia_leaves
+tile.monster_egg.brick.name block.minecraft.infested_stone_bricks
+tile.lit_pumpkin.name block.minecraft.jack_o_lantern
+tile.mob_spawner.name block.minecraft.spawner
+tile.lightning_rod.name block.minecraft.lightning_rod
+tile.leaves.oak.name block.minecraft.oak_leaves
+tile.log.oak.name block.minecraft.oak_log
+tile.glowstone.name block.minecraft.glowstone
+tile.noteblock.name block.minecraft.note_block
+tile.leaves.acacia.name block.minecraft.acacia_leaves
+tile.log.spruce.name block.minecraft.spruce_log
+tile.log.big_oak.name block.minecraft.dark_oak_log
+tile.glow_lichen.name block.minecraft.glow_lichen
+tile.melon_block.name block.minecraft.melon
+tile.log.birch.name block.minecraft.birch_log
+tile.magma.name block.minecraft.magma_block
+tile.monster_egg.mossybrick.name block.minecraft.infested_mossy_stone_bricks
+tile.mycelium.name block.minecraft.mycelium
+tile.monster_egg.crackedbrick.name block.minecraft.infested_cracked_stone_bricks
+tile.monster_egg.cobble.name block.minecraft.infested_cobblestone
+tile.red_nether_brick.name block.minecraft.red_nether_bricks
+tile.log.jungle.name block.minecraft.jungle_log
+tile.monster_egg.stone.name block.minecraft.infested_stone
+tile.nether_brick_fence.name block.minecraft.nether_brick_fence
+tile.quartz_ore.name block.minecraft.nether_quartz_ore
+tile.nether_brick.name block.minecraft.nether_bricks
+tile.monster_egg.chiseledbrick.name block.minecraft.infested_chiseled_stone_bricks
+tile.nether_wart.name block.minecraft.nether_wart item.minecraft.nether_wart
+tile.warped_wart_block.name block.minecraft.warped_wart_block
+tile.gold_ore.name block.minecraft.gold_ore
+tile.obsidian.name block.minecraft.obsidian
+tile.soul_torch.name block.minecraft.soul_torch
+tile.copper_ore.name block.minecraft.copper_ore
+tile.coal_ore.name block.minecraft.coal_ore
+tile.diamond_ore.name block.minecraft.diamond_ore
+tile.emerald_ore.name block.minecraft.emerald_ore
+tile.piston.name block.minecraft.piston
+tile.unlit_redstone_torch.name block.minecraft.redstone_torch
+tile.nether_wart_block.name block.minecraft.nether_wart_block
+tile.redstone_torch.name block.minecraft.redstone_torch
+tile.stone_pressure_plate.name block.minecraft.stone_pressure_plate
+tile.potatoes.name block.minecraft.potatoes item.minecraft.potato
+tile.iron_ore.name block.minecraft.iron_ore
+tile.observer.name block.minecraft.observer
+tile.redstone_ore.name block.minecraft.redstone_ore
+tile.acacia_pressure_plate.name block.minecraft.acacia_pressure_plate
+tile.prismarine.rough.name block.minecraft.prismarine
+tile.lapis_ore.name block.minecraft.lapis_ore
+tile.sticky_piston.name block.minecraft.sticky_piston
+tile.prismarine.bricks.name block.minecraft.prismarine_bricks
+tile.quartz_block.lines.name block.minecraft.quartz_pillar
+tile.pumpkin.name block.minecraft.pumpkin
+tile.wooden_pressure_plate.name block.minecraft.oak_pressure_plate
+tile.prismarine.dark.name block.minecraft.dark_prismarine
+tile.quartz_block.default.name block.minecraft.quartz_block
+tile.red_mushroom_block.name block.minecraft.red_mushroom_block
+tile.dark_oak_pressure_plate.name block.minecraft.dark_oak_pressure_plate
+tile.rail.name block.minecraft.rail
+tile.birch_pressure_plate.name block.minecraft.birch_pressure_plate
+tile.crimson_fungus.name block.minecraft.crimson_fungus
+tile.spruce_pressure_plate.name block.minecraft.spruce_pressure_plate
+tile.jungle_pressure_plate.name block.minecraft.jungle_pressure_plate
+tile.red_sandstone.chiseled.name block.minecraft.chiseled_red_sandstone
+tile.warped_fungus.name block.minecraft.warped_fungus
+tile.red_sandstone.name block.minecraft.red_sandstone
+tile.quartz_block.chiseled.name block.minecraft.chiseled_quartz_block
+tile.quartz_block.name block.minecraft.quartz_block
+tile.red_sandstone.default.name block.minecraft.red_sandstone
+tile.red_mushroom.name block.minecraft.red_mushroom
+tile.sand.red.name block.minecraft.red_sand
+tile.reeds.name block.minecraft.sugar_cane
+tile.quartz_block.smooth.name block.minecraft.smooth_quartz
+tile.red_sandstone.cut.name block.minecraft.cut_red_sandstone
+tile.sand.name block.minecraft.sand
+tile.redstone_lamp.name block.minecraft.redstone_lamp
+tile.redstone_wire.name item.minecraft.redstone
+tile.red_sandstone.smooth.name block.minecraft.smooth_red_sandstone
+tile.sandstone.chiseled.name block.minecraft.chiseled_sandstone
+tile.sandstone.default.name block.minecraft.sandstone
+tile.sapling.birch.name block.minecraft.birch_sapling
+tile.sand.default.name block.minecraft.sand
+tile.sandstone.smooth.name block.minecraft.smooth_sandstone
+tile.sandstone.cut.name block.minecraft.cut_sandstone
+tile.sandstone.name block.minecraft.sandstone
+tile.sapling.big_oak.name block.minecraft.dark_oak_sapling
+tile.sapling.acacia.name block.minecraft.acacia_sapling
+tile.standing_sign.name item.minecraft.sign
+tile.slime.name block.minecraft.slime_block
+tile.sapling.oak.name block.minecraft.oak_sapling
+tile.spruce_standing_sign.name block.minecraft.spruce_sign
+tile.sapling.spruce.name block.minecraft.spruce_sapling
+tile.sapling.jungle.name block.minecraft.jungle_sapling
+tile.birch_standing_sign.name block.minecraft.birch_sign
+tile.sponge.dry.name block.minecraft.sponge
+tile.snow.name block.minecraft.snow_block
+tile.seaLantern.name block.minecraft.sea_lantern
+tile.birch_stairs.name block.minecraft.birch_stairs
+tile.sponge.wet.name block.minecraft.wet_sponge
+tile.spruce_fence_gate.name block.minecraft.spruce_fence_gate
+tile.jungle_standing_sign.name block.minecraft.jungle_sign
+tile.oak_stairs.name block.minecraft.oak_stairs
+tile.nether_brick_stairs.name block.minecraft.nether_brick_stairs
+tile.acacia_stairs.name block.minecraft.acacia_stairs
+tile.smooth_quartz_stairs.name block.minecraft.smooth_quartz_stairs
+tile.red_sandstone_stairs.name block.minecraft.red_sandstone_stairs
+tile.acacia_standing_sign.name block.minecraft.acacia_sign
+tile.brick_stairs.name block.minecraft.brick_stairs
+tile.spruceFence.name block.minecraft.spruce_fence
+tile.dark_oak_stairs.name block.minecraft.dark_oak_stairs
+tile.prismarine_bricks_stairs.name block.minecraft.prismarine_brick_stairs
+tile.normal_stone_stairs.name block.minecraft.stone_stairs
+tile.stone_brick_stairs.name block.minecraft.stone_brick_stairs
+tile.andesite_stairs.name block.minecraft.andesite_stairs
+tile.stone_stairs.name block.minecraft.cobblestone_stairs
+tile.sandstone_stairs.name block.minecraft.sandstone_stairs
+tile.darkoak_standing_sign.name block.minecraft.dark_oak_sign
+tile.prismarine_stairs.name block.minecraft.prismarine_stairs
+tile.quartz_stairs.name block.minecraft.quartz_stairs
+tile.spruce_stairs.name block.minecraft.spruce_stairs
+tile.dark_prismarine_stairs.name block.minecraft.dark_prismarine_stairs
+tile.diorite_stairs.name block.minecraft.diorite_stairs
+tile.granite_stairs.name block.minecraft.granite_stairs
+tile.purpur_stairs.name block.minecraft.purpur_stairs
+tile.smooth_sandstone_stairs.name block.minecraft.smooth_sandstone_stairs
+tile.smooth_stone.name block.minecraft.smooth_stone
+tile.jungle_stairs.name block.minecraft.jungle_stairs
+tile.smooth_red_sandstone_stairs.name block.minecraft.smooth_red_sandstone_stairs
+tile.standing_banner.brown.name block.minecraft.brown_banner
+tile.polished_andesite_stairs.name block.minecraft.polished_andesite_stairs
+tile.polished_granite_stairs.name block.minecraft.polished_granite_stairs
+tile.standing_banner.magenta.name block.minecraft.magenta_banner
+tile.end_brick_stairs.name block.minecraft.end_stone_brick_stairs
+tile.standing_banner.blue.name block.minecraft.blue_banner
+tile.standing_banner.green.name block.minecraft.green_banner
+tile.polished_diorite_stairs.name block.minecraft.polished_diorite_stairs
+tile.mossy_cobblestone_stairs.name block.minecraft.mossy_cobblestone_stairs
+tile.standing_banner.black.name block.minecraft.black_banner
+tile.mossy_stone_brick_stairs.name block.minecraft.mossy_stone_brick_stairs
+tile.standing_banner.pink.name block.minecraft.pink_banner
+tile.red_nether_brick_stairs.name block.minecraft.red_nether_brick_stairs
+tile.standing_banner.lime.name block.minecraft.lime_banner
+tile.stone.granite.name block.minecraft.granite
+tile.standing_banner.purple.name block.minecraft.purple_banner
+tile.stonebrick.chiseled.name block.minecraft.chiseled_stone_bricks
+tile.standing_banner.lightBlue.name block.minecraft.light_blue_banner
+tile.standing_banner.red.name block.minecraft.red_banner
+tile.standing_banner.yellow.name block.minecraft.yellow_banner
+tile.standing_banner.silver.name block.minecraft.light_gray_banner
+tile.standing_banner.gray.name block.minecraft.gray_banner
+tile.standing_banner.orange.name block.minecraft.orange_banner
+tile.standing_banner.cyan.name block.minecraft.cyan_banner
+tile.stone.andesite.name block.minecraft.andesite
+tile.stonebrick.default.name block.minecraft.stone_bricks
+tile.cobblestone.name block.minecraft.cobblestone
+tile.stone.stone.name block.minecraft.stone
+tile.stone.andesiteSmooth.name block.minecraft.polished_andesite
+tile.stone.dioriteSmooth.name block.minecraft.polished_diorite
+tile.stone.diorite.name block.minecraft.diorite
+tile.stone.graniteSmooth.name block.minecraft.polished_granite
+tile.stonecutter.name block.minecraft.stonecutter container.stonecutter
+tile.double_stone_slab.name block.minecraft.stone_slab
+tile.mossy_cobblestone.name block.minecraft.mossy_cobblestone
+tile.stonebrick.name block.minecraft.stone_bricks
+tile.stonebrick.cracked.name block.minecraft.cracked_stone_bricks
+tile.stonebrick.mossy.name block.minecraft.mossy_stone_bricks
+tile.stone_slab.cobble.name block.minecraft.cobblestone_slab
+tile.double_stone_slab.brick.name block.minecraft.brick_slab
+tile.stonecutter_block.name block.minecraft.stonecutter container.stonecutter
+tile.stone_slab.brick.name block.minecraft.brick_slab
+tile.stone_slab.nether_brick.name block.minecraft.nether_brick_slab
+tile.double_stone_slab.nether_brick.name block.minecraft.nether_brick_slab
+tile.double_stone_slab.smoothStoneBrick.name block.minecraft.stone_brick_slab
+tile.double_stone_slab2.red_sandstone.name block.minecraft.red_sandstone_slab
+tile.stone_slab.quartz.name block.minecraft.quartz_slab
+tile.stone_slab.smoothStoneBrick.name block.minecraft.stone_brick_slab
+tile.double_stone_slab.cobble.name block.minecraft.cobblestone_slab
+tile.stone_slab.stone.name block.minecraft.smooth_stone_slab
+tile.stone_slab2.sandstone.smooth.name block.minecraft.smooth_sandstone_slab
+tile.double_stone_slab.sand.name block.minecraft.sandstone_slab
+tile.double_stone_slab.quartz.name block.minecraft.quartz_slab
+tile.stone_slab.name block.minecraft.stone_slab
+tile.stone_slab2.prismarine.rough.name block.minecraft.prismarine_slab
+tile.stone_slab2.mossy_cobblestone.name block.minecraft.mossy_cobblestone_slab
+tile.stone_slab.sand.name block.minecraft.sandstone_slab
+tile.double_stone_slab.stone.name block.minecraft.stone_slab
+tile.stone_slab2.prismarine.bricks.name block.minecraft.prismarine_brick_slab
+tile.stone_slab2.prismarine.dark.name block.minecraft.dark_prismarine_slab
+tile.stone_slab2.purpur.name block.minecraft.purpur_slab
+tile.stone_slab2.red_sandstone.name block.minecraft.red_sandstone_slab
+tile.stone_slab3.andesite.name block.minecraft.andesite_slab
+tile.stone_slab3.end_brick.name block.minecraft.end_stone_brick_slab
+tile.coral_block.purple.name block.minecraft.bubble_coral_block
+tile.stone_slab2.red_nether_brick.name block.minecraft.red_nether_brick_slab
+tile.coral_block.pink.name block.minecraft.brain_coral_block
+tile.stone_slab3.andesite.smooth.name block.minecraft.polished_andesite_slab
+tile.stone_slab4.mossy_stone_brick.name block.minecraft.mossy_stone_brick_slab
+tile.stone_slab3.diorite.smooth.name block.minecraft.polished_diorite_slab
+tile.stone_slab3.granite.smooth.name block.minecraft.polished_granite_slab
+tile.stone_slab4.stone.name block.minecraft.stone_slab
+tile.stone_slab3.diorite.name block.minecraft.diorite_slab
+tile.stone_slab3.granite.name block.minecraft.granite_slab
+tile.tallgrass.grass.name block.minecraft.grass
+tile.stone_slab3.red_sandstone.smooth.name block.minecraft.smooth_red_sandstone_slab
+tile.seagrass.seagrass.name block.minecraft.seagrass
+tile.tallgrass.name block.minecraft.grass
+tile.coral.blue.name block.minecraft.tube_coral
+tile.coral_block.red.name block.minecraft.fire_coral_block
+tile.tallgrass.fern.name block.minecraft.fern
+tile.stone_slab4.cut_red_sandstone.name block.minecraft.cut_red_sandstone_slab
+tile.coral_block.yellow.name block.minecraft.horn_coral_block
+tile.coral_block.red_dead.name block.minecraft.dead_fire_coral_block
+tile.coral_block.blue_dead.name block.minecraft.dead_tube_coral_block
+tile.turtle_egg.name block.minecraft.turtle_egg
+tile.stone_slab4.cut_sandstone.name block.minecraft.cut_sandstone_slab
+tile.coral_block.blue.name block.minecraft.tube_coral_block
+tile.sea_pickle.name block.minecraft.sea_pickle
+tile.coral_block.yellow_dead.name block.minecraft.dead_horn_coral_block
+tile.coral.purple.name block.minecraft.bubble_coral
+tile.stone_slab4.smooth_quartz.name block.minecraft.smooth_quartz_slab
+tile.coral_block.purple_dead.name block.minecraft.dead_bubble_coral_block
+tile.coral.red.name block.minecraft.fire_coral
+tile.coral_block.pink_dead.name block.minecraft.dead_brain_coral_block
+tile.coral.pink.name block.minecraft.brain_coral
+tile.coral.purple_dead.name block.minecraft.dead_bubble_coral
+tile.coral_fan.blue_fan.name block.minecraft.tube_coral_fan
+tile.coral_fan.pink_fan.name block.minecraft.brain_coral_fan
+tile.coral_fan.yellow_fan.name block.minecraft.horn_coral_fan
+tile.coral.yellow_dead.name block.minecraft.dead_horn_coral
+tile.coral.red_dead.name block.minecraft.dead_fire_coral
+tile.coral.blue_dead.name block.minecraft.dead_tube_coral
+tile.coral_fan.purple_fan.name block.minecraft.bubble_coral_fan
+tile.coral.yellow.name block.minecraft.horn_coral
+tile.coral.pink_dead.name block.minecraft.dead_brain_coral
+tile.coral_fan_dead.blue_fan.name block.minecraft.dead_tube_coral_fan
+tile.coral_fan.red_fan.name block.minecraft.fire_coral_fan
+tile.torch.name block.minecraft.torch
+tile.trapdoor.name block.minecraft.oak_trapdoor
+tile.coral_fan_dead.purple_fan.name block.minecraft.dead_bubble_coral_fan
+tile.glass_pane.name block.minecraft.glass_pane
+tile.coral_fan_dead.yellow_fan.name block.minecraft.dead_horn_coral_fan
+tile.snow_layer.name block.minecraft.snow
+tile.coral_fan_dead.pink_fan.name block.minecraft.dead_brain_coral_fan
+tile.jungle_trapdoor.name block.minecraft.jungle_trapdoor
+tile.spruce_trapdoor.name block.minecraft.spruce_trapdoor
+tile.vine.name block.minecraft.vine
+tile.flowing_water.name block.minecraft.water
+tile.tnt.name block.minecraft.tnt
+tile.birch_trapdoor.name block.minecraft.birch_trapdoor
+tile.tripwire_hook.name block.minecraft.tripwire_hook
+tile.coral_fan_dead.red_fan.name block.minecraft.dead_fire_coral_fan
+tile.tripWire.name block.minecraft.tripwire
+tile.dark_oak_trapdoor.name block.minecraft.dark_oak_trapdoor
+tile.planks.birch.name block.minecraft.birch_planks
+tile.acacia_trapdoor.name block.minecraft.acacia_trapdoor
+tile.weeping_vines.name block.minecraft.weeping_vines
+tile.end_stone.name block.minecraft.end_stone
+tile.twisting_vines.name block.minecraft.twisting_vines
+tile.water.name block.minecraft.water
+tile.web.name block.minecraft.cobweb
+tile.waterlily.name block.minecraft.lily_pad
+tile.planks.jungle.name block.minecraft.jungle_planks
+tile.end_bricks.name block.minecraft.end_stone_bricks
+tile.planks.acacia.name block.minecraft.acacia_planks
+tile.planks.spruce.name block.minecraft.spruce_planks
+tile.wooden_slab.birch.name block.minecraft.birch_slab
+tile.planks.big_oak.name block.minecraft.dark_oak_planks
+tile.planks.oak.name block.minecraft.oak_planks
+tile.carpet.gray.name block.minecraft.gray_carpet
+tile.wooden_slab.acacia.name block.minecraft.acacia_slab
+tile.wooden_slab.jungle.name block.minecraft.jungle_slab
+tile.wooden_slab.big_oak.name block.minecraft.dark_oak_slab
+tile.wooden_slab.oak.name block.minecraft.oak_slab
+tile.carpet.blue.name block.minecraft.blue_carpet
+tile.carpet.cyan.name block.minecraft.cyan_carpet
+tile.carpet.brown.name block.minecraft.brown_carpet
+tile.wooden_slab.spruce.name block.minecraft.spruce_slab
+tile.carpet.black.name block.minecraft.black_carpet
+tile.carpet.lightBlue.name block.minecraft.light_blue_carpet
+tile.carpet.purple.name block.minecraft.purple_carpet
+tile.carpet.green.name block.minecraft.green_carpet
+tile.carpet.lime.name block.minecraft.lime_carpet
+tile.carpet.orange.name block.minecraft.orange_carpet
+tile.carpet.magenta.name block.minecraft.magenta_carpet
+tile.glazedTerracotta.white.name block.minecraft.white_glazed_terracotta
+tile.carpet.silver.name block.minecraft.light_gray_carpet
+tile.glazedTerracotta.lime.name block.minecraft.lime_glazed_terracotta
+tile.glazedTerracotta.pink.name block.minecraft.pink_glazed_terracotta
+tile.carpet.pink.name block.minecraft.pink_carpet
+tile.carpet.white.name block.minecraft.white_carpet
+tile.crafting_table.name block.minecraft.crafting_table
+tile.carpet.red.name block.minecraft.red_carpet
+tile.carpet.yellow.name block.minecraft.yellow_carpet
+tile.glazedTerracotta.red.name block.minecraft.red_glazed_terracotta
+tile.glazedTerracotta.brown.name block.minecraft.brown_glazed_terracotta
+tile.glazedTerracotta.yellow.name block.minecraft.yellow_glazed_terracotta
+tile.concrete.black.name block.minecraft.black_concrete
+tile.glazedTerracotta.orange.name block.minecraft.orange_glazed_terracotta
+tile.glazedTerracotta.silver.name block.minecraft.light_gray_glazed_terracotta
+tile.glazedTerracotta.cyan.name block.minecraft.cyan_glazed_terracotta
+tile.glazedTerracotta.light_blue.name block.minecraft.light_blue_glazed_terracotta
+tile.glazedTerracotta.blue.name block.minecraft.blue_glazed_terracotta
+tile.concrete.red.name block.minecraft.red_concrete
+tile.concrete.brown.name block.minecraft.brown_concrete
+tile.concrete.blue.name block.minecraft.blue_concrete
+tile.glazedTerracotta.green.name block.minecraft.green_glazed_terracotta
+tile.concrete.yellow.name block.minecraft.yellow_concrete
+tile.concrete.magenta.name block.minecraft.magenta_concrete
+tile.glazedTerracotta.purple.name block.minecraft.purple_glazed_terracotta
+tile.concrete.purple.name block.minecraft.purple_concrete
+tile.glazedTerracotta.gray.name block.minecraft.gray_glazed_terracotta
+tile.concrete.green.name block.minecraft.green_concrete
+tile.concrete.lime.name block.minecraft.lime_concrete
+tile.glazedTerracotta.black.name block.minecraft.black_glazed_terracotta
+tile.concrete.silver.name block.minecraft.light_gray_concrete
+tile.glazedTerracotta.magenta.name block.minecraft.magenta_glazed_terracotta
+tile.concrete.cyan.name block.minecraft.cyan_concrete
+tile.glazedTerracottaLightBlue.name block.minecraft.light_blue_glazed_terracotta
+tile.concrete.orange.name block.minecraft.orange_concrete
+tile.glazedTerracottaWhite.name block.minecraft.white_glazed_terracotta
+tile.concrete.gray.name block.minecraft.gray_concrete
+tile.concrete.lightBlue.name block.minecraft.light_blue_concrete
+tile.concrete.white.name block.minecraft.white_concrete
+tile.glazedTerracottaSilver.name block.minecraft.light_gray_glazed_terracotta
+tile.glazedTerracottaLime.name block.minecraft.lime_glazed_terracotta
+tile.glazedTerracottaGray.name block.minecraft.gray_glazed_terracotta
+tile.glazedTerracottaPink.name block.minecraft.pink_glazed_terracotta
+tile.glazedTerracottaMagenta.name block.minecraft.magenta_glazed_terracotta
+tile.concretePowder.magenta.name block.minecraft.magenta_concrete_powder
+tile.glazedTerracottaRed.name block.minecraft.red_glazed_terracotta
+tile.glazedTerracottaBrown.name block.minecraft.brown_glazed_terracotta
+tile.glazedTerracottaYellow.name block.minecraft.yellow_glazed_terracotta
+tile.concrete.pink.name block.minecraft.pink_concrete
+tile.glazedTerracottaOrange.name block.minecraft.orange_glazed_terracotta
+tile.glazedTerracottaCyan.name block.minecraft.cyan_glazed_terracotta
+tile.concretePowder.silver.name block.minecraft.light_gray_concrete_powder
+tile.glazedTerracottaBlack.name block.minecraft.black_glazed_terracotta
+tile.glazedTerracottaGreen.name block.minecraft.green_glazed_terracotta
+tile.concretePowder.red.name block.minecraft.red_concrete_powder
+tile.glazedTerracottaPurple.name block.minecraft.purple_glazed_terracotta
+tile.concretePowder.purple.name block.minecraft.purple_concrete_powder
+tile.wood.stripped.oak.name block.minecraft.stripped_oak_wood
+tile.concretePowder.pink.name block.minecraft.pink_concrete_powder
+tile.concretePowder.black.name block.minecraft.black_concrete_powder
+tile.bamboo.name block.minecraft.bamboo
+tile.glazedTerracottaBlue.name block.minecraft.blue_glazed_terracotta
+tile.wood.spruce.name block.minecraft.spruce_wood
+tile.concretePowder.cyan.name block.minecraft.cyan_concrete_powder
+tile.concretePowder.white.name block.minecraft.white_concrete_powder
+tile.concretePowder.blue.name block.minecraft.blue_concrete_powder
+tile.concretePowder.green.name block.minecraft.green_concrete_powder
+tile.concretePowder.lime.name block.minecraft.lime_concrete_powder
+tile.concretePowder.lightBlue.name block.minecraft.light_blue_concrete_powder
+tile.stripped_dark_oak_log.name block.minecraft.stripped_dark_oak_log
+tile.stripped_oak_log.name block.minecraft.stripped_oak_log
+tile.concretePowder.brown.name block.minecraft.brown_concrete_powder
+tile.stripped_spruce_log.name block.minecraft.stripped_spruce_log
+tile.concretePowder.yellow.name block.minecraft.yellow_concrete_powder
+tile.scaffolding.name block.minecraft.scaffolding
+tile.grindstone.name block.minecraft.grindstone
+tile.lectern.name block.minecraft.lectern container.lectern
+tile.soul_lantern.name block.minecraft.soul_lantern
+tile.wood.birch.name block.minecraft.birch_wood
+tile.sweet_berry_bush.name block.minecraft.sweet_berry_bush
+tile.concretePowder.gray.name block.minecraft.gray_concrete_powder
+tile.stripped_acacia_log.name block.minecraft.stripped_acacia_log
+tile.concretePowder.orange.name block.minecraft.orange_concrete_powder
+tile.wood.jungle.name block.minecraft.jungle_wood
+tile.campfire.name block.minecraft.campfire
+tile.smoker.name block.minecraft.smoker container.smoker
+tile.smithing_table.name block.minecraft.smithing_table
+tile.lantern.name block.minecraft.lantern
+tile.cartography_table.name block.minecraft.cartography_table container.cartography_table
+tile.barrel.name block.minecraft.barrel container.barrel
+tile.wood.oak.name block.minecraft.oak_wood
+tile.stripped_birch_log.name block.minecraft.stripped_birch_log
+tile.stripped_jungle_log.name block.minecraft.stripped_jungle_log
+tile.loom.name block.minecraft.loom container.loom
+tile.pointed_dripstone.name block.minecraft.pointed_dripstone
+tile.wood.acacia.name block.minecraft.acacia_wood
+tile.deepslate.name block.minecraft.deepslate
+tile.ancient_debris.name block.minecraft.ancient_debris
+tile.wood.stripped.birch.name block.minecraft.stripped_birch_wood
+tile.wood.stripped.dark_oak.name block.minecraft.stripped_dark_oak_wood
+tile.wood.stripped.jungle.name block.minecraft.stripped_jungle_wood
+tile.wood.dark_oak.name block.minecraft.dark_oak_wood
+tile.powder_snow.name block.minecraft.powder_snow
+tile.wood.stripped.spruce.name block.minecraft.stripped_spruce_wood
+tile.respawn_anchor.name block.minecraft.respawn_anchor
+tile.cobbled_deepslate.name block.minecraft.cobbled_deepslate
+tile.deepslate_tile_slab.name block.minecraft.deepslate_tile_slab
+tile.polished_deepslate.name block.minecraft.polished_deepslate
+tile.deepslate_tile_stairs.name block.minecraft.deepslate_tile_stairs
+tile.dripstone_block.name block.minecraft.dripstone_block
+tile.cobbled_deepslate_slab.name block.minecraft.cobbled_deepslate_slab
+tile.deepslate_tile_double_slab.name block.minecraft.deepslate_tile_slab
+tile.deepslate_tile_wall.name block.minecraft.deepslate_tile_wall
+tile.wood.stripped.acacia.name block.minecraft.stripped_acacia_wood
+tile.nether_gold_ore.name block.minecraft.nether_gold_ore
+tile.deepslate_brick_double_slab.name block.minecraft.deepslate_brick_slab
+tile.netherite_block.name block.minecraft.netherite_block
+tile.cobbled_deepslate_wall.name block.minecraft.cobbled_deepslate_wall
+tile.crying_obsidian.name block.minecraft.crying_obsidian
+tile.infested_deepslate.name block.minecraft.infested_deepslate
+tile.chiseled_deepslate.name block.minecraft.chiseled_deepslate
+tile.deepslate_lapis_ore.name block.minecraft.deepslate_lapis_ore
+tile.cobbled_deepslate_stairs.name block.minecraft.cobbled_deepslate_stairs
+tile.polished_deepslate_wall.name block.minecraft.polished_deepslate_wall
+tile.exposed_copper.name block.minecraft.exposed_copper
+tile.deepslate_iron_ore.name block.minecraft.deepslate_iron_ore
+tile.deepslate_tiles.name block.minecraft.deepslate_tiles
+tile.polished_deepslate_stairs.name block.minecraft.polished_deepslate_stairs
+item.copper_ingot.name item.minecraft.copper_ingot
+tile.polished_deepslate_slab.name block.minecraft.polished_deepslate_slab
+tile.deepslate_redstone_ore.name block.minecraft.deepslate_redstone_ore
+tile.deepslate_bricks.name block.minecraft.deepslate_bricks
+tile.cobbled_deepslate_double_slab.name block.minecraft.cobbled_deepslate_slab
+tile.deepslate_gold_ore.name block.minecraft.deepslate_gold_ore
+tile.deepslate_brick_stairs.name block.minecraft.deepslate_brick_stairs
+tile.cracked_deepslate_bricks.name block.minecraft.cracked_deepslate_bricks
+item.raw_gold.name item.minecraft.raw_gold
+tile.deepslate_brick_wall.name block.minecraft.deepslate_brick_wall
+tile.cracked_deepslate_tiles.name block.minecraft.cracked_deepslate_tiles
+tile.copper_block.name block.minecraft.copper_block
+tile.polished_deepslate_double_slab.name block.minecraft.polished_deepslate_slab
+tile.deepslate_diamond_ore.name block.minecraft.deepslate_diamond_ore
+tile.deepslate_brick_slab.name block.minecraft.deepslate_brick_slab
+tile.oxidized_copper.name block.minecraft.oxidized_copper
+item.raw_iron.name item.minecraft.raw_iron
+item.raw_copper.name item.minecraft.raw_copper
+tile.deepslate_coal_ore.name block.minecraft.deepslate_coal_ore
+tile.waxed_weathered_copper.name block.minecraft.waxed_weathered_copper
+tile.waxed_exposed_copper.name block.minecraft.waxed_exposed_copper
+tile.deepslate_emerald_ore.name block.minecraft.deepslate_emerald_ore
+tile.waxed_oxidized_copper.name block.minecraft.waxed_oxidized_copper
+tile.deepslate_copper_ore.name block.minecraft.deepslate_copper_ore
+tile.waxed_copper.name block.minecraft.waxed_copper_block
+tile.cut_copper.name block.minecraft.cut_copper
+tile.weathered_copper.name block.minecraft.weathered_copper
+tile.exposed_cut_copper.name block.minecraft.exposed_cut_copper
+tile.weathered_cut_copper_slab.name block.minecraft.weathered_cut_copper_slab
+tile.oxidized_cut_copper.name block.minecraft.oxidized_cut_copper
+tile.exposed_cut_copper_slab.name block.minecraft.exposed_cut_copper_slab
+tile.waxed_oxidized_cut_copper_stairs.name block.minecraft.waxed_oxidized_cut_copper_stairs
+tile.waxed_cut_copper.name block.minecraft.waxed_cut_copper
+tile.exposed_cut_copper_stairs.name block.minecraft.exposed_cut_copper_stairs
+tile.cut_copper_stairs.name block.minecraft.cut_copper_stairs
+tile.waxed_exposed_cut_copper.name block.minecraft.waxed_exposed_cut_copper
+tile.waxed_oxidized_cut_copper.name block.minecraft.waxed_oxidized_cut_copper
+tile.oxidized_cut_copper_slab.name block.minecraft.oxidized_cut_copper_slab
+tile.weathered_cut_copper_stairs.name block.minecraft.weathered_cut_copper_stairs
+tile.waxed_weathered_cut_copper_stairs.name block.minecraft.waxed_weathered_cut_copper_stairs
+tile.waxed_exposed_cut_copper_stairs.name block.minecraft.waxed_exposed_cut_copper_stairs
+tile.waxed_weathered_cut_copper.name block.minecraft.waxed_weathered_cut_copper
+tile.amethyst_block.name block.minecraft.amethyst_block
+hudScreen.tooltip.waxOn advancements.husbandry.wax_on.title subtitles.item.honeycomb.wax_on
+tile.raw_iron_block.name block.minecraft.raw_iron_block
+tile.waxed_exposed_cut_copper_slab.name block.minecraft.waxed_exposed_cut_copper_slab
+tile.weathered_cut_copper.name block.minecraft.weathered_cut_copper
+tile.oxidized_cut_copper_stairs.name block.minecraft.oxidized_cut_copper_stairs
+tile.waxed_cut_copper_stairs.name block.minecraft.waxed_cut_copper_stairs
+tile.cut_copper_slab.name block.minecraft.cut_copper_slab
+itemGroup.name.copper block.minecraft.copper_block
+hudScreen.tooltip.waxOff advancements.husbandry.wax_off.title subtitles.item.axe.wax_off
+tile.waxed_weathered_cut_copper_slab.name block.minecraft.waxed_weathered_cut_copper_slab
+item.spyglass.name item.minecraft.spyglass
+tipped_arrow.effect.jump item.minecraft.tipped_arrow.effect.leaping
+tile.raw_gold_block.name block.minecraft.raw_gold_block
+tile.raw_copper_block.name block.minecraft.raw_copper_block
+tipped_arrow.effect.thick item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+tile.tuff.name block.minecraft.tuff
+tile.tinted_glass.name block.minecraft.tinted_glass
+tipped_arrow.effect.invisibility item.minecraft.tipped_arrow.effect.invisibility
+tile.large_amethyst_bud.name block.minecraft.large_amethyst_bud
+tipped_arrow.effect.nightVision item.minecraft.tipped_arrow.effect.night_vision
+tile.amethyst_cluster.name block.minecraft.amethyst_cluster
+tile.waxed_cut_copper_slab.name block.minecraft.waxed_cut_copper_slab
+tipped_arrow.effect.awkward item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+tipped_arrow.effect.waterBreathing item.minecraft.tipped_arrow.effect.water_breathing
+tipped_arrow.effect.levitation item.minecraft.tipped_arrow.effect.levitation
+tile.budding_amethyst.name block.minecraft.budding_amethyst
+item.amethyst_shard.name item.minecraft.amethyst_shard
+tipped_arrow.effect.moveSpeed item.minecraft.tipped_arrow.effect.swiftness
+tile.small_amethyst_bud.name block.minecraft.small_amethyst_bud
+tipped_arrow.effect.mundane item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+tipped_arrow.effect.empty item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick
+tile.calcite.name block.minecraft.calcite
+tipped_arrow.effect.fireResistance item.minecraft.tipped_arrow.effect.fire_resistance
+tipped_arrow.effect.water item.minecraft.tipped_arrow.effect.water
+tile.smooth_basalt.name block.minecraft.smooth_basalt
+tile.medium_amethyst_bud.name block.minecraft.medium_amethyst_bud
+tipped_arrow.effect.harm item.minecraft.tipped_arrow.effect.harming
+tipped_arrow.effect.heal item.minecraft.tipped_arrow.effect.healing
+structure_block.title block.minecraft.structure_block
+tipped_arrow.effect.regeneration item.minecraft.tipped_arrow.effect.regeneration
+tipped_arrow.effect.moveSlowdown item.minecraft.tipped_arrow.effect.slowness
+tipped_arrow.effect.turtleMaster item.minecraft.tipped_arrow.effect.turtle_master
+tipped_arrow.effect.slowFalling item.minecraft.tipped_arrow.effect.slow_falling
+tipped_arrow.effect.weakness item.minecraft.tipped_arrow.effect.weakness
+tipped_arrow.effect.damageBoost item.minecraft.tipped_arrow.effect.strength
+tipped_arrow.effect.luck item.minecraft.tipped_arrow.effect.luck
+structure_block.mode.load structure_block.button.load
+structure_block.structure_name structure_block.structure_name
+tipped_arrow.effect.poison item.minecraft.tipped_arrow.effect.poison
+structure_block.show options.chat.visibility.full options.visible
+structure_block.place_by_none gui.none
+structure_block.save selectWorld.edit.save structure_block.button.save
+structure_block.mirror.none gui.none
+structure_block.load structure_block.button.load
+structure_block.reset controls.reset
+3d_export.show options.chat.visibility.full options.visible
+translation.test.invalid2 translation.test.invalid2
+3d_export.reset controls.reset
+translation.test.invalid translation.test.invalid
+structure_block.exportFailedTitle selectWorld.edit.export_worldgen_settings.failure
+translation.test.args attribute.modifier.equals.0 potion.withAmplifier translation.test.args
+translation.test.escape translation.test.escape
+translation.test.none translation.test.none
+translation.test.world pack.source.world selectWorld.world translation.test.world
+trial.tabbed_upsell.minecraft.title advancements.story.root.title
+trial.tabbed_upsell.creative.title selectWorld.gameMode.creative
+trial.tabbed_upsell.server.title pack.source.server
+trial.tabbed_upsell.multiplayer.title key.categories.multiplayer menu.multiplayer multiplayer.title
+trial.survival.mode.title selectWorld.gameMode.survival
+trial.creative.mode.title selectWorld.gameMode.creative
+xbox.report.cheating selectWorld.cheats
+platform.model.unknown selectWorld.versionUnknown
+manifestvalidation.delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+pack.authors.none selectWorld.versionUnknown
+manifestvalidation.delete.confirm_delete selectServer.delete selectServer.deleteButton selectWorld.delete selectWorld.deleteButton
+manifestvalidation.delete.confirm_goBack dataPack.validation.back gui.back
+addServer.resourcePack.enabled addServer.resourcePack.enabled
+eduTemplateWorld.mooshroomIsland.name biome.minecraft.mushroom_fields
+eduTemplateWorld.mushroomIsland.name biome.minecraft.mushroom_fields
+externalServerScreen.addServer selectServer.add
+addServer.enterIp addServer.enterIp
+eduTemplateWorld.blocksOfGrass.name block.minecraft.grass_block
+addServer.hideAddress addServer.hideAddress
+addServer.resourcePack addServer.resourcePack
+addServer.add addServer.add gui.done narrator.loading.done
+addServer.enterName addServer.enterName
+addServer.title addServer.title
+externalServerScreen.serverNameInput addServer.enterName
+hbui.AchievementDetails.completed multiplayer.status.finished
+hbui.AchievementDetailsRoute.narration.completed multiplayer.status.finished
+hbui.AchievementDetails.yes gui.yes
+hbui.AchievementDetailsRoute.narration.progress gui.advancements key.advancements
+hbui.AchievementListItem.completed multiplayer.status.finished
+hbui.Achievements.completed multiplayer.status.finished
+hbui.Achievements.all gui.all gui.socialInteractions.tab_all options.particles.all
+hbui.BackButton.back dataPack.validation.back gui.back
+hbui.CreateNewWorld.advanced.bonusChestTitle selectWorld.bonusItems
+hbui.CreateNewWorld.advanced.firesSpreadsTitle gamerule.doFireTick
+hbui.CreateNewWorld.advanced.immediateRespawnTitle gamerule.doImmediateRespawn
+hbui.CreateNewWorld.advanced.naturalRegenerationTitle gamerule.naturalRegeneration
+hbui.CreateNewWorld.advanced.mobLootTitle gamerule.doMobLoot
+hbui.CreateNewWorld.advanced.tileDropsTitle gamerule.doTileDrops
+hbui.CreateNewWorld.advanced.worldTypeInfiniteLabel enchantment.minecraft.infinity
+hbui.CreateNewWorld.advanced.worldTypeFlatLabel generator.flat
+hbui.CreateNewWorld.cheats.commandBlocksTitle block.minecraft.command_block
+hbui.CreateNewWorld.advanced.worldTypeTitle selectWorld.mapType
+hbui.CreateNewWorld.general.difficultyPeacefulTitle options.difficulty.peaceful
+hbui.CreateNewWorld.cheats.title selectWorld.cheats
+hbui.CreateNewWorld.general.difficultyNormalTitle options.difficulty.normal selectWorld.mapType.normal
+hbui.CreateNewWorld.general.difficultyHardTitle options.difficulty.hard
+hbui.CreateNewWorld.cheats.weatherTitle gamerule.doWeatherCycle
+hbui.CreateNewWorld.general.difficultyEasyTitle options.difficulty.easy
+hbui.ErrorModal.goBack dataPack.validation.back gui.back
+hbui.CreateNewWorld.general.worldTypeTitle selectWorld.mapType
+hbui.MenuButton.menu key.keyboard.menu
+hbui.Switch.toggle options.key.toggle
+trade.level.4 merchant.level.4
+trade.level.3 merchant.level.3
+trade.level.1 merchant.level.1
+trade.trade merchant.trades
+trade.level.5 merchant.level.5
+trade.level.2 merchant.level.2
+contentlog.history.copyToClipboard chat.copy
+contentlog.delete.cancel gui.cancel
+dr.rarity.common options.difficulty.normal selectWorld.mapType.normal
+dr.right_side.category_title createWorld.customize.flat.layer disconnect.genericReason
+dr.header.capes options.modelPart.cape
+dr.body_size_label_text createWorld.customize.flat.height
+dr.none_button_text gui.none
+dr.default_piece_button_text createWorld.customize.custom.defaults generator.default
+dr.categories.capes options.modelPart.cape
+onlinePlay.proceed gui.proceed
+dr.color.button_name options.chat.color
+onlinePlay.Back dataPack.validation.back gui.back
+dynamicPackage.download.android.state_failed_cancelled multiplayer.status.cancelled
+item.compound.charcoal.name item.minecraft.charcoal
+item.compound.water.name block.minecraft.water
+labtable.combine container.crafting
+howtoplay.vr.header.7 key.categories.movement
+howtoplay.vr.header.8 key.jump
+options.vr.movement key.categories.movement
+options.vr.hudPosition.fixed jigsaw_block.joint.aligned
+options.vr.jump key.jump
+ori.confirm.controls.controller.cancel gui.cancel
+ori.exit.controls.controller disconnect.quitting multiplayer.status.quitting
