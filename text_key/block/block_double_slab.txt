@@ -1,0 +1,8 @@
+# 双层台阶
+tile.double_stone_slab.brick.name
+tile.double_stone_slab.smoothStoneBrick.name
+tile.double_stone_slab.wood.name
+tile.cobbled_deepslate_double_slab.name
+tile.polished_deepslate_double_slab.name
+tile.deepslate_tile_double_slab.name
+tile.deepslate_brick_double_slab.name

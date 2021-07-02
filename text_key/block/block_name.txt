@@ -1,0 +1,15 @@
+# 无法直接匹配的
+tile.bed.name
+tile.wool.name
+tile.leaves.name
+tile.double_plant.name
+tile.red_flower.name
+tile.yellow_flower.name
+tile.wheat.name
+tile.log.name
+tile.mushroom.name
+tile.standing_banner.name
+tile.tallgrass.shrub.name
+tile.planks.name
+tile.wooden_slab.name
+tile.carpet.name
