@@ -1,5 +1,10 @@
 # 从Minecraft资源站下载你想要的东西
 
+## 获取版本信息
+
+从<http://launchermeta.mojang.com/mc/game/version_manifest.json>获取版本信息
+
+## 根据文件hash值下载文件
 首先在`version`文件夹里的版本索引找到你要下载的文件的hash  
 比如: 104bfa1a1a66cd99e2f3de33d894f4c369918842  
 这是中文翻译的hash值  
