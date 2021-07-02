@@ -1,2 +1,0 @@
-# 需要验证的
-tile.stone_slab.smoothStoneBrick.name

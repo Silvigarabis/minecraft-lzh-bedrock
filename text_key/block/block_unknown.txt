@@ -1,0 +1,39 @@
+# 基岩版独有
+tile.allow.name
+tile.unknown.name
+tile.deny.name
+tile.border_block.name
+tile.invisibleBedrock.name
+tile.chalkboard.oneByOne.name
+tile.chalkboard.twoByOne.name
+tile.chalkboard.threeByTwo.name
+tile.camera.name
+tile.purpur_block.chiseled.name
+tile.daylight_detector_inverted.name
+# 无法直接匹配的
+tile.bed.name
+tile.wool.name
+tile.leaves.name
+tile.double_plant.name
+tile.red_flower.name
+tile.yellow_flower.name
+tile.wheat.name
+tile.log.name
+tile.mushroom.name
+tile.standing_banner.name
+tile.tallgrass.shrub.name
+tile.planks.name
+tile.wooden_slab.name
+tile.carpet.name
+# 已废弃
+## 上锁的箱子
+tile.lockedchest.name
+## 下界反应堆
+tile.netherreactor.active
+tile.netherreactor.builtTooHigh
+tile.netherreactor.builtTooLow
+tile.netherreactor.name
+tile.netherreactor.playersTooFar
+tile.netherreactor.wrongPattern
+## 红宝石
+tile.oreRuby.name
