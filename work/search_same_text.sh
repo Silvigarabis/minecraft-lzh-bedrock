@@ -7,7 +7,7 @@ one(){
   while read -r file; do
     file_value="${file#*=}"
     if [ "${file_value}" = "${value}" ]; then
-      echo "${file_value%%=*}"
+      echo "${file%%=*}"
     fi
   done <<EOM | xargs -d $'\n' -r echo "${key}"
 $search_file
