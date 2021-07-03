@@ -1,0 +1,5 @@
+# Java版中，他们被扁平化了
+# 而基岩版中没有
+item.tipped_arrow.name=药箭
+item.record.name=音乐唱片
+item.banner_pattern.name=旗帜图案

@@ -806,3 +806,9 @@ tile.cobbled_deepslate_double_slab.name block.minecraft.cobbled_deepslate_slab
 tile.polished_deepslate_double_slab.name block.minecraft.polished_deepslate_slab
 tile.deepslate_tile_double_slab.name block.minecraft.deepslate_tile_slab
 tile.deepslate_brick_double_slab.name block.minecraft.deepslate_brick_slab
+
+# 新版物品
+tile.sculk_sensor.name block.minecraft.sculk_sensor
+
+#其他
+tile.stonebrick.smooth.name block.minecraft.stone_bricks
