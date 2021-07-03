@@ -1,0 +1,3 @@
+chooseRealmScreen.header=选择一个Realm服务器
+chooseRealmScreen.realmsplusbuttontext=创建一个10位玩家的Realm
+chooseRealmScreen.realmsbuttontext=创建一个2位玩家的Realm

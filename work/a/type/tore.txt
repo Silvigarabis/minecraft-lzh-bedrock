@@ -1,0 +1,1 @@
+tore.search.filter.minecoin=Minecoin

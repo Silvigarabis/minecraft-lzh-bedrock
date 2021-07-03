@@ -1,0 +1,2 @@
+localWorld.no_local_world_label=你尚未创建任何世界。
+localWorld.no_local_worlds_present=你的世界消失了？试试看更改储存设置：

@@ -1,0 +1,2 @@
+authserver.notavailable=出错了。我们无法验证你尝试连接的服务器是我们信任的服务器。我们建议你稍后再试。
+authserver.authfailed=太糟糕了。该服务器未能通过我们的验证测试。未受信任者可能正假装成受信任服务器。

@@ -1,0 +1,3 @@
+realmsClearMembers.clearMembersTitle=清除成员？
+realmsClearMembers.clearMembersText=你想要清除该Realm的成员列表吗？
+realmsClearMembers.clear=清除成员

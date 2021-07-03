@@ -1,0 +1,8 @@
+updateScreen.update=更新
+updateScreen.updateRequired=需要更新
+updateScreen.title=版本已过期
+updateScreen.body=更新到最新版本，以访问所有的新功能、与好友在线玩，或者看看商城里有什么新东西。
+updateScreen.commerceNotSupported.title=无法访问商城
+updateScreen.commerceNotSupported.body=该版本的Minecraft无法再访问Minecraft商城。更新至最新版本以恢复商城的访问。
+updateScreen.packs.updateRequired=请更新到最新版本，以下载您在Minecraft商城购买的包。
+updateScreen.patchVersion=%s版本更新日志：

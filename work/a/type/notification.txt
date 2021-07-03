@@ -1,0 +1,3 @@
+notification.lock.noCraft=该物品已锁定，无法被合成
+notification.lock.noDrop=该物品已锁定，无法掉落
+notification.lock.noRemove=该物品已锁定，无法从物品栏移除

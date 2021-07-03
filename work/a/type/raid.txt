@@ -1,0 +1,3 @@
+raid.name=袭击
+raid.progress=剩余生物：
+raid.expiry=袭击已过期

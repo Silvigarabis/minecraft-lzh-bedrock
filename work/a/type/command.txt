@@ -1,0 +1,2 @@
+command.permissions.list.fail.filenotfound=从文件中读取权限失败，找不到文件。
+command.permissions.reload.fail.filenotfound=从文件重载权限失败，找不到文件。

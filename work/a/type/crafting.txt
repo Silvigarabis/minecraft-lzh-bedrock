@@ -1,0 +1,7 @@
+crafting.badCombination=该物品无有效输出
+crafting.cannotCreate=你没有全部的原料
+crafting.insufficientLevel=你的等级过低
+crafting.noRecipesInventory=你需要收集合成用的方块！
+crafting.noRecipesStonecutter=你需要收集合成用的石材！
+crafting.noRecipesStonecutter_block=你需要收集合成用的石材！
+crafting.noRecipesWorkbench=你需要收集合成用的方块！

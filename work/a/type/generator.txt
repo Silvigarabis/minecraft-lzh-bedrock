@@ -1,0 +1,10 @@
+generator.amplified=放大化
+generator.amplified.info=注意：只是好玩而已，需要强劲的设备
+generator.customized=自定义
+generator.debug_all_block_states=调试模式
+generator.default=默认
+generator.flat=超平坦
+generator.infinite=无限
+generator.largeBiomes=巨型生物群系
+generator.nether=下界
+generator.old=有限

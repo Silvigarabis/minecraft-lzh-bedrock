@@ -1,0 +1,1 @@
+LostFocus.Rift=鼠标丢失！如果想用的话，在桌面选择Minecraft即可。

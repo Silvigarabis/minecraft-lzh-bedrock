@@ -1,0 +1,15 @@
+realmsSharingScreen.join=加入
+realmsSharingScreen.joinTitle=加入Realm？
+realmsSharingScreen.joinMessage=加入%sRealm？
+realmsSharingScreen.blockedInviteTitle=需要许可
+realmsSharingScreen.blockedInviteMessage=你需要改Realm拥有者的许可才能加入这个Realm。
+realmsSharingScreen.badInviteTitle=无效的Realm链接
+realmsSharingScreen.badInviteMessage=找不到此邀请链接，此Realm的所有者可能修改了链接。去询问更新后的链接吧。
+realmsSharingScreen.regenerateLinkFailed=无法生存新的邀请链接
+realmsSharingScreen.cantJoinExpiredTitle=%s的Realm已过期
+realmsSharingScreen.cantJoinExpiredMessage=%s已过期。需要%s进行更新。
+realmsSharingScreen.cantJoinClosedTitle=%s已关闭此Realm
+realmsSharingScreen.cantJoinClosedMessage=%s已关闭。需要%s重新打开。
+realmsSharingScreen.failedSignInModalTitle=登录以加入此Realm
+realmsSharingScreen.failedSignInModalMessage=你需要用微软账户登录，才能加入Realm。请登录后重试。
+realmsSharingScreen.invalidPermissionTitle=无效权限

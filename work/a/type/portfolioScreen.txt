@@ -1,0 +1,5 @@
+portfolioScreen.page=第%s页
+portfolioScreen.export=导出个人资料
+portfolioScreen.caption=[标题]
+portfolioScreen.nopics0=当前没有可显示的照片。
+portfolioScreen.nopics1=用相机拍摄的照片将显示在此处。

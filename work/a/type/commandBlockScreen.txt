@@ -1,0 +1,16 @@
+commandBlockScreen.blockType=方块类型：
+commandBlockScreen.blockType.impulse=脉冲
+commandBlockScreen.blockType.chain=连锁
+commandBlockScreen.blockType.repeat=循环
+commandBlockScreen.condition=条件：
+commandBlockScreen.condition.conditional=条件制约
+commandBlockScreen.condition.unconditional=不受制约
+commandBlockScreen.redstone=红石控制：
+commandBlockScreen.redstone.needs_redstone=需要红石
+commandBlockScreen.redstone.always_on=保持开启
+commandBlockScreen.tickDelay=延迟游戏刻数：
+commandBlockScreen.executeFirstTick=在首个延迟时执行
+commandBlockScreen.displayOutputMode=O
+commandBlockScreen.hideOutputMode=X
+commandBlockScreen.hoverNote=悬浮说明
+commandBlockScreen.title=命令方块

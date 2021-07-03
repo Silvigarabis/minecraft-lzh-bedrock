@@ -1,0 +1,14 @@
+library.prompt.inGameLink=此操作将保存并退出你当前的游戏和多人游戏连接，是否确定退出？
+library.fetchingItem=正在连接图书馆…
+library.fetchingItem.failed=抱歉，我们无法在图书馆中找到该物品。
+library.welcome.1=欢迎来到Minecraft教育版图书馆！
+library.welcome.2=这个图书馆是我们打造的一个新功能，可以让教师和学生们方便地在游戏中找到和导入教育内容。在这个版本中，你将在我们的网站上看到我们的一些可供你导入和使用的最受欢迎的世界，以及访问完整的世界图书馆的链接。
+library.welcome.3=我们正致力于在接下来的几个月中为更多类型的内容和功能添加支持。请通过点击反馈按钮让我们知道你的想法。
+library.item.sharepopup.title=分享
+library.item.sharepopup.shareLink=分享链接
+library.item.sharepopup.body=分享通向这个世界的链接。
+library.item.sharepopup.copy=复制
+library.item.sharepopup.copyButton=复制链接
+library.item.sharepopup.shareButton=分享到Teams
+library.item.share.toast.title=链接已复制到您的剪贴板。
+library.item.teams.msgTxt=在Minecraft教育版中查看%1世界。

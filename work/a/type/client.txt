@@ -1,0 +1,7 @@
+client.version.generic=%s更新
+client.version.1.0=末影更新（%s）
+client.version.1.1=探索更新（%s）
+client.version.1.2=独乐不如众乐更新（%s）
+client.version.1.4=水域更新（%s）
+client.version.1.5=水域更新（%s）
+client.version.1.11=村庄和掠夺更新（%s）

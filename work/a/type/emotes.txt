@@ -1,0 +1,3 @@
+emotes.change_emotes=更改表情
+emotes.execute=执行
+emotes.header_text=表情

@@ -1,0 +1,14 @@
+codeScreen.chooseEditor=选择编辑器：
+codeScreen.editor.description.makeCode=Microsoft MakeCode借助Minecraft将计算机科学带入生活之中。
+codeScreen.editor.description.tynker=使用Tynker建造自己的世界！使用代码制作小游戏、即时建筑和自己的模组。
+codeScreen.memoryWarning=此设备的内存不符合推荐要求。编辑器可能无法正常工作。
+codeScreen.memoryError=编辑器进程出错，请检查你的设备是否有足够的内存。
+codeScreen.needCheats=必须开启当前存档中的作弊选项才能写代码！
+codeScreen.networkError=无法连接网络。请检查你的网络设置。
+codeScreen.resetWarning=你确定要重置Code Builder吗？所有未保存的工作将会丢失…
+codeScreen.title=Code Builder
+codeScreen.buttonTTS.splitLeft=向左移动
+codeScreen.buttonTTS.splitRight=向右移动
+codeScreen.buttonTTS.selectEditor=选择编辑器
+codeScreen.buttonTTS.maximize=最大化
+codeScreen.buttonTTS.restore=恢复

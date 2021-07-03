@@ -1,0 +1,2 @@
+utility.zipFile=ZIP文件
+utility.pdfFile=PDF文件

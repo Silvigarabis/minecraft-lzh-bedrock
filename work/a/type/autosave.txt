@@ -1,0 +1,5 @@
+autosave.title=自动保存
+autosave.info.general=当你看到此图标时，我们正在保存你的游戏。当屏幕上出现此图标时，请不要关闭你的设备。
+autosave.info.nx=当你看到此图标时，我们正在保存你的游戏。当屏幕上出现此图标时，请不要关闭你的任天堂Switch。
+autosave.info.xbox=当你看到此图标时，我们正在保存你的游戏。当屏幕上出现此图标时，请不要关闭你的Xbox。
+autosave.info.desktop=当你看到此图标时，我们正在保存你的游戏。当屏幕上出现此图标时，请不要关闭你的电脑。

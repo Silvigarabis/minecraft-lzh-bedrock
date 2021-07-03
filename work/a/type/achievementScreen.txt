@@ -1,0 +1,7 @@
+achievementScreen.achievements:=成就：
+achievementScreen.gamerscore:=玩家分数：
+achievementScreen.hour=%d小时
+achievementScreen.hours=%d小时
+achievementScreen.timeplayed:=游戏时间：
+achievementScreen.fetchingAchievements=正在获取成就…
+achievementScreen.reward=奖励

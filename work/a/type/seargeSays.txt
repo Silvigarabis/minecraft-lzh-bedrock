@@ -1,0 +1,13 @@
+seargeSays.searge=Searge说：%s
+seargeSays.searge1=及时行乐
+seargeSays.searge2=中文Minecraft Wiki提醒你：道路千万条，安全第一条。游玩不规范，亲人两行泪。
+seargeSays.searge3=在Twitter上寻求帮助
+seargeSays.searge4=/deop @p
+seargeSays.searge5=删除记分板，阻止命令
+seargeSays.searge6=联系支持人员以寻求帮助
+seargeSays.searge7=/testfornoob @p
+seargeSays.searge8=/trigger warning
+seargeSays.searge9=哦我的天啊，全是统计数据
+seargeSays.searge10=/kill @p[name=!Searge]
+seargeSays.searge11=你试过关闭后再重新打开吗？
+seargeSays.searge12=抱歉，今天没有帮上忙

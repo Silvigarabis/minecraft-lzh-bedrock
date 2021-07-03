@@ -1,0 +1,8 @@
+network.onlinePlay.title=与好友一起玩
+network.onlinePlay.msg=你可以邀请好友加入你的世界、查看好友的作品，并在各自的世界中制作物品。
+network.onlinePlay.instruction=通过“游戏”菜单，你可以加入好友的世界，也可以邀请他们加入你的世界和Realm。
+network.thirdparty.connect.splitscreen=要玩分屏在线多人游戏，请登录至%s账户。
+network.thirdparty.connect.benefit=使用你的%s登录来与好友进行在线游戏，并查看商店内超酷的物品。
+network.thirdparty.connect.store=你将需要%s来浏览商店。
+network.thirdparty.connect.achievements=你将需要%s来赢得成就。
+network.thirdparty.findfriends.failed=我们无法连接到微软账户服务。请检查一下您的网络连接？

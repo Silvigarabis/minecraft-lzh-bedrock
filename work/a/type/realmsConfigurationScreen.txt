@@ -1,0 +1,9 @@
+realmsConfigurationScreen.realmName=Realm名称
+realmsConfigurationScreen.realmDescription=Realm描述
+realmsConfigurationScreen.open=打开Realm
+realmsConfigurationScreen.close=关闭Realm
+realmsConfigurationScreen.resetRealm=重置Realm会永远清除世界并重头开始。你确定要这样做吗？
+realmsConfigurationScreen.confirmReset=确认重置
+realmsConfigurationScreen.resetRealmTryAgain=重置Realm失败。是否要重试？
+realmsConfigurationScreen.failedOpenCloseTitle=打开/关闭失败。
+realmsConfigurationScreen.failedOpenClose=打开/关闭Realm失败。是否要重试？

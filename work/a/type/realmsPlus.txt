@@ -1,0 +1,4 @@
+realmsPlus.popup.top_button_text=更多信息
+realmsPlus.popup.bottom_button_text=续订
+realmsPlus.popup.title=Realms Plus订阅已过期
+realmsPlus.popup.message=您的Realms Plus订阅已过期。为了能够重新访问您的Realm和您从Realms Plus获得的包和皮肤，您需要进行续订。

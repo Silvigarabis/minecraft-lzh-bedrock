@@ -1,0 +1,1 @@
+networkWold.joinByCodeHelpText=如果你已收到Realm邀请链接，输入代码即可加入。

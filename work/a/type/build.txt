@@ -1,0 +1,2 @@
+build.tooHigh=建筑高度限制是%s个方块
+build.tooLow=建筑最低高度是%s个方块

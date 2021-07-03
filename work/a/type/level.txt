@@ -1,0 +1,8 @@
+level.launch.failed=存档启动失败
+level.export.started=存档导出已开始…
+level.import.started=存档导入已开始…
+level.export.success=存档导出成功
+level.import.success=存档导入成功
+level.export.failed=存档导出失败
+level.import.failed=存档导入失败
+level.import.failed.incompatibleEdition=存档导入失败：出现了不支持的格式。

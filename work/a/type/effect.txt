@@ -1,0 +1,2 @@
+effect.badOmen=不祥之兆
+effect.villageHero=村庄英雄

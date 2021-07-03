@@ -1,0 +1,2 @@
+licensed_content.goBack=返回
+licensed_content.viewLicensedContent=如你希望查看授权协议的内容，请使用任意网络浏览器访问https://minecraft.net/licensed-content/。

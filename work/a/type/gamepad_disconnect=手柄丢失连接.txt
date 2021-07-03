@@ -1,0 +1,1 @@
+gamepad_disconnect=手柄丢失连接

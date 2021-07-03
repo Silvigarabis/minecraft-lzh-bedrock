@@ -1,0 +1,3 @@
+labtable.combine=合成
+labtable.inuse=此实验台正在使用
+labtable.title=实验台

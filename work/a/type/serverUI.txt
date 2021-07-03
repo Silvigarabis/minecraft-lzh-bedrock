@@ -1,0 +1,2 @@
+serverUI.errorTitle=创建表单时出错。
+serverUI.errorDescription=接收的表单json无效。错误：%s

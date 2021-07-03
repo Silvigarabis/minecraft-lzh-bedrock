@@ -1,0 +1,1 @@
+skinpack.Education=教育版皮肤

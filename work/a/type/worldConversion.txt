@@ -1,0 +1,6 @@
+worldConversion.feedback.done.title=世界已提交
+worldConversion.feedback.failed.title=世界提交失败
+worldConversion.feedback.done.msg=非常感谢你向我们发送你的世界的副本，这将帮助我们找到错误！我们正致力于修复一些内容，因此未能及时就此特定世界给予回复。下面是你的回执，以确认我们已收到它：%s
+worldConversion.feedback.failed.msg=糟糕！我们未能收到你的世界。请尝试检查你的网络连接，或者稍后重新发送它。
+worldConversion.feedback.prompt.title=提交世界
+worldConversion.feedback.prompt.msg=你的旧世界未按预期方式显示或运行？向我们发送你的世界，这将帮助我们找到错误！

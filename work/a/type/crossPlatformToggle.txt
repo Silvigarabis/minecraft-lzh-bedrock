@@ -1,0 +1,12 @@
+crossPlatformToggle.startMenuScreen.title=跨平台游戏
+crossPlatformToggle.startMenuScreen.enable=启用跨平台游戏
+crossPlatformToggle.startMenuScreen.enable.line1=您想要启用跨平台游戏吗？
+crossPlatformToggle.startMenuScreen.enable.line2=跨平台游戏能够让您连接到其他平台上的好友，并与他们一同游戏！
+crossPlatformToggle.startMenuScreen.disable=禁用跨平台游戏
+crossPlatformToggle.startMenuScreen.disable.line1=您想要禁用跨平台游戏吗？
+crossPlatformToggle.startMenuScreen.disable.line2=您将无法与其他平台上的好友连接或者与他们一起玩。
+crossPlatformToggle.crossPlatformDisabled.friends=在主菜单中启用跨平台游戏，您将能够加入Realm、局域网游戏，并和你所有的Minecraft好友一起游戏。
+crossPlatformToggle.crossPlatformDisabled.invite=在主菜单中启用跨平台游戏以邀请其他平台上的好友。
+crossPlatformToggle.crossPlatformDisabled.realms=在主菜单中启用跨平台游戏以加入Realm。
+crossPlatformToggle.crossPlatformDisabled.servers=在主菜单中启用跨平台游戏以添加或加入服务器。
+crossPlatformToggle.crossPlatformDisabled.multiplayerSettings=在主菜单中启用跨平台游戏，与其他平台上的好友一起玩。

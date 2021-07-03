@@ -1,0 +1,16 @@
+trade.doesNotWant=商人不需要它
+trade.excalamation=！
+trade.expProgress=经验：%d/%d
+trade.expMax=经验：最大
+trade.levelPrefix=%d级
+trade.levelPrefixAndName=%d级%s
+trade.levelPrefixAndName.max=最高级%s
+trade.level.1=新手
+trade.level.2=学徒
+trade.level.3=老手
+trade.level.4=专家
+trade.level.5=大师
+trade.mysteriousText=哒啦
+trade.notEnough=%s不足
+trade.question=？
+trade.trade=交易

@@ -1,0 +1,6 @@
+comment.like=%d个赞
+comment.likes=%d个赞
+comment.comment=%d个评论
+comment.comments=%d个评论
+comment.likes_and_comments=%1和%2
+comment.commentplaceholder=评论…

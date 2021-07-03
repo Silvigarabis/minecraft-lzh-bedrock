@@ -1,0 +1,9 @@
+uiPackError.invalidChildNames=%s: 子空间必须具有唯一的名称：%s。这在将来会报错，会无法加载此文件。
+uiPackError.parseError=%s：无法分析UI JSON文件与堆栈：%s
+uiPackError.missingControl=%s：无法找到该控件：%s
+uiPackError.missingControlTarget=%s (%s): 在操作“%s”期间无法找到控件“%s”
+uiPackError.missingArrayName=%s (%s)：缺少字段“array_name”或“control_name”。 
+uiPackError.missingCondition=%s (%s)：缺少操作条件“%s”。
+uiPackError.missingValue=%s (%s)：缺少操作值“%s”。
+uiPackError.missingOperation=%s (%s)：缺少操作。
+uiPackError.invalidOperationName=%s (%s)：无效的操作“%s”。

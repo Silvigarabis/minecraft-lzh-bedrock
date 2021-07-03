@@ -1,0 +1,5 @@
+onlinePlay.notRated=在线游戏未评级
+onlinePlay.message=在线游戏期间，您可能会接触到聊天信息或其他类型的未评级用户内容，可能不适合所有年龄段的用户。
+onlinePlay.doNotShowAgain=不再提示
+onlinePlay.proceed=继续
+onlinePlay.Back=返回

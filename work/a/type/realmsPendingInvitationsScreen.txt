@@ -1,0 +1,7 @@
+realmsPendingInvitationsScreen.pendingInvitations=Realm成员邀请
+realmsPendingInvitationsScreen.noInvites=你没有待处理的邀请。
+realmsPendingInvitationsScreen.fetchingInvites=正在提取邀请…
+realmsPendingInvitationsScreen.decline=拒绝
+realmsPendingInvitationsScreen.accepted=已接受
+realmsPendingInvitationsScreen.declined=已拒绝
+realmsPendingInvitationsScreen.showFriendInvites=只显示来自好友的邀请。

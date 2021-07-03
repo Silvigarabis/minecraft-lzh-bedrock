@@ -1,0 +1,5 @@
+worldConversionErrorPrompt.title=世界转换失败
+worldConversionErrorPrompt.message=槽糕，在世界转换过程中出错了。请稍后再试。
+worldConversionErrorPrompt.message.upload=出错了。我们无法转换你的世界。你可以通过稍后转到旧世界并按:_gamepad_face_button_up:来向我们发送你的世界，或者立即向我们发送你的世界，以便我们进行进一步分析。
+worldConversionErrorPrompt.sendWorld=立即发送世界
+worldConversionErrorPrompt.backToWorld=返回世界

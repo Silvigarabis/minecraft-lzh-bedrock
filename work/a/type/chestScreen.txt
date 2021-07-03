@@ -1,0 +1,3 @@
+chestScreen.header.large=大型箱子
+chestScreen.header.player=物品栏
+chestScreen.header.small=箱子

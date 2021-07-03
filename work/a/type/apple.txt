@@ -1,0 +1,10 @@
+apple.iCloudDisabled.title=别把你的存档弄丢了！
+apple.iCloudDisabled.message=你的存档没有保存妥当。当你下次玩Minecraft时，可能就找不到它了。请前往Apple TV设置，开启iCloud，确保所有存档保存完好。
+apple.iCloudDisabled.button.turnOnICloud=开启iCloud
+apple.iCloudNoSpace.message=你的iCloud可用空间不足，无法妥当保存存档。当你下次玩Minecraft时，可能就找不到它了。请释放iCloud账户上的空间，确保所有存档保存完好。
+apple.iCloudNoSpace.button.manageICloud=管理iCloud
+apple.iCloudNoInternet.message=你需要网络连接才能妥当保存存档。当你下次玩Minecraft时，可能就找不到它了。请重新连接到互联网，确保所有存档保存完好。
+apple.iCloudSignInRequired.title=登录
+apple.iCloudSignInRequired.message=你必须登录iCloud才能玩Minecraft。请转到Apple TV设置并打开iCloud。
+apple.iCloudUserChanged.message=你已经登录新的iCloud账户。你将需要重新启动Minecraft才能进入游戏。
+apple.LocalNetworkPermission.message=Minecraft想要访问您的本地网络。这将允许你和本地网络上的其他玩家一起游玩。拒绝此权限不会影响在线功能或游戏，但会阻止你和处于同一网络的其他玩家一起游玩。

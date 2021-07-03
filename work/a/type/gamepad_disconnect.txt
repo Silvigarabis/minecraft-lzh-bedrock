@@ -1,0 +1,1 @@
+gamepad_disconnect.reconnectController=你的手柄已丢失连接。请重新连接你的手柄才能继续。

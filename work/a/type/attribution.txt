@@ -1,0 +1,2 @@
+attribution.goBack=返回
+attribution.viewAttribution=要查看开源库使用情况，请在任意浏览器中访问 https://minecraft.net/attribution。

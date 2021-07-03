@@ -1,0 +1,1 @@
+start.beta.icon=Beta版

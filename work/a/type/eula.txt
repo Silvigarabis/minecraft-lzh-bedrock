@@ -1,0 +1,7 @@
+eula.intro=要使用Minecraft教育版，你必须接受最终用户许可协议（EULA）。
+eula.location=EULA地址：
+eula.hyperlink=http://education.minecraft.net/eula
+eula.title=最终用户许可协议
+eula.view=查看最终用户许可协议
+eula.callToAction=点击“接受”以接受该协议条款。
+eula.acceptButton=接受

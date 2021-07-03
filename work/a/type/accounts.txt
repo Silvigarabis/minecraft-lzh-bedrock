@@ -1,0 +1,4 @@
+accounts.name=名称：%s（%s）
+accounts.signedInAs=已登录为
+accounts.signOutConfirmation=是否要注销并切换账户？
+accounts.switch=切换账户

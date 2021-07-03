@@ -1,0 +1,2 @@
+verification.nolicense.title=出现错误
+verification.nolicense.description=我们确认你在此设备上拥有Minecraft时遇到了困难。请确保你已经从商店下载并安装了Minecraft，或重新连接到互联网并再试一次。

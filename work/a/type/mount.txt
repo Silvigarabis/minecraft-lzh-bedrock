@@ -1,0 +1,1 @@
+mount.onboard=按下%1$s来脱离

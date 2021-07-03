@@ -1,0 +1,4 @@
+pack.authors.label=作者：%s
+pack.authors.none=未知
+pack.name=化学
+pack.description=在Minecraft中探索化学的世界！

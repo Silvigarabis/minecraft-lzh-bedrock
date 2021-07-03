@@ -1,0 +1,16 @@
+worldConversionErrorReport.title=报告此世界
+worldConversionErrorReport.button.reportAndSend=报告和发送世界
+worldConversionErrorReport.dropdown.default=哪里出错了？
+worldConversionErrorReport.dropdown.mobs=生物行为出问题或失踪
+worldConversionErrorReport.dropdown.terrain=地形被破坏或缺失
+worldConversionErrorReport.dropdown.itemsMissing=我的物品、作品和/或玩家统计信息缺失
+worldConversionErrorReport.dropdown.itemInteraction=无法与物品交互
+worldConversionErrorReport.dropdown.worldConversion=世界转换失败
+worldConversionErrorReport.terms.agreement=按下“同意”，即表示你同意将你的世界上传到Minecraft团队。Microsoft服务协议和隐私声明将适用于此处。
+worldConversionErrorReport.terms.agreementForBeta=上传你的世界，即表示你授权Microsoft测试、复制、修改、分发和公开显示你的世界。
+worldConversionErrorReport.terms.viewTerms=查看条款
+worldConversionErrorReport.sending.title=正在发送旧世界
+worldConversionErrorReport.sending.description=正在将旧世界发送到Minecraft…
+worldConversionErrorReport.sending.complete=发送已完成
+worldConversionErrorReport.sending.completeMessage.part1=非常感谢！我们正致力于修复一些内容，因此未能及时就此特定世界给予回复。下面是你的回执，用以确认我们已收到它：
+worldConversionErrorReport.sending.completeMessage.part2=回执：%s

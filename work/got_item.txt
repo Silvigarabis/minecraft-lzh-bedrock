@@ -1,0 +1,10 @@
+item.apple.name item.minecraft.apple
+item.axolotlColorLucy.name item.minecraft.firework_star.pink
+item.axolotlColorCyan.name item.minecraft.firework_star.cyan
+item.axolotlColorWild.name item.minecraft.firework_star.brown
+item.axolotlColorBlue.name item.minecraft.firework_star.blue
+item.golden_apple.name item.minecraft.golden_apple
+item.appleEnchanted.name item.minecraft.enchanted_golden_apple
+item.armor_stand.name item.minecraft.armor_stand
+item.arrow.name item.minecraft.arrow
+item.tipped_arrow.name item.minecraft.tipped_arrow item.minecraft.tipped_arrow.effect.awkward item.minecraft.tipped_arrow.effect.mundane item.minecraft.tipped_arrow.effect.thick

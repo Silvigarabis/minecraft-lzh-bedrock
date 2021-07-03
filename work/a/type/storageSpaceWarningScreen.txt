@@ -1,0 +1,3 @@
+storageSpaceWarningScreen.frontend=你的存储空间即将不足！Minecraft已限制了该功能的访问，直至你清理出额外的存储空间为止。
+storageSpaceWarningScreen.lowduringgameplay=你的设备空间不足，Minecraft无法在此设备上存储世界和设置。请删除一些你不需要的旧东西，便于你保存新内容。
+storageSpaceWarningScreen.fullduringgameplay=你的存储空间不足，Minecraft无法保存你的进度！ Minecraft将帮助你回到主菜单，以清理出额外的存储空间。

@@ -1,0 +1,2 @@
+connect_gamepad.warning.controllerRequired=需要手柄
+connect_gamepad.pressButtonToContinue=请在手柄上按“A”后继续

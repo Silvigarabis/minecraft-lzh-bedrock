@@ -1,0 +1,11 @@
+feedbackScreen.button=反馈
+feedbackScreen.title=有反馈意见？
+feedbackScreen.suggestion=提出建议！
+feedbackScreen.bug=报告漏洞！
+feedbackScreen.help=需要帮助？
+feedbackScreen.body=有可以帮助Minecraft改进的点子？发现了一个你认为应该修复的漏洞？还是遇到了一个你需要帮助的问题？告诉我们！
+feedbackScreen.consoleMessage=使用其他设备访问此网站：%s
+feedbackScreen.suggestion.url.tts=h t t p s 冒号 斜杠 斜杠 a k a 点 m s 斜杠 m i n e c r a f t f b
+feedbackScreen.bugs.url.tts=h t t p s 冒号 斜杠 斜杠 a k a 点 m s 斜杠 m c b u g s
+feedbackScreen.help.url.tts=h t t p s 冒号 斜杠 斜杠 a k a 点 m s 斜杠 h e l p M C
+feedbackScreen.helpxbox.url.tts=h t t p s 冒号 斜杠 斜杠 a k a 点 m s 斜杠 h e l p x b o x

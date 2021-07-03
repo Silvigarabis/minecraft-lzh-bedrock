@@ -1,0 +1,11 @@
+advMode.allEntities=用“@e”来代表全部实体
+advMode.allPlayers=用“@a”来代表全部玩家
+advMode.command=控制台命令
+advMode.nearestPlayer=用“@p”来代表最近的玩家
+advMode.notAllowed=必须是处于创造模式的管理员
+advMode.notEnabled=命令方块在此服务器上未启用
+advMode.previousOutput=上一个输出
+advMode.randomPlayer=用“@r”来代表随机玩家
+advMode.self=用“@s”来代表自己
+advMode.setCommand=设置此方块的控制台命令
+advMode.setCommand.success=成功设置：%s

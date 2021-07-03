@@ -1,0 +1,2 @@
+tutorial.edu.menuTitle=玩法教学
+tutorial.edu.title=教程

@@ -1,0 +1,1 @@
+credits.skip=跳过

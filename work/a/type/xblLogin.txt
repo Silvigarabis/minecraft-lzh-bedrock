@@ -1,0 +1,7 @@
+xblLogin.LoginMessageTitle=微软账户
+xblLogin.LoginMessage=连接中…
+xblLogin.LoginMessageGearVR=请将手机从头盔上取下，登录至Xbox Live。
+xblLogin.AddFriendMessageGearVR=请将手机从头盔上取下，添加Xbox Live好友。
+xblLogin.LoginMessageRift=请取下头盔，登录至Xbox Live。
+xblLogin.AddFriendMessageRift=请取下头盔，添加Xbox Live好友。
+xblLogin.ShowGamerCardMessageRift=请取下头盔，查看玩家卡。

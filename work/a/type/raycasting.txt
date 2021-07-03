@@ -1,0 +1,2 @@
+raycasting.purchase.error=我们检测到您的设备不符合运行此资源包的系统要求，因此您无法下载此资源包。您可以查看以下最低系统要求：%s+ GPU：硬件支持光线追踪的GPU，如NVIDIA GeForce RTX 2060或更高版本。在minecraft.net查看常见问题解答了解更多细节。%s+ RAM：8GB或更高。%s+ CPU：Intel Core i5或同等产品
+raycasting.purchase.error.title=系统需求警告

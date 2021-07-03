@@ -1,0 +1,15 @@
+feature.endcity=末地城
+feature.fortress=下界要塞
+feature.mansion=林地府邸
+feature.mineshaft=废弃矿井
+feature.missingno=未知结构
+feature.monument=海底神殿
+feature.stronghold=要塞
+feature.temple=神庙
+feature.village=村庄
+feature.shipwreck=沉船
+feature.buriedtreasure=埋藏的宝藏
+feature.ruins=海底废墟
+feature.pillageroutpost=掠夺者前哨站
+feature.bastionremnant=堡垒遗迹
+feature.ruinedportal=废弃传送门

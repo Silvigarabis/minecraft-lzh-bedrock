@@ -1,0 +1,4 @@
+realmsPlusUpgradeNotice.title=欢迎使用Realms Plus！
+realmsPlusUpgradeNotice.body=您的Realms订阅已升级为Realms Plus。现在您无需花费额外的费用，即可访问来自商城的150多个内容包。至多10位玩家可以同时游玩，他们还可以访问您的Realm内的所有订阅内容——而且免费！
+realmsPlusUpgradeNotice.continue=继续
+realmsPlusUpgradeNotice.viewpacks=查看Realms Plus包
